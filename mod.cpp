@@ -1,4 +1,4 @@
-author = "SEP Team";
+author = "Cover Fire Studios";
 
 name = "Spearhead Expansion Project";
 
