@@ -6,7 +6,7 @@ tooltip = "Spearhead Expansion Project";
 tooltipOwned = "Spearhead Expansion Project";
 
 picture = "SEP_MISC\data\SEP_LogoTitle_ca.paa";
-overview = "The Spearhead Expansion Project (SEP) is focused on fleshing out the available factions in the Spearhead 1944 CDLC. This modification uses the Spearhead 1944 CDLC from Heavy Ordnance Works.";
+overview = "The Spearhead Expansion Project (SEP) is focused on fleshing out the available factions in the Spearhead 1944 CDLC. This modification uses the Spearhead 1944 CDLC and SPEX - Spearhead Extended from Heavy Ordnance Works.";
 
 action = "https://discord.gg/dQxPyvVCaC";
 actionName = "Discord";
