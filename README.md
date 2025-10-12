@@ -9,3 +9,4 @@ This repository is released under the APL-SA license, or "Share Alike". To use t
 Any assets not included in the Public Repository are not available due to their status as commercial licenses, or at the request of the creator. Otherwise, content created by the Spearhead Expansion Project team will be included here and remain open source. We will aim to update this repository with every new public release. Any content that is not included in this repository can be presumed to be APL-ND.
 
 For further information, or to request access to specific assets, please get in contact with the team on Discord.
+
