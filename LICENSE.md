@@ -1,8 +1,6 @@
 This modification is released under Arma Public License Share Alike (APL-SA), a full summary of which can be found at the hyperlink below. Some .pbo-files or folders of this project may instead be released under Arma Public License Share Alike (APL-SA) via our public GitHub repository. Should that be the case, everything in that .pbo-file, folder and all subfolders is subject to that license instead.
 
-
-     # Arma Public License Share Alike (APL-SA) - https://www.bohemia.net/community/licenses/arma-public-license-share-alike
-
+# Arma Public License Share Alike (APL-SA) - https://www.bohemia.net/community/licenses/arma-public-license-share-alike
 
 Brief summary of this Licence
 
