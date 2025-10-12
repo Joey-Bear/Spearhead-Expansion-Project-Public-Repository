@@ -6,4 +6,6 @@ The Spearhead Expansion Project (SEP) is focused on fleshing out the available f
 
 This repository is released under the APL-SA license, or "Share Alike". To use the content of this mod, your mod must also be open source or APL-SA. Please check this link for more information: https://www.bohemia.net/community/licenses/arma-public-license-share-alike 
 
-Any assets not included in the Public Repository are not available due to their status as commercial licenses, or at the request of the creator. However, all content created by the Spearhead Expansion Project team will be included here and remain open source. We will aim to update this repository with every new public release. Any content that is not included in this repository can be presumed to be APL-ND.
+Any assets not included in the Public Repository are not available due to their status as commercial licenses, or at the request of the creator. Otherwise, content created by the Spearhead Expansion Project team will be included here and remain open source. We will aim to update this repository with every new public release. Any content that is not included in this repository can be presumed to be APL-ND.
+
+For further information, or to request access to specific assets, please get in contact with the team on Discord.
