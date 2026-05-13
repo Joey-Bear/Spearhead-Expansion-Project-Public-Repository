@@ -36,7 +36,7 @@ class SEP_I_US_WIN_P47D: SPE_P47
 			factions[]=
 			{
 			};
-			displayname="Força Expedicionária Brasileira";
+			displayname="Bare Metal";
 			author="Hyena";
 			materials[] = 
 			{

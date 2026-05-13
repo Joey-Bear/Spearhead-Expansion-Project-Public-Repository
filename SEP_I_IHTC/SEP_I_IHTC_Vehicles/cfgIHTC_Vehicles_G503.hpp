@@ -15,7 +15,7 @@ class SEP_I_IHTC_G503_MB : SPE_G503_MB_Unarmed_base
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_G503_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -31,7 +31,7 @@ class SEP_I_IHTC_G503_MB : SPE_G503_MB_Unarmed_base
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_G503_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -55,7 +55,7 @@ class SEP_I_IHTC_G503_MB_M1919 : SPE_US_G503_MB_M1919_base
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_G503_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -71,7 +71,7 @@ class SEP_I_IHTC_G503_MB_M1919 : SPE_US_G503_MB_M1919_base
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_G503_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -96,7 +96,7 @@ class SEP_I_IHTC_G503_MB_Armoured : SPE_G503_MB_Armoured_base
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_G503_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};	
 	class TextureSources
@@ -112,7 +112,7 @@ class SEP_I_IHTC_G503_MB_Armoured : SPE_G503_MB_Armoured_base
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_G503_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -136,7 +136,7 @@ class SEP_I_IHTC_G503_MB_M1919_Armoured : SPE_US_G503_MB_M1919_Armoured_base
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_G503_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};	
 	class TextureSources
@@ -152,7 +152,7 @@ class SEP_I_IHTC_G503_MB_M1919_Armoured : SPE_US_G503_MB_M1919_Armoured_base
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_G503_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -216,7 +216,7 @@ class SEP_I_IHTC_G503_MB_Open : SPE_G503_MB_Open_base
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_G503_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -232,7 +232,7 @@ class SEP_I_IHTC_G503_MB_Open : SPE_G503_MB_Open_base
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_G503_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};

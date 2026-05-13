@@ -1,3 +1,4 @@
+/*
 class CfgPatches
 {
 	class SEP_WP
@@ -52,3 +53,4 @@ class cfgWeapons
 		};
     };
 };
+*/

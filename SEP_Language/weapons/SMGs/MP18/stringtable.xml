@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Spearhead Expansion Project">
+	<Package name="SEP_WP_MP18">
+		<Container name="displayName">
+			<Key ID="STR_SEP_WP_MP18_displayName">
+				<Original>MP 18/I</Original>
+				<English>MP 18/I</English>
+			</Key>
+
+			<Key ID="STR_SEP_WP_MP28_displayName">
+				<Original>MP 28/II</Original>
+				<English>MP 28/II</English>
+			</Key>
+		</Container>
+
+		<Container name="Library">
+			<Key ID="STR_SEP_WP_MP18_description">
+				<Original>Manufacturer: Bergmann Waffenfabrik%1Length: 32.8 inches%1Ammunition: 9×19mm Parabellum%1Rate of Fire: 450 rpm%1Weight: 4.09kg%1Firing Mode(s): Automatic%1Magazine: 32-round detachable drum magazine%1Effective Range: 200 meters%1%1The MP 18/I is a submachine gun that first entered service during the closing months of the First World War. Chambered in 9×19mm Parabellum, the MP 18/I fed from a TM 08 Luger snail drum magazine. Designed by Hugo Schmeisser and manufactured by Bergmann Waffenfabrik, it operated on a simple blowback action and was the first practical submachine gun to see combat.</Original>
+				<English>Manufacturer: Bergmann Waffenfabrik%1Length: 32.8 inches%1Ammunition: 9×19mm Parabellum%1Rate of Fire: 450 rpm%1Weight: 4.09kg%1Firing Mode(s): Automatic%1Magazine: 32-round detachable drum magazine%1Effective Range: 200 meters%1%1The MP 18/I is a submachine gun that first entered service during the closing months of the First World War. Chambered in 9×19mm Parabellum, the MP 18/I fed from a TM 08 Luger snail drum magazine. Designed by Hugo Schmeisser and manufactured by Bergmann Waffenfabrik, it operated on a simple blowback action and was the first practical submachine gun to see combat.</English>
+			</Key>
+
+			<Key ID="STR_SEP_WP_MP28_description">
+				<Original>Manufacturer: C.G. Haenel%1Length: 32.8 inches%1Ammunition: 9×19mm Parabellum%1Rate of Fire: 600 rpm%1Weight: 4.09kg%1Firing Mode(s): Automatic, Semi-Automatic%1Magazine: 32-round detachable box magazine%1Effective Range: 200 meters%1%1Developed in the late 1920s as an improved successor to the MP 18/I, the MP 28/II is a submachine gun chambered in the same 9×19mm Parabellum cartridge as its predecessor, feeding from a straight 32-round detachable box magazine. Designed by Hugo Schmeisser and produced by C.G. Haenel, it introduced a selective-fire mechanism and various refinements to reliability and handling.</Original>
+				<English>Manufacturer: C.G. Haenel%1Length: 32.8 inches%1Ammunition: 9×19mm Parabellum%1Rate of Fire: 600 rpm%1Weight: 4.09kg%1Firing Mode(s): Automatic, Semi-Automatic%1Magazine: 32-round detachable box magazine%1Effective Range: 200 meters%1%1Developed in the late 1920s as an improved successor to the MP 18/I, the MP 28/II is a submachine gun chambered in the same 9×19mm Parabellum cartridge as its predecessor, feeding from a straight 32-round detachable box magazine. Designed by Hugo Schmeisser and produced by C.G. Haenel, it introduced a selective-fire mechanism and various refinements to reliability and handling.</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>

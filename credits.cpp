@@ -4,27 +4,34 @@
 - Joe            -  Project Lead
 - OokamiJamie    -  Project Lead
 
-- Hyena		     -  Entry Developer
+- Hyena		     -  Developer
+
+- frim			 -	Entry Developer
+- Lukinator	     -  Entry Developer
 
 ============================================================
 
 📧 Contributors 📧
 - Axle			 -  Sound assets (MAS-38)
-- Lukinator      -  Asset porting / contributions (MAS-38, Feldgendarmerie Gorget) and tech support
-- Ture Right     -  Asset porting / contributions (MP 507) and tech support
+- Ture Right     -  Asset porting / contributions (Astra M300, MP 507) and tech support
 - simcardo       -  Uniform assets and tech support
+- Winter	     -  Texturing contribution (PPK)
 
 ============================================================
 
 🫂 Miscellaneous Support & Dependencies 🫂
 - Anthrax                -  Macro's
-- AveryTheKitty          -  Various templates.
+- AveryTheKitty          -  Various templates
 - DMOrchard              -  Spearhead 1944 Templates
+- Flex7103				 -	Miscellaneous config / tech support
 - Grave                  -  E22 Identities (Hispanic faces) and mod logo
+- StellaStrela			 -	Italian M1929 (Telo mimetico) pattern
+- Valentine / Lengfelder -	Texture and tech support
 
 ============================================================
 
-🏛️  Groups 🏛️
+🏛️ Groups 🏛️
+- Arma 3 Aegis 			 -	A3_Aegis_Public_Releases
 - Bohemia Interactive    -  The ArmA series
 - Heavy Ordnance Works   -  Creator DLC: Spearhead 1944, including samples and tech support
 
@@ -48,5 +55,15 @@ PURCHASED
 - MP41 Submachine Gun by creation-wasteland*               -  https://www.cgtrader.com/3d-models/military/gun/mp41-submachine-gun
 - 37mm Pak 36 Anti Tank Gun by OK3D						   -  https://www.cgtrader.com/3d-models/military/gun/37mm-pak-36-anti-tank-gun
 - Bofors 37mm by OK3D									   -  https://www.cgtrader.com/3d-models/military/military-vehicle/bofors-37mm-29b2e828-a80d-43fa-b197-e6f0446f1578
+- Vickers 7TP by witold-dlubakowski						   -  https://www.cgtrader.com/3d-models/military/military-vehicle/the-english-vickers-polish-7tp-tank-low-poly-low-poly-3d-model
+- T-26 Light Infantry Tank by OK3D						   -  https://www.cgtrader.com/3d-models/vehicle/military-vehicle/t-26-light-infantry-tank-070412cd-4730-4c42-b2e0-08b11cfe7e96
+- T-26-4 Light Infantry Tank by OK3D					   -  https://www.cgtrader.com/3d-models/vehicle/military-vehicle/t-26-light-infantry-tank-070412cd-4730-4c42-b2e0-08b11cfe7e96
 
 *May / may not be implemented.
+
+============================================================
+
+💂 Patrons 💂
+- icuras
+- Moon Man
+- SH

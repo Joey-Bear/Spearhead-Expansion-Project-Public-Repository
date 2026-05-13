@@ -113,7 +113,7 @@ class SEP_B_GER_Volk_Militia_K98 : SEP_B_GER_Soldier_Base
 	identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
 	genericNames = "SPE_GermanMen";
   
-	uniformClass = "SEP_B_GER_U_Suit_Swetr_Brn";
+	uniformClass = "SEP_B_GER_U_Jacket_bruin_swetr";
 
 	linkedItems[] = {"SEP_B_GER_H_FieldCap_Brn","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
 	respawnlinkedItems[] = {"SEP_B_GER_H_FieldCap_Brn","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
@@ -146,7 +146,7 @@ class SEP_B_GER_Volk_Militia_G98 : SEP_B_GER_Soldier_Base
 	identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
 	genericNames = "SPE_GermanMen";
   
-	uniformClass = "SEP_B_GER_U_Coverall_Blu";
+	uniformClass = "SEP_B_GER_U_Worker_Coverall_2";
 
 	linkedItems[] = {"H_SPE_CIV_Worker_Cap_1","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
 	respawnlinkedItems[] = {"H_SPE_CIV_Worker_Cap_1","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
@@ -211,7 +211,7 @@ class SEP_B_GER_Volk_Militia_Unr : SEP_B_GER_Soldier_Base
 	identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
 	genericNames = "SPE_GermanMen";
 
-	uniformClass = "SEP_B_GER_U_Suit_Swetr_Brn";
+	uniformClass = "SEP_B_GER_U_Jacket_bruin_swetr";
 
 	linkedItems[] = {"SEP_B_GER_H_FieldCap_Brn","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
 	respawnlinkedItems[] = {"SEP_B_GER_H_FieldCap_Brn","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
@@ -310,7 +310,7 @@ class SEP_B_GER_Volk_AMG : SEP_B_GER_Soldier_Base
 	identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
 	genericNames = "SPE_GermanMen";
 
-	uniformClass = "SEP_B_GER_U_Coverall_Blu";
+	uniformClass = "SEP_B_GER_U_Worker_Coverall_1";
 
 	linkedItems[] = {"H_SPE_GER_Helmet","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
 	respawnlinkedItems[] = {"H_SPE_GER_Helmet","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
@@ -359,7 +359,7 @@ class SEP_B_GER_Volk_SL : SEP_B_GER_Soldier_Base
 	
 	backpack = "B_SPE_GER_Belt_bag_K98k_MG";	
 };
-
+/*
 class SEP_B_GER_Volk_ASL : SEP_B_GER_Soldier_Base
 {
 	author = "Joe";
@@ -391,7 +391,7 @@ class SEP_B_GER_Volk_ASL : SEP_B_GER_Soldier_Base
 	respawnMagazines[] = {MAG_10(SPE_32Rnd_9x19),MAG_2(SPE_Shg24)};
 	
 	backpack = "B_SPE_GER_Belt_bag_K98k_MG";	
-};
+};*/
 
 class SEP_B_GER_Volk_Sniper : SEP_B_GER_Soldier_Base
 {
@@ -474,7 +474,7 @@ class SEP_B_GER_Volk_AT_PZ30 : SEP_B_GER_Soldier_Base
 	identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
 	genericNames = "SPE_GermanMen";
 
-	uniformClass = "SEP_B_GER_U_Suit_Blk";
+	uniformClass = "SEP_B_GER_U_Jacket_zwart_swetr";
 
 	linkedItems[] = {"H_SPE_GER_Helmet","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
 	respawnlinkedItems[] = {"H_SPE_GER_Helmet","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
@@ -507,7 +507,7 @@ class SEP_B_GER_Volk_AT_PZ60 : SEP_B_GER_Soldier_Base
 	identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
 	genericNames = "SPE_GermanMen";
 
-	uniformClass = "SEP_B_GER_U_Suit_Gry";
+	uniformClass = "SEP_B_GER_U_Jacket_grijs";
 
 	linkedItems[] = {"SEP_B_GER_H_FieldCap_Brn","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
 	respawnlinkedItems[] = {"SEP_B_GER_H_FieldCap_Brn","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
@@ -606,7 +606,7 @@ class SEP_B_GER_Volk_Medic : SEP_B_GER_Soldier_Base
 	identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
 	genericNames = "SPE_GermanMen";
 
-	uniformClass = "SEP_B_GER_U_Suit_Swetr_Brn";
+	uniformClass = "SEP_B_GER_U_Jacket_bruin_swetr";
 
 	linkedItems[] = {"H_SPE_GER_Helmet_Medic","G_SPE_Dienst_Brille","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
 	respawnlinkedItems[] = {"H_SPE_GER_Helmet_Medic","G_SPE_Dienst_Brille","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
@@ -639,7 +639,7 @@ class SEP_B_GER_Volk_Sapper_Gefr : SEP_B_GER_Soldier_Base
 	identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
 	genericNames = "SPE_GermanMen";
 
-	uniformClass = "SEP_B_GER_U_FieldUniform_Volk_Unblsd_Gefr";
+	uniformClass = "SEP_B_GER_U_FieldUniform_Volk_Unblsd_Unter";
 
 	linkedItems[] = {"H_SPE_GER_Helmet","V_SPE_GER_PioneerVest","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
 	respawnlinkedItems[] = {"H_SPE_GER_Helmet","V_SPE_GER_PioneerVest","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};

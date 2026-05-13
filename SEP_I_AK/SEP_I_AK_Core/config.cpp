@@ -15,8 +15,8 @@ class CfgFactionClasses
 	{
         displayName = "[SEP] Polish Resistance";
         side = 2;
-	    flag = "";
-        icon = "";
+		flag = "\SEP_I_AK\SEP_I_AK_Core\data\flag_AK_co.paa";
+		icon = "\SEP_I_AK\SEP_I_AK_Core\data\cfgFactionClasses_AK_ca.paa";
         priority = 1;
 	};
 };

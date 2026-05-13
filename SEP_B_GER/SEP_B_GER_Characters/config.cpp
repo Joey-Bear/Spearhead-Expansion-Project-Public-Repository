@@ -3,7 +3,8 @@ class CfgPatches
 {
 	class SEP_B_GER_Characters
 	{
-        units[] = {
+        units[] = 
+		{
 			//Infantry (Wehrmacht) - Volkssturm//
 			"SEP_B_GER_Volk_Rflmn",
 			"SEP_B_GER_Volk_Rflmn_MP507",
@@ -16,7 +17,7 @@ class CfgPatches
 			"SEP_B_GER_Volk_MG_MG34",
 			"SEP_B_GER_Volk_AMG",
 			"SEP_B_GER_Volk_SL",
-			"SEP_B_GER_Volk_ASL",
+			//"SEP_B_GER_Volk_ASL",
 			"SEP_B_GER_Volk_Sniper",
 			"SEP_B_GER_Volk_AT_Grenadier",
 			"SEP_B_GER_Volk_AT_PZ30",
@@ -463,7 +464,8 @@ class CfgPatches
 			"SEP_B_GER_Sturm_WIN_Tank_Unterofficer",
 			"SEP_B_GER_Sturm_WIN_Tank_Lieutenant"			
         };
-        weapons[] = {
+        weapons[] = 
+		{
 			//Facewear//
 			"SEP_B_GER_F_Feld_Gorget",
 			//NVGs//
@@ -477,13 +479,34 @@ class CfgPatches
             "SEP_B_GER_H_SideCap_2_DAK",
             "SEP_B_GER_H_SideCap_DAK_alt",
             "SEP_B_GER_H_SideCap_2_DAK_alt",
-			"SEP_B_GER_H_Stahlhelm_BD",
+			//Headgear - Blue Division//
+			"SEP_B_GER_H_Stahlhelm_1940_BD",
+			"SEP_B_GER_H_Stahlhelm_1940_BD_ns",
+			"SEP_B_GER_H_Stahlhelm_1940_BD_Utility",
+			"SEP_B_GER_H_Stahlhelm_1940_BD_Utility_ns",
+			"SEP_B_GER_H_Stahlhelm_1940_BD_Glasses",
+			"SEP_B_GER_H_Stahlhelm_1940_BD_Glasses_ns",
+			"SEP_B_GER_H_Stahlhelm_1940_BD_Net",
+			"SEP_B_GER_H_Stahlhelm_1940_BD_Net_ns",
+			"SEP_B_GER_H_Stahlhelm_1940_BD_wire",
+			"SEP_B_GER_H_Stahlhelm_1940_BD_wire_ns",
+			"SEP_B_GER_H_Stahlhelm_1942_BD",
+			"SEP_B_GER_H_Stahlhelm_1942_BD_ns",
+			"SEP_B_GER_H_Stahlhelm_1942_BD_Utility",
+			"SEP_B_GER_H_Stahlhelm_1942_BD_Utility_ns",
+			"SEP_B_GER_H_Stahlhelm_1942_BD_Glasses",
+			"SEP_B_GER_H_Stahlhelm_1942_BD_Net",
+			"SEP_B_GER_H_Stahlhelm_1942_BD_Net_ns",
+			"SEP_B_GER_H_Stahlhelm_1942_BD_wire",
+			"SEP_B_GER_H_Stahlhelm_1942_BD_wire_ns",
+			//Headgear - DAK//
             "SEP_B_GER_H_Stahlhelm_DAK",
             "SEP_B_GER_H_Stahlhelm_M35_DAK",
             "SEP_B_GER_H_Stahlhelm_M35_Glasses_DAK",
             "SEP_B_GER_H_Stahlhelm_M35_ns_DAK",
             "SEP_B_GER_H_Stahlhelm_M35_Glasses_ns_DAK",
-			"SEP_B_GER_H_TankerFieldCap_DAK",			
+			"SEP_B_GER_H_TankerFieldCap_DAK",		
+			//Headgear - Winter//
 			"SEP_B_GER_H_Stahlhelm_WIN_1",
 			"SEP_B_GER_H_Stahlhelm_WIN_1_ns",
 			"SEP_B_GER_H_Stahlhelm_WIN_1_utility",
@@ -516,11 +539,56 @@ class CfgPatches
 			"SEP_B_GER_H_PithHelmet_ns_oli",
 			"SEP_B_GER_H_PithHelmet_LW",
 			"SEP_B_GER_H_PithHelmet_ns_LW",
+			"SEP_B_GER_ST_H_StahlhelmCover_Telo",
+			"SEP_B_GER_ST_H_StahlhelmCover_Telo_ns",
+			"SEP_B_GER_ST_H_FieldCap_Telo",
+			"SEP_B_GER_H_FSJ_M38_Helmet_Cover_Telo",
+			"SEP_B_GER_H_FSJ_M38_Helmet_Burlap_Telo",
 			//Uniforms//
+			//Volkssturm
 			"SEP_B_GER_U_FieldUniform_Volk",
 			"SEP_B_GER_U_FieldUniform_Volk_Unblsd",
-			"SEP_B_GER_U_FieldUniform_Volk_Unblsd_Gefr",
+			//"SEP_B_GER_U_FieldUniform_Volk_Unblsd_Gefr",
 			"SEP_B_GER_U_FieldUniform_Volk_Unblsd_Unter",
+			"SEP_B_GER_U_Casual_1",
+			"SEP_B_GER_U_Casual_Rolled_1",
+			"SEP_B_GER_U_Casual_2",
+			"SEP_B_GER_U_Casual_Rolled_2",
+			"SEP_B_GER_U_Casual_3",
+			"SEP_B_GER_U_Casual_Rolled_3",
+			"SEP_B_GER_U_Casual_4",
+			"SEP_B_GER_U_Casual_Rolled_4",
+			"SEP_B_GER_U_Casual_5",
+			"SEP_B_GER_U_Casual_Rolled_5",
+			"SEP_B_GER_U_Casual_6",
+			"SEP_B_GER_U_Casual_Rolled_6",
+			"SEP_B_GER_U_Casual_7",
+			"SEP_B_GER_U_Casual_Rolled_7",
+			"SEP_B_GER_U_Jacket_zwart",
+			"SEP_B_GER_U_Jacket_zwart_alt",
+			"SEP_B_GER_U_Jacket_zwart_swetr",
+			"SEP_B_GER_U_Jacket_bruin",
+			"SEP_B_GER_U_Jacket_bruin_swetr",
+			"SEP_B_GER_U_Jacket_grijs",
+			"SEP_B_GER_U_Jacket_grijs_swetr",
+			"SEP_B_GER_U_Worker_1",
+			"SEP_B_GER_U_Worker_Rolled_1",
+			"SEP_B_GER_U_Worker_2",
+			"SEP_B_GER_U_Worker_Rolled_2",			
+			"SEP_B_GER_U_Worker_3",
+			"SEP_B_GER_U_Worker_Rolled_3",			
+			"SEP_B_GER_U_Worker_4",
+			"SEP_B_GER_U_Worker_Rolled_4",		
+			"SEP_B_GER_U_Worker_Coverall_1",
+			"SEP_B_GER_U_Worker_Coverall_Rolled_1",
+			"SEP_B_GER_U_Worker_Coverall_2",
+			"SEP_B_GER_U_Worker_Coverall_Rolled_2",
+			"SEP_B_GER_U_Swetr_vest_1",
+			"SEP_B_GER_U_Swetr_vest_2",
+			"SEP_B_GER_U_Swetr_vest_3",
+			"SEP_B_GER_U_Swetr_vest_4",
+			"SEP_B_GER_U_Swetr_vest_5",			
+			//ST - French
 			"SEP_B_GER_U_FieldUniform_ST_French",
 			"SEP_B_GER_U_FieldUniform_ST_French_Rld",
 			"SEP_B_GER_U_MixedUniform_ST_French",
@@ -528,20 +596,41 @@ class CfgPatches
 			"SEP_B_GER_U_MixedUniform_ST_Sgt_French",
 			"SEP_B_GER_U_MixedUniform_ST_Sgt_French_Rld",
 			"SEP_B_GER_U_ST_French_Officer",
-			"SEP_B_GER_U_Suit_Swetr_Brn",
-			"SEP_B_GER_U_Suit_Gry",
-			"SEP_B_GER_U_Suit_Blk",
-			"SEP_B_GER_U_Coverall_Blu",
-			"SEP_B_GER_U_Casual_1",
-			"SEP_B_GER_U_Casual_2",
+			//Blue Division - Old//
 			"SEP_B_GER_U_FieldUniform_BD",
 			"SEP_B_GER_U_FieldUniform_BD_Unblsd",
 			"SEP_B_GER_U_FieldUniform_BD_Unblsd_Gefr",
 			"SEP_B_GER_U_FieldUniform_BD_Unblsd_Unter",
-			"SEP_B_GER_U_Officer_BD",
-			"SEP_B_GER_U_Oberst_BD",
-			"SEP_B_GER_U_Ober_Lieutenant_BD",
+			//Blue Division - New//
+			"SEP_B_GER_U_FieldUniform_1940_BD_Boots",
+			"SEP_B_GER_U_FieldUniform_1940_BD_Gaiters",
+			"SEP_B_GER_U_FieldUniform_1940_BD_Gaiters_closed",
+			"SEP_B_GER_U_FieldUniform_1940_BD_Gaiters_Rolled",
+			"SEP_B_GER_U_FieldUniform_1940_BD_Gefreiter",
+			"SEP_B_GER_U_FieldUniform_1940_BD_Gefreiter_gaiters",
+			"SEP_B_GER_U_FieldUniform_1940_BD_Boots_open",
+			"SEP_B_GER_U_FieldUniform_1940_BD_Boots_Rolled",
+			"SEP_B_GER_U_FieldUniform_1940_BD_uffz",
+			"SEP_B_GER_U_FieldUniform_1940_BD_uffz_gaiters",
+			"SEP_B_GER_U_FieldUniform_1940_BD_Unbloused",
+			"SEP_B_GER_U_FieldUniform_1940_BD_Medic",
+			"SEP_B_GER_U_FieldUniform_1943_BD_Boots",
+			"SEP_B_GER_U_FieldUniform_1943_BD_Gaiters",
+			"SEP_B_GER_U_FieldUniform_1943_BD_Gaiters_closed",
+			"SEP_B_GER_U_FieldUniform_1943_BD_Gaiters_Rolled",
+			"SEP_B_GER_U_FieldUniform_1943_BD_Gefreiter",
+			"SEP_B_GER_U_FieldUniform_1943_BD_Oberschutze",
+			"SEP_B_GER_U_FieldUniform_1943_BD_Boots_open",
+			"SEP_B_GER_U_FieldUniform_1943_BD_Boots_Rolled",
+			"SEP_B_GER_U_FieldUniform_1943_BD_Gefreiter_Rolled",
+			"SEP_B_GER_U_FieldUniform_1943_BD_Medic",
+			"SEP_B_GER_U_FieldUniform_1943_BD_Unbloused",
+			"SEP_B_GER_U_FieldUniform_1943_BD_uffz",
 			"SEP_B_GER_U_Leutnant_BD",
+			"SEP_B_GER_U_Oberleutnant_BD",
+			"SEP_B_GER_U_Hauptmann_BD",
+			"SEP_B_GER_U_Oberst_BD",
+			//DAK - Deprecated//
 			"SEP_B_GER_U_FieldUniform_DAK",
 			"SEP_B_GER_U_FieldUniform_DAK_Rolled",
 			"SEP_B_GER_U_FieldUniform_DAK_alt",
@@ -555,12 +644,14 @@ class CfgPatches
 			"SEP_B_GER_U_FieldUniform_DAK_ART",
 			"SEP_B_GER_U_FieldUniform_DAK_ART_NCO",
 			"SEP_B_GER_U_Officer_DAK_Art",
+			//Parka
 			"SEP_B_GER_U_Parka_grau",
 			"SEP_B_GER_U_Parka_grau_mix",
 			"SEP_B_GER_U_Parka_wht",
 			"SEP_B_GER_U_Parka_wht_mix",
 			"SEP_B_GER_U_Parka_grau_mix_uffz",
 			"SEP_B_GER_U_Parka_sumpf",
+			//Parka - ST
 			"SEP_B_GER_ST_U_Parka_maus",
 			"SEP_B_GER_ST_U_Parka_maus_mix",
 			"SEP_B_GER_ST_U_Parka_oak",
@@ -569,7 +660,9 @@ class CfgPatches
 			"SEP_B_GER_ST_U_Parka_autm_mix",
 			"SEP_B_GER_ST_U_Parka_autm_mix_uscharf",
 			"SEP_B_GER_ST_U_Parka_oak_mix_uscharf",
+			//Leather Coat
 			"SEP_B_GER_ST_U_CoatOfficer",
+			//M44
 			"SEP_B_GER_U_FieldUniform_M44",
 			"SEP_B_GER_U_FieldUniform_M44_Open",
 			"SEP_B_GER_U_FieldUniform_M44_Open_Gref",
@@ -580,41 +673,64 @@ class CfgPatches
 			"SEP_B_GER_U_FieldUniform_M44_Roll_Uffz",
 			"SEP_B_GER_U_FieldUniform_M44_Ober",
 			"SEP_B_GER_U_FieldUniform_M44_Roll_Gref",
+			//Smock - Split
 			"SEP_B_GER_U_LwFDSmock",
+			"SEP_B_GER_U_LwFDSmock_Gaiters",
 			"SEP_B_GER_U_LwFDSmock_gry",
+			"SEP_B_GER_U_LwFDSmock_Gaiters_gry",
 			"SEP_B_GER_U_LwFDSmock_Uffz",
+			"SEP_B_GER_U_LwFDSmock_Medic",
+			//Smock - Sumpf
+			"SEP_B_GER_U_LwFDSmock_Sumpf",
+			"SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters",
+			"SEP_B_GER_U_LwFDSmock_Sumpf_gry",
+			"SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters_gry",
+			"SEP_B_GER_U_LwFDSmock_Sumpf_Uffz",
+			"SEP_B_GER_U_LwFDSmock_Sumpf_Medic",
+			//Smock - Flak
 			"SEP_B_GER_U_LwFDSmock_ART",
 			"SEP_B_GER_U_LwFDSmock_ART_Uffz",
+			//Smock - FSJ
 			"SEP_B_GER_U_LwFDSmock_FSJ",
 			"SEP_B_GER_U_LwFDSmock_FSJ_gry",
 			"SEP_B_GER_U_LwFDSmock_FSJ_Uffz",
+			//Mantel - Luftwaffe
 			"SEP_B_GER_LW_U_Mantel",
 			"SEP_B_GER_LW_U_Mantel_Gaiters",
+			//Mantel - M36
 			"SEP_B_GER_U_Mantel_M36",
 			"SEP_B_GER_U_Mantel_M36_Gaiters",
 			"SEP_B_GER_U_Mantel_M36_Uffz",
+			//Mantel - M40
 			"SEP_B_GER_U_Mantel_M40",
 			"SEP_B_GER_U_Mantel_M40_Gaiters",
 			"SEP_B_GER_U_Mantel_M40_Unbloused",
 			"SEP_B_GER_U_Mantel_M40_Uffz",
 			"SEP_B_GER_U_Mantel_M40_volk",
+			//Mantel - ST M36
 			"SEP_B_GER_ST_U_Mantel_M36",
 			"SEP_B_GER_ST_U_Mantel_M36_Gaiters",
 			"SEP_B_GER_ST_U_Mantel_M36_Uscharf",
+			//Mantel - ST M40
 			"SEP_B_GER_ST_U_Mantel_M40",
 			"SEP_B_GER_ST_U_Mantel_M40_Gaiters",
 			"SEP_B_GER_ST_U_Mantel_M40_Uscharf",
+			//Mantel - Panzer-Lehr
+			"SEP_B_GER_U_Mantel_M40_Lehr",
+			//Parka - FSJ
 			"SEP_B_GER_U_LwFD_FSJ_Parka_grau",
 			"SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix",
 			"SEP_B_GER_U_LwFD_FSJ_Parka_wht",
 			"SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix_uffz",
+			//Parka - Flak
 			"SEP_B_GER_U_LwFD_ART_Parka_wht",
 			"SEP_B_GER_U_LwFD_ART_Parka_wht_uffz",
+			//Parka - LwFD
 			"SEP_B_GER_U_LwFD_Parka_grau",
 			"SEP_B_GER_U_LwFD_Parka_grau_mix",
 			"SEP_B_GER_U_LwFD_Parka_wht",
 			"SEP_B_GER_U_LwFD_Parka_grau_mix_uffz",
-			"SEP_B_GER_U_Mantel_M40_Lehr",
+			//M44 - ST
 			"SEP_B_GER_ST_U_FieldUniform_M44",
 			"SEP_B_GER_ST_U_FieldUniform_M44_Open",
 			"SEP_B_GER_ST_U_FieldUniform_M44_Roll",
@@ -625,7 +741,32 @@ class CfgPatches
 			"SEP_B_GER_ST_U_FieldUniform_M44_Mix",
 			"SEP_B_GER_ST_U_FieldUniform_M44_Mix_Uscharf",
 			"SEP_B_GER_ST_U_FieldUniform_M44_Mix_Roll",
-			//Backpacks//
+			"SEP_B_GER_ST_U_FieldUniform_M44_Sturm",
+			"SEP_B_GER_ST_U_FieldUniform_M44_Sturm_Open",
+			"SEP_B_GER_ST_U_FieldUniform_M44_Sturm_Mix",
+			//M44 - Volkssturm
+			"SEP_B_GER_Volk_U_FieldUniform_M44",
+			"SEP_B_GER_Volk_U_FieldUniform_M44_Open",
+			"SEP_B_GER_Volk_U_FieldUniform_M44_Uffz",
+			//MK3 - Telo
+			"SEP_B_GER_FSJ_MK3_Telo",
+			"SEP_B_GER_FSJ_MK3_Telo_Gefr",
+			"SEP_B_GER_FSJ_MK3_Telo_Gloves",
+			"SEP_B_GER_FSJ_MK3_Telo_Gloves_Pads",
+			"SEP_B_GER_FSJ_MK3_Telo_Open",
+			"SEP_B_GER_FSJ_MK3_Telo_Open_Roll",
+			"SEP_B_GER_FSJ_MK3_Telo_Pads",
+			"SEP_B_GER_FSJ_MK3_Telo_Pads_Roll",
+			"SEP_B_GER_FSJ_MK3_Telo_Roll",
+			"SEP_B_GER_FSJ_MK3_Telo_Uffz",
+			"SEP_B_GER_FSJ_MK3_Telo_Uffz_Gloves",
+			"SEP_B_GER_FSJ_MK3_Telo_Uffz_Gloves_Pads",
+			"SEP_B_GER_FSJ_MK3_Telo_Uffz_Pads",
+			"SEP_B_GER_FSJ_MK3_Telo_Offz",
+			"SEP_B_GER_FSJ_MK3_Telo_Offz_Gloves",
+			"SEP_B_GER_FSJ_MK3_Telo_Offz_Gloves_Pads",
+			"SEP_B_GER_FSJ_MK3_Telo_Offz_Pads",
+			//Backpacks
 			"_xx_SEP_B_GER_B_Volk_Medic",
 			"_xx_SEP_B_GER_B_VolkGren_Medic",
 			"_xx_SEP_B_GER_B_MG_Volk_MG34",
@@ -703,54 +844,65 @@ class cfgWeapons
 	{
 		class ItemInfo;
 	};
-		
-	/* Armbands - NVGs*/
-	class SEP_B_GER_N_Feld_Gorget: NVGoggles
-	{
-		author = "Lukinator";
-		scope = 2;
-		scopeArsenal = 2;
-		displayName = "GER Feldgendarmerie Gorget";
-		model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
-		picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_F_Feld_Gorget_ca.paa";
-		modelOptics = "\A3\Weapons_F\Reticle\optics_empty.p3d";
-		visionMode[] = {Normal};
-		class ItemInfo: ItemInfo
-		{
-			uniformModel = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
-			modelOff = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
-			mass = 6;
-		};
-	};
 	
 	//Equipment Inheritances - Spearhead 1944//
 	class H_SPE_GER_Cap;
+
+	class H_SPE_GER_M38;
+	class H_SPE_GER_M38_2;
+	
 	class H_SPE_GER_Helmet;
     class H_SPE_GER_Helmet_ns;
+	
     class H_SPE_GER_HelmetUtility;
 	class H_SPE_GER_HelmetUtility_OS;
+	class H_SPE_GER_HelmetUtility_Grass;
+	class H_SPE_GER_HelmetUtility_Grass_OS;
+	class H_SPE_GER_HelmetUtility_Oak;
+	class H_SPE_GER_HelmetUtility_Oak_OS;
+	
+	class H_SPE_GER_Helmet_os;
+	class H_SPE_GER_Helmet_ns_wire;
+	
 	class H_SPE_GER_HelmetCamo;
 	class H_SPE_GER_HelmetCamo2;
 	class H_SPE_GER_HelmetCamo3;
 	class H_SPE_GER_HelmetCamo3_OS;
-	class H_SPE_GER_M38;
-	class H_SPE_GER_M38_2;
+	
+	class H_SPE_GER_Helmet_net;
+	class H_SPE_GER_Helmet_net_ns;
+	
+	class H_SPE_GER_Helmet_Glasses;
+	
 	class H_SPE_GER_Helmet_M35;
 	class H_SPE_GER_Helmet_M35_Glasses;
 	class H_SPE_GER_Helmet_M35_ns;
 	class H_SPE_GER_Helmet_M35_Glasses_ns;
+	
     class H_SPE_GER_Helmet_M40;
     class H_SPE_GER_Helmet_M40_ns;
+	
     class H_SPE_GER_Helmet_M40Utility;
     class H_SPE_GER_Helmet_M40Utility_OS;
+	class H_SPE_GER_Helmet_M40Utility_Grass;
+	class H_SPE_GER_Helmet_M40Utility_Grass_OS;
+	class H_SPE_GER_Helmet_M40Utility_Oak;
+	class H_SPE_GER_Helmet_M40Utility_Oak_OS;
+	
     class H_SPE_GER_Helmet_M40_net;
     class H_SPE_GER_Helmet_M40_ns_net;
     class H_SPE_GER_Helmet_M40_wire;
     class H_SPE_GER_Helmet_M40_ns_wire;
+	class H_SPE_GER_Helmet_M40_Glasses;
+	class H_SPE_GER_Helmet_M40_Glasses_ns;
+	
+	
 	class H_SPE_GER_TankPrivateCap;
 	
 	class H_SPE_GER_FSJ_M38_Helmet;
 	class H_SPE_GER_FSJ_M38_Helmet_kentang;
+	
+	class H_SPE_GER_FSJ_M38_Helmet_Cover;
 	
 	class H_SPE_GER_Helmet_M40_burlap_band;
 	class H_SPE_GER_Helmet_M40_burlap_band_ns;
@@ -766,181 +918,14 @@ class cfgWeapons
     #include "cfgLW.hpp"
     #include "cfgST.hpp"	
 	#include "cfgVolk.hpp"	
-
-//===================================
-//Custom Classes (Headgear)
-//===================================
-
-	class SEP_B_GER_H_FieldCap_Gry : H_SPE_GER_Cap
-	{
-		author = "Joe";
-		scope = 2;
-		weaponPoolAvailable = 1;
-		displayName = "GER Field Cap 1943, Grey";
-		descriptionShort = "No Armor";
-		picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FieldCap_Gry_ca.paa";
-		hiddenSelectionsTextures[] = 
-		{
-			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\M43_Cap_co.paa",
-			""
-		};
-	};
+	#include "cfgFSJ.hpp"	
 	
-	class SEP_B_GER_H_FieldCap_Brn : H_SPE_GER_Cap
-	{
-		author = "Joe";
-		scope = 2;
-		weaponPoolAvailable = 1;
-		displayName = "GER Field Cap 1943, Brown";
-		descriptionShort = "No Armor";
-		picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FieldCap_Brn_ca.paa";
-		hiddenSelectionsTextures[] = 
-		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_FieldCap_Brn_co.paa",
-			""
-		};
-	};
-	
-    class SEP_B_GER_H_Stahlhelm_M16: H_HelmetB
-	{
-		author = "OokamiJamie";
-		displayName = "GER Stahlhelm 1916 (Grau)";
-		picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M16_ca.paa";
-		scope = 2;
-		model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_Stahlhelm_M16.p3d";
-		hiddenSelections[] = 
-		{
-			"camo"
-		};
-		hiddenSelectionsTextures[] = 
-		{
-			"\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_Stahlhelm_M16_gry_CO.paa"
-		};
-		class ItemInfo: ItemInfo
-		{
-			mass = 30;
-			hiddenSelections[] = 
-			{
-				"camo"
-			};
-			hiddenSelectionsTextures[] = 
-			{
-				"\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_Stahlhelm_M16_gry_CO.paa"
-			};
-			uniformModel = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_Stahlhelm_M16.p3d";
-			class HitpointsProtectionInfo
-			{
-				class Head
-				{
-					hitpointName = HitHead;
-					armor = 4;
-					passThrough = 0.4;
-				};
-			};
-		};
-	};
-
-    class SEP_B_GER_H_Stahlhelm_M16_grn: SEP_B_GER_H_Stahlhelm_M16
-	{
-		author = "OokamiJamie";
-		displayName = "GER Stahlhelm 1916";
-		picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M16_grn_ca.paa";
-		scope = 2;
-		hiddenSelectionsTextures[] = 
-		{
-			"\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_Stahlhelm_M16_grn_CO.paa"
-		};
-	};
-
-    class SEP_B_GER_H_Stahlhelm_M35_gry : H_SPE_GER_Helmet_M35
-	{
-		author = "OokamiJamie";
-		scope = 2;
-		weaponPoolAvailable = 1;
-		displayName = "GER Stahlhelm 1935 (Grau)";
-		descriptionShort = "Armor Level I";
-		picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_gry_ca.paa";
-		hiddenSelectionsTextures[] = 
-		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_gry_co.paa"
-		};
-	};
-
-    class SEP_B_GER_H_Stahlhelm_M35_ns_gry : H_SPE_GER_Helmet_M35_ns
-	{
-		author = "OokamiJamie";
-		scope = 2;
-		weaponPoolAvailable = 1;
-		displayName = "GER Stahlhelm 1935 (Grau, Opened)";
-		descriptionShort = "Armor Level I";
-		picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_ns_gry_ca.paa";
-		hiddenSelectionsTextures[] = 
-		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_gry_co.paa"
-		};
-	};    
-	
-//===================================
-//Custom Classes (Uniforms)
-//===================================
-		
-//===================================
-//Custom Classes (NVGs)
-//===================================
-				
-//===================================
-//Custom Classes (Vests)
-//===================================
-	
-//===================================
-//Custom Classes (Weapons)
-//===================================
 };
 
 class CfgVehicles
 {
-
 	//Infantry Inheritances - Vanilla//
 	class B_Soldier_F;
-	class B_Soldier_lite_F;
-	//class B_Soldier_A_F;
-	class B_Soldier_GL_F;
-	class B_soldier_AR_F;
-	class B_Soldier_SL_F;
-	class B_Soldier_TL_F;
-	class B_soldier_M_F;
-	class B_soldier_LAT_F;
-	class B_soldier_AT_F;
-	class B_soldier_AA_F;
-	class B_medic_F;
-	class B_engineer_F;
-	class B_crew_F;
-	class B_officer_F;
-	class B_Pilot_F;
-	class B_Helipilot_F;
-	//class B_helicrew_F;
-	//class B_soldier_repair_F;
-	class B_soldier_exp_F;
-	//class B_Survivor_F;
-	class B_Soldier_unarmed_F;
-	class B_spotter_F;
-	class B_sniper_F;
-	class B_soldier_AAR_F;
-	class B_soldier_AAT_F;
-	class B_soldier_AAA_F;
-	class B_support_MG_F;
-	//class B_support_GMG_F;
-	class B_support_AMG_F;
-	//class B_Sharpshooter_F;
-	//class B_HeavyGunner_F;
-	
-	//class B_recon_F;
-	//class B_recon_M_F;
-	//class B_recon_LAT_F;
-	//class B_recon_medic_F;
-	//class B_recon_exp_F;
-	//class B_recon_TL_F;
-	//class B_Recon_Sharpshooter_F;
 
 	//Equipment Inheritances - Spearhead 1944//
 	class B_SPE_GER_MedicBackpack_Empty;
@@ -954,36 +939,109 @@ class CfgVehicles
 	class B_SPE_GER_A_frame_MGCan;			//GER A-Frame (MG Box)
 	class B_SPE_GER_A_frame_ST_MGCan;		//GER ST A-Frame (MG Box)
 		
-	class B_SPE_CIV_musette;					//Sling Bag
+	class B_SPE_CIV_musette;				//Sling Bag
 	
 	//Infantry Inheritances - Spearhead 1944//
-	
-	class SPE_GER_Soldier_Gaiters;				//Field Uniform 1943 (Gaiters)
-	class SPE_GER_Soldier_Rolled;				//Field Uniform 1943 (Gaiters, Rolled)
-	class SPE_GER_Soldier_Boots;				//Field Uniform 1943 
-	class SPE_GER_Soldier_Unbloused;			//Field Uniform 1943 (Unbloused)
-	class SPE_GER_hauptmann;					//Officer Uniform
-	class SPE_GER_oberst;						//Oberst
-	class SPE_GER_ober_lieutenant;				//
-	class SPE_GER_lieutenant;						//
+	//Officers
+	class SPE_GER_hauptmann;
+	class SPE_GER_oberst;
+	class SPE_GER_ober_lieutenant;
+	class SPE_GER_lieutenant;
 	
 	class SPE_sturmtrooper_hauptsturmfuhrer;	//ST Officer Uniform
 	
+	
+	//Field Uniform 1940
+	class SPE_GER_Soldier_M40_Boots;
 	class SPE_GER_Soldier_M40_Gaiters;
+	class SPE_GER_Soldier_M40_Gaiters_closed;
 	class SPE_GER_Soldier_M40_Rolled;
+	class SPE_GER_Soldier_M40_Gefreiter;
+	class SPE_GER_Soldier_M40_Gefreiter_gaiters;
+	class SPE_GER_Soldier_M40_Boots_open;
+	class SPE_GER_Soldier_M40_Boots_Rolled;
+	class SPE_GER_Soldier_M40_uffz;
+	class SPE_GER_Soldier_M40_uffz_gaiters;
+	class SPE_GER_Soldier_M40_Unbloused;
+	
+	//Field Uniform 1943
+	class SPE_GER_Soldier_Boots;
+	class SPE_GER_Soldier_Gaiters;
+	class SPE_GER_Soldier_Gaiters_closed;
+	class SPE_GER_Soldier_Rolled;
+	class SPE_GER_Soldier_Gaiters_Gefreiter;
+	class SPE_GER_Soldier_Oberschutze_Boots;
+	class SPE_GER_Soldier_Boots_open;
+	class SPE_GER_Soldier_Boots_Rolled;
+	class SPE_GER_Soldier_Gefreiter_Rolled;
+	class SPE_GER_Soldier_Medic;
+	class SPE_GER_Soldier_Unbloused;
+	class SPE_GER_Soldier_Unterofficer_Boots;
 	
 	class SPE_sturmtrooper_Mix_E44;				//ST Mixed Uniform
 	class SPE_sturmtrooper_Mix_E44_roll;		//ST Mixed Uniform (Rolled)
+
+	//Civilian
+	class SPE_FFI_Casual_1;
+	class SPE_FFI_Casual_1_trop;
+	class SPE_FFI_Casual_2;
+	class SPE_FFI_Casual_2_trop;
+	class SPE_FFI_Casual_3;
+	class SPE_FFI_Casual_3_trop;	
+	class SPE_FFI_Casual_4;
+	class SPE_FFI_Casual_4_trop;		
+	class SPE_FFI_Casual_5;
+	class SPE_FFI_Casual_5_trop;	
+	class SPE_FFI_Casual_6;
+	class SPE_FFI_Casual_6_trop;
+	class SPE_FFI_Casual_7;
+	class SPE_FFI_Casual_7_trop;
+	class SPE_FFI_Jacket_zwart;
+	class SPE_FFI_Jacket_zwart_Alt;
+	class SPE_FFI_Jacket_zwart_swetr;
+	class SPE_FFI_Jacket_bruin;
+	class SPE_FFI_Jacket_bruin_swetr;
+	class SPE_FFI_Jacket_grijs;
+	class SPE_FFI_Jacket_grijs_swetr;
+	class SPE_FFI_Worker_1;
+	class SPE_FFI_Worker_1_trop;
+	class SPE_FFI_Worker_2;
+	class SPE_FFI_Worker_2_trop;
+	class SPE_FFI_Worker_3;
+	class SPE_FFI_Worker_3_trop;
+	class SPE_FFI_Worker_4;
+	class SPE_FFI_Worker_4_trop;
+	class SPE_CIV_Worker_Coverall_2;
+	class SPE_CIV_Worker_Coverall_2_trop;
+	class SPE_CIV_Worker_Coverall_3;
+	class SPE_CIV_Worker_Coverall_3_trop;
 	
-	class SPE_FFI_Jacket_bruin_swetr;			//Suit Open Brown (Sweater)
-	class SPE_FFI_Jacket_grijs;					//Suit Open Grey
-	class SPE_FFI_Jacket_zwart;					//Suit Open Black (Brown Shirt)
-	
-	class SPE_CIV_Worker_Coverall_2;			//Worker Coveralls (Blue)
-	class SPE_CIV_Worker_Coverall_2_trop;		//Worker Coveralls (Blue, Rolled)
-	
-	class SPE_FFI_Casual_7;						//Casual Outfit
-	
+	class SPE_CIV_Swetr_1_vest;
+	class SPE_CIV_Swetr_2_vest;	
+	class SPE_CIV_Swetr_3_vest;	
+	class SPE_CIV_Swetr_4_vest;	
+	class SPE_CIV_Swetr_5_vest;	
+
+	//MK3
+	class SPE_FSJ_mk3_sumpf;					//GER FSJ Jump Smock 1942
+	class SPE_FSJ_mk3_sumpf_gefr;
+	class SPE_FSJ_mk3_sumpf_gloves;
+	class SPE_FSJ_mk3_sumpf_gloves_pads;
+	class SPE_FSJ_mk3_sumpf_trop;
+	class SPE_FSJ_mk3_sumpf_trop_roll;
+	class SPE_FSJ_mk3_sumpf_pads;
+	class SPE_FSJ_mk3_sumpf_pads_roll;
+	class SPE_FSJ_mk3_sumpf_roll;
+	class SPE_FSJ_mk3_sumpf_uffz;
+	class SPE_FSJ_mk3_sumpf_uffz_gloves;
+	class SPE_FSJ_mk3_sumpf_uffz_gloves_pads;
+	class SPE_FSJ_mk3_sumpf_uffz_pads;
+	class SPE_FSJ_mk3_sumpf_offz;
+	class SPE_FSJ_mk3_sumpf_offz_gloves;
+	class SPE_FSJ_mk3_sumpf_offz_gloves_pads;
+	class SPE_FSJ_mk3_sumpf_offz_pads;
+
+	//SEP_B_GER Base Class
 	class SEP_B_GER_Man_Base: B_Soldier_F
 	{
 		scope = 0;
@@ -1094,6 +1152,7 @@ class CfgVehicles
     #include "cfgLW_Uniforms.hpp"
     #include "cfgST_Uniforms.hpp"
 	#include "cfgVolk_Uniforms.hpp"
+	#include "cfgFSJ_Uniforms.hpp"
 		
 //===================================
 //Custom Classes (Backpacks)
@@ -1541,32 +1600,37 @@ class CfgGroups
 			{
                 name = "Infantry (Volkssturm)";
 
-                class SEP_B_GER_Infantry_Volk_Command_Section {
+                class SEP_B_GER_Infantry_Volk_Command_Section 
+				{
                     name = "Command Section";
                     side = 1;
                     faction = "SEP_B_GER_Volk_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Axis\SPE_Icon_Axis_HQ.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "LIEUTENANT";
                         side = 1;
                         vehicle = "SEP_B_GER_Volk_Ofcr";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
-                        rank = "SERGEANT";
+                        rank = "CORPORAL";
                         side = 1;
                         vehicle = "SEP_B_GER_Volk_SL";
                     };
-                    class Unit2 {
+                    class Unit2 
+					{
                         position[] = {-5,-5,0};
                         rank = "CORPORAL";
                         side = 1;
                         vehicle = "SEP_B_GER_Volk_Rflmn_MP507";
                     };
-					class Unit3 {
+					class Unit3 
+					{
                         position[] = {10,-10,0};
                         rank = "CORPORAL";
                         side = 1;
@@ -1574,62 +1638,72 @@ class CfgGroups
                     };
                 };
 
-                class SEP_B_GER_Infantry_Volk_Sqd {
+                class SEP_B_GER_Infantry_Volk_Sqd 
+				{
                     name = "Infantry Squad";
                     side = 1;
                     faction = "SEP_B_GER_Volk_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Axis\SPE_Icon_Axis_Infantry.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
-                        rank = "SERGEANT";
+                        rank = "CORPORAL";
                         side = 1;
                         vehicle = "SEP_B_GER_Volk_SL";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "PRIVATE";
                         side = 1;
                         vehicle = "SEP_B_GER_Volk_MG_MG34";
                     };
-                    class Unit2 {
+                    class Unit2 
+					{
                         position[] = {-5,-5,0};
                         rank = "PRIVATE";
                         side = 1;
                         vehicle = "SEP_B_GER_Volk_Medic";
                     };
-                    class Unit3 {
+                    class Unit3 
+					{
                         position[] = {10,-10,0};
-                        rank = "CORPORAL";
+                        rank = "PRIVATE";
                         side = 1;
-                        vehicle = "SEP_B_GER_Volk_ASL";
+                        vehicle = "SEP_B_GER_Volk_Rflmn";
                     };
-                    class Unit4 {
+                    class Unit4 
+					{
                         position[] = {-10,-10,0};
                         rank = "PRIVATE";
                         side = 1;
                         vehicle = "SEP_B_GER_Volk_Rflmn_MP507";
                     };
-                    class Unit5 {
+                    class Unit5 
+					{
                         position[] = {15,-15,0};
                         rank = "PRIVATE";
                         side = 1;
                         vehicle = "SEP_B_GER_Volk_AMG";
                     };
-                    class Unit6 {
+                    class Unit6 
+					{
                         position[] = {-15,-15,0};
                         rank = "PRIVATE";
                         side = 1;
                         vehicle = "SEP_B_GER_Volk_AT_PZ30";
                     };
-                    class Unit7 {
+                    class Unit7 
+					{
                         position[] = {20,-20,0};
                         rank = "PRIVATE";
                         side = 1;
                         vehicle = "SEP_B_GER_Volk_Gren";
                     };
-                    class Unit8 {
+                    class Unit8 
+					{
                         position[] = {-20,-20,0};
                         rank = "PRIVATE";
                         side = 1;
@@ -1646,7 +1720,7 @@ class CfgGroups
 
                     class Unit0 {
                         position[] = {0,0,0};
-                        rank = "SERGEANT";
+                        rank = "CORPORAL";
                         side = 1;
                         vehicle = "SEP_B_GER_Volk_SL";
                     };
@@ -1664,9 +1738,9 @@ class CfgGroups
                     };
                     class Unit3 {
                         position[] = {10,-10,0};
-                        rank = "CORPORAL";
+                        rank = "PRIVATE";
                         side = 1;
-                        vehicle = "SEP_B_GER_Volk_ASL";
+                        vehicle = "SEP_B_GER_Volk_Rflmn";
                     };
                     class Unit4 {
                         position[] = {-10,-10,0};
@@ -1742,9 +1816,9 @@ class CfgGroups
 
                     class Unit0 {
                         position[] = {0,0,0};
-                        rank = "SERGEANT";
+                        rank = "CORPORAL";
                         side = 1;
-                        vehicle = "SEP_B_GER_Volk_ASL";
+                        vehicle = "SEP_B_GER_Volk_SL";
                     };
                     class Unit1 {
                         position[] = {5,-5,0};
@@ -1824,7 +1898,7 @@ class CfgGroups
                         position[] = {0,0,0};
                         rank = "CORPORAL";
                         side = 1;
-                        vehicle = "SEP_B_GER_Volk_ASL";
+                        vehicle = "SEP_B_GER_Volk_SL";
                     };
                     class Unit1 {
                         position[] = {5,-5,0};

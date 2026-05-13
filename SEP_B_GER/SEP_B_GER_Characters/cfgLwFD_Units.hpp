@@ -267,7 +267,7 @@ class SEP_B_GER_LwFD_AMG : SEP_B_GER_Soldier_Base
 	author = "Joe";
 	scope = 2;
 	scopeCurator = 2;
-	displayName = "Asst. Machine-Gunner";
+	displayName = "Machine-Gunner (Assist.)";
 	side = 1;
 	faction = "SPE_WEHRMACHT";
 	editorSubcategory="SEP_B_GER_Units_Infantry_LwFD";		

@@ -19,7 +19,7 @@ class SEP_I_IHTC_M3_Halftrack : SPE_Halftrack_base
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_d_ca.paa",
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_Halftrack_Decals_ca.paa",
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -38,7 +38,7 @@ class SEP_I_IHTC_M3_Halftrack : SPE_Halftrack_base
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_d_ca.paa",
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_Halftrack_Decals_ca.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -72,7 +72,7 @@ class SEP_I_IHTC_M3_Halftrack_Open : SPE_US_M3_Halftrack_Unarmed_Open
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_d_ca.paa",
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_Halftrack_Decals_ca.paa",
 		"\a3\data_f\clear_empty.paa"
 	};	
 	class TextureSources
@@ -91,7 +91,7 @@ class SEP_I_IHTC_M3_Halftrack_Open : SPE_US_M3_Halftrack_Unarmed_Open
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_d_ca.paa",
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_Halftrack_Decals_ca.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -119,7 +119,7 @@ class SEP_I_IHTC_M3A1_Halftrack : SPE_M3A1_Halftrack_base
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_M2Mount_co.paa",
-		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_d_ca.paa",
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_Halftrack_Decals_ca.paa",
 		"\a3\data_f\clear_empty.paa"
 	};	
 	class Turrets : Turrets 
@@ -148,7 +148,7 @@ class SEP_I_IHTC_M3A1_Halftrack : SPE_M3A1_Halftrack_base
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_M2Mount_co.paa",
-				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\SEP_I_IHTC_Tracked\SEP_I_IHTC_Sherman\data\SEP_I_IHTC_M3_d_ca.paa",
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_Halftrack_Decals_ca.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -221,7 +221,7 @@ class SEP_I_IHTC_M3_Halftrack_Ammo : SPE_US_M3_Halftrack_Ammo
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\SEP_I_IHTC_Tracked\SEP_I_IHTC_Sherman\data\SEP_I_IHTC_M3_d_ca.paa",
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_Halftrack_Decals_ca.paa",
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -240,7 +240,7 @@ class SEP_I_IHTC_M3_Halftrack_Ammo : SPE_US_M3_Halftrack_Ammo
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\SEP_I_IHTC_Tracked\SEP_I_IHTC_Sherman\data\SEP_I_IHTC_M3_d_ca.paa",
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_Halftrack_Decals_ca.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -267,7 +267,7 @@ class SEP_I_IHTC_M3_Halftrack_Fuel : SPE_US_M3_Halftrack_Fuel
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\SEP_I_IHTC_Tracked\SEP_I_IHTC_Sherman\data\SEP_I_IHTC_M3_d_ca.paa",
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_Halftrack_Decals_ca.paa",
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -286,7 +286,7 @@ class SEP_I_IHTC_M3_Halftrack_Fuel : SPE_US_M3_Halftrack_Fuel
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\SEP_I_IHTC_Tracked\SEP_I_IHTC_Sherman\data\SEP_I_IHTC_M3_d_ca.paa",
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_Halftrack_Decals_ca.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -313,7 +313,7 @@ class SEP_I_IHTC_M3_Halftrack_Repair : SPE_US_M3_Halftrack_Repair
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\SEP_I_IHTC_Tracked\SEP_I_IHTC_Sherman\data\SEP_I_IHTC_M3_d_ca.paa",
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_Halftrack_Decals_ca.paa",
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -332,7 +332,7 @@ class SEP_I_IHTC_M3_Halftrack_Repair : SPE_US_M3_Halftrack_Repair
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\SEP_I_IHTC_Tracked\SEP_I_IHTC_Sherman\data\SEP_I_IHTC_M3_d_ca.paa",
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M3_Halftrack_Decals_ca.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
 		};

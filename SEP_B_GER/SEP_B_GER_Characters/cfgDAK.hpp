@@ -285,7 +285,9 @@ class SEP_B_GER_U_FieldUniform_DAK : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Uniform 1940";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -302,7 +304,9 @@ class SEP_B_GER_U_FieldUniform_DAK_Rolled : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Uniform 1940 (Rolled)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_Rolled_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -319,7 +323,9 @@ class SEP_B_GER_U_FieldUniform_DAK_Shorts : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Uniform 1940 (Shorts)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_Shorts_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -336,7 +342,9 @@ class SEP_B_GER_U_FieldUniform_DAK_alt : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Uniform 1940 (Sand)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_alt_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -353,7 +361,9 @@ class SEP_B_GER_U_FieldUniform_DAK_Rolled_alt : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Uniform 1940 (Rolled, Sand)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_Rolled_alt_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -370,7 +380,9 @@ class SEP_B_GER_U_FieldUniform_DAK_Rolled_alt : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Uniform 1940 (Green)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_reed_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -387,7 +399,9 @@ class SEP_B_GER_U_FieldUniform_DAK_Rolled_reed : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Uniform 1940 (Rolled, Green)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_Rolled_reed_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -404,7 +418,9 @@ class SEP_B_GER_U_MixedUniform_DAK : Uniform_Base
     scope = 1;
     displayName = "GER DAK Mixed Uniform 1940";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_MixedUniform_DAK_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -421,7 +437,9 @@ class SEP_B_GER_U_MixedUniform_DAK_Shorts : Uniform_Base
     scope = 1;
     displayName = "GER DAK Mixed Uniform 1940 (Shorts)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_MixedUniform_DAK_Shorts_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -438,7 +456,9 @@ class SEP_B_GER_U_MixedUniform_DAK_Rolled : Uniform_Base
     scope = 1;
     displayName = "GER DAK Mixed Uniform 1940 (Rolled)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_MixedUniform_DAK_Rolled_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -455,7 +475,9 @@ class SEP_B_GER_U_MixedUniform_DAK_NCO : Uniform_Base
     scope = 1;
     displayName = "GER DAK Mixed Uniform 1940 (Unteroffizier)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_MixedUniform_DAK_NCO_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -472,7 +494,9 @@ class SEP_B_GER_U_ShortUniform_DAK : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Shirt 1940";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -489,7 +513,9 @@ class SEP_B_GER_U_ShortUniform_DAK_alt : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Shirt 1940 (Sand)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_alt_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -506,7 +532,9 @@ class SEP_B_GER_U_ShortUniform_DAK_mix_01 : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Shirt 1940 (Mixed)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_mix_01_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -523,7 +551,9 @@ class SEP_B_GER_U_ShortUniform_DAK_Rolled : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Shirt 1940 (Rolled)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_Rolled_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -540,7 +570,9 @@ class SEP_B_GER_U_ShortUniform_DAK_Rolled_alt : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Shirt 1940 (Rolled, Sand)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_Rolled_alt_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -557,7 +589,9 @@ class SEP_B_GER_U_ShortUniform_DAK_Rolled_NCO : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Shirt 1940 (Rolled, Unteroffizier)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_Rolled_NCO_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -574,7 +608,9 @@ class SEP_B_GER_U_Officer_DAK : Uniform_Base
     scope = 1;
     displayName = "GER DAK Officer Uniform (Hauptmann)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Officer_DAK_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -591,7 +627,9 @@ class SEP_B_GER_U_FieldUniform_DAK_ART : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Uniform 1940 Artillerie";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_ART_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -608,7 +646,9 @@ class SEP_B_GER_U_FieldUniform_DAK_ART_NCO : Uniform_Base
     scope = 1;
     displayName = "GER DAK Field Uniform 1940 Artillerie (Unteroffizier)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_ART_NCO_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -625,7 +665,9 @@ class SEP_B_GER_U_Officer_DAK_Art : Uniform_Base
     scope = 1;
     displayName = "GER DAK Officer Uniform Artillerie (Leutnant)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Officer_DAK_Art_ca.paa";
     class ItemInfo: UniformItem
     {

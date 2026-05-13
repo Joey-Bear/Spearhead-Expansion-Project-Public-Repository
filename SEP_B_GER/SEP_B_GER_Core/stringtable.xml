@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Spearhead Expansion Project">
+	<Package name="SEP_B_GER">
+		<Container name="displayName">
+			<Key ID="STR_SEP_B_GER_VOLKSSTURM_displayName">
+				<Original>Volkssturm</Original>
+				<English>Volkssturm</English>
+			</Key>
+		</Container>
+
+		<Container name="Library">
+			<Key ID="STR_SEP_B_GER_VOLKSSTURM_description">
+				<Original>Alignment: Axis%1Capital: Berlin%1National Language: German%1Demonyms: German%1%1During the closing stages of the Second World War, the Volkssturm were formed as a national militia to defend the homeland. Made up of older men, teenagers, and other civilians not already in or exempt from military service, the Volkssturm was hastily trained and poorly armed before being sent into combat against advancing Allied forces. Despite limited training and equipment, they were deployed in desperate last-ditch battles across Germany, leaving a grim legacy of civilian sacrifice amidst the collapse of the German war effort.%1&lt;img size='17' shadow='0' image='SEP_FieldManual\data\VOLK.paa' /&gt;</Original>
+				<English>Alignment: Axis%1Capital: Berlin%1National Language: German%1Demonyms: German%1%1During the closing stages of the Second World War, the Volkssturm were formed as a national militia to defend the homeland. Made up of older men, teenagers, and other civilians not already in or exempt from military service, the Volkssturm was hastily trained and poorly armed before being sent into combat against advancing Allied forces. Despite limited training and equipment, they were deployed in desperate last-ditch battles across Germany, leaving a grim legacy of civilian sacrifice amidst the collapse of the German war effort.%1&lt;img size='17' shadow='0' image='SEP_FieldManual\data\VOLK.paa' /&gt;</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>

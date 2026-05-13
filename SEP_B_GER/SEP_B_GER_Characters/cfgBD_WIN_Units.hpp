@@ -16,8 +16,8 @@ class SEP_B_GER_BD_WIN_Rflmn_K98 : SEP_B_GER_WIN_Soldier_Base
     
     uniformClass = "SEP_B_GER_U_Mantel_M36";
 
-    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
     
     Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
     RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
@@ -82,8 +82,8 @@ class SEP_B_GER_BD_WIN_Rflmn_Unr : SEP_B_GER_WIN_Soldier_Base
 
     uniformClass = "SEP_B_GER_U_Mantel_M36";
 
-    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
     
     Items[] = {"SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
     RespawnItems[] = {"SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
@@ -147,8 +147,8 @@ class SEP_B_GER_BD_WIN_Driver : SEP_B_GER_WIN_Soldier_Base
     
     uniformClass = "SEP_B_GER_U_Parka_grau";
 
-    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_SniperBelt","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_SniperBelt","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_SniperBelt","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_SniperBelt","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
     
     Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
     RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
@@ -766,8 +766,8 @@ class SEP_B_GER_BD_WIN_Sapper_Gefr : SEP_B_GER_WIN_Soldier_Base
 
     uniformClass = "SEP_B_GER_U_Mantel_M36";
 
-    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_PioneerVest","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_PioneerVest","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_PioneerVest","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_PioneerVest","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
     
     Items[] = {"SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
     RespawnItems[] = {"SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
@@ -962,8 +962,8 @@ class SEP_B_GER_BD_WIN_Mortar_Gunner : SEP_B_GER_WIN_Soldier_Base
     
     uniformClass = "SEP_B_GER_U_Parka_wht";
 
-    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
+    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
+    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
     
     Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
     RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
@@ -995,8 +995,8 @@ class SEP_B_GER_BD_WIN_Mortar_AGunner : SEP_B_GER_WIN_Soldier_Base
     
     uniformClass = "SEP_B_GER_U_Parka_wht";
 
-    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
+    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
+    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
     
     Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
     RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
@@ -1028,8 +1028,8 @@ class SEP_B_GER_BD_WIN_Mortar_AmmoBearer : SEP_B_GER_WIN_Soldier_Base
     
     uniformClass = "SEP_B_GER_U_Parka_wht";
 
-    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
     
     Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
     RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
@@ -1061,8 +1061,8 @@ class SEP_B_GER_BD_WIN_HMG_AmmoBearer : SEP_B_GER_WIN_Soldier_Base
     
     uniformClass = "SEP_B_GER_U_Parka_grau_mix";
 
-    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
     
     Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
     RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
@@ -1094,8 +1094,8 @@ class SEP_B_GER_BD_WIN_AT_Soldier_Assistant : SEP_B_GER_WIN_Soldier_Base
     
     uniformClass = "SEP_B_GER_U_Parka_grau_mix";
 
-    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
     
     Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
     RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
@@ -1127,8 +1127,8 @@ class SEP_B_GER_BD_WIN_AHMGunner : SEP_B_GER_WIN_Soldier_Base
     
     uniformClass = "SEP_B_GER_U_Parka_grau_mix";
 
-    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
+    linkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
+    respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestKar98","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
     
     Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
     RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
@@ -1259,8 +1259,8 @@ class SEP_B_GER_BD_WIN_HMGunner : SEP_B_GER_WIN_Soldier_Base
   
 	uniformClass = "SEP_B_GER_U_Parka_wht";
 
-	linkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestMG","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-	respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestMG","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+	linkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestMG","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+	respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestMG","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
 	
 	Items[] = {"SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
 	RespawnItems[] = {"SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
@@ -1358,8 +1358,8 @@ class SEP_B_GER_BD_WIN_Sentry_MP40 : SEP_B_GER_WIN_Soldier_Base
   
 	uniformClass = "SEP_B_GER_U_Parka_grau_mix";
 
-	linkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestMP40","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-	respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_BD","V_SPE_GER_VestMP40","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+	linkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestMP40","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
+	respawnlinkedItems[] = {"SEP_B_GER_H_Stahlhelm_1942_BD","V_SPE_GER_VestMP40","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
 	
 	Items[] = {"SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};
 	RespawnItems[] = {"SPE_GER_FirstAidKit","SPE_GER_FirstAidKit"};

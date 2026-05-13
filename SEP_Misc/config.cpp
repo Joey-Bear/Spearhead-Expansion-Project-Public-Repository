@@ -61,3 +61,14 @@ class CfgVehicles
 		};
 	};
 };
+
+class CfgUnitInsignia
+{
+	class SEP_Badge
+	{
+		author="Joe";
+		displayName="Spearhead Expansion Project";
+		texture="SEP_MISC\data\unitinsignia\SEP_Badge_ca.paa";
+		material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
+	};
+};

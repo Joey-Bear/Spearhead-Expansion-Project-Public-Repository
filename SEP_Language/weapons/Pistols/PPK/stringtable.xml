@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Spearhead Expansion Project">
+	<Package name="SEP_WP_PPK">
+		<Container name="displayName">
+			<Key ID="STR_SEP_WP_PPK_displayName">
+				<Original>Walther PPK</Original>
+				<English>Walther PPK</English>
+			</Key>
+		</Container>
+
+		<Container name="Library">
+			<Key ID="STR_SEP_WP_PPK_description">
+				<Original>Manufacturer: Carl Walther GmbH Sportwaffen%1Length: 6.1 inches%1Ammunition: 7.65×17mmSR%1Rate of Fire: 25 rpm%1Weight: 0.53kg%1Firing Mode(s): Semi-Automatic%1Magazine: 7-round box magazine%1Effective Range: 25 meters%1%1The Walther PPK is a compact German semi-automatic pistol introduced in 1931 by Carl Walther GmbH as a shorter, more concealable variant of the Walther PP police pistol. It operated on a simple blowback system and featured an all-steel construction with a double-action/single-action trigger and a slide-mounted safety/decocker, making it well suited for police and plainclothes service. During the Second World War, the pistol saw widespread issue among German police and security organizations, including the Ordnungspolizei and Kriminalpolizei, and was produced in several calibers, most commonly 7.65×17mmSR.</Original>
+				<English>Manufacturer: Carl Walther GmbH Sportwaffen%1Length: 6.1 inches%1Ammunition: 7.65×17mmSR%1Rate of Fire: 25 rpm%1Weight: 0.53kg%1Firing Mode(s): Semi-Automatic%1Magazine: 7-round box magazine%1Effective Range: 25 meters%1%1The Walther PPK is a compact German semi-automatic pistol introduced in 1931 by Carl Walther GmbH as a shorter, more concealable variant of the Walther PP police pistol. It operated on a simple blowback system and featured an all-steel construction with a double-action/single-action trigger and a slide-mounted safety/decocker, making it well suited for police and plainclothes service. During the Second World War, the pistol saw widespread issue among German police and security organizations, including the Ordnungspolizei and Kriminalpolizei, and was produced in several calibers, most commonly 7.65×17mmSR.</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>

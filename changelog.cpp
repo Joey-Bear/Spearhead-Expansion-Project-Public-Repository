@@ -2,6 +2,54 @@
 //CHANGELOG
 //===================================
 
+==1.0.5==
+
+- [ADDED] MP 18/I
+- [ADDED] MP 28/II
+- [ADDED] ACE compatibility for Gew 98 (Luxor 3x)
+- [ADDED] ST M44 Sturmmann variants
+- [ADDED] Volkssturm M44 variants
+- [ADDED] GER FSJ uniforms and headgear in Telo mimetico camouflage
+- [ADDED] GER ST headgear in Telo mimetico camouflage
+- [ADDED] SEP_I_FEB CfgUnitInsignia
+- [ADDED] SEP Logo CfgUnitInsignia
+- [ADDED] Additional helmets and uniforms for Blue Division
+- [ADDED] GER LwFD Sumpf uniform variants and Split Medic variant
+- [ADDED] Additional Volkssturm Civilian clothes
+- [ADDED] Additional Polish Resistance Civilian clothes
+- [ADDED] La Resistenza
+- [ADDED] CW Mk.IIs in Maltese rubble camouflage
+- [ADDED] Astra M300
+- [ADDED] Walther PPK
+- [ADDED] Men (Sikh) in Commonwealth faction
+- [ADDED] Sikh identities
+- [ADDED] CW Turbans
+
+- [FIXED] Sturmtrooper decals on M44
+- [FIXED] Incorrect TextureSources name on SEP_I_US_WIN_P47D
+- [FIXED] Incorrect author on SEP_B_GER_WIN_FW190F8
+- [FIXED] Incorrect icon on SEP_I_AK_Infantry_Sniper_Team
+- [FIXED] Incorrect decals in SEP_I_IHTC_Vehicles
+- [FIXED] Missing suitpacks across multiple factions
+
+- [UPDATED] SEP_FieldManual with new entries
+- [UPDATED] SEP_B_GER_H_Stahlhelm_BD_co.paa
+- [UPDATED] Collar insignia on Volkssturm units
+- [UPDATED] Volkssturm CfgGroups
+- [UPDATED] 8.8 cm Raketenwerfer 43 model and textures
+- [UPDATED] SEP_I_FEB structure rework
+- [UPDATED] SEP_I_AK structure rework
+- [UPDATED] SEP_I_IHTC structure rework
+- [UPDATED] SEP_WP_Gewehr98, SEP_WP_MAS38 and SEP_WP_MP507 config structures
+- [UPDATED] Volkssturm CfgVehicles
+- [UPDATED] AK_Armband_co.paa
+- [UPDATED] SEP_B_GER_SdKfz305_Exterior_Win_co.paa
+
+- [REMOVED] M1917 Enfield
+- [REMOVED] Volkssturm Asst. Squad Leader
+- [REMOVED] SEP_B_GER_U_FieldUniform_Volk_Unblsd_Gefr
+- [REMOVED] SEP_I_FEB uniforms
+
 ==1.0.4==
 
 - [ADDED] Sturmtroopers (Winter)

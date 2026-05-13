@@ -2,7 +2,7 @@ class CfgPatches
 {
 	class SEP_Identities
 	{
-		author="Grave";
+		author="Joe";
 		addonRootClass="A3_Characters_F";
 		units[]={};
 		weapons[]={};
@@ -37,6 +37,8 @@ class CfgFaces
 	class Man_A3: Default
 	{
 		class Default;
+		class PersianHead_A3_01;
+		//Hispanic//
 		class SEP_Hispanic_01: Default
 		{
 			displayName="Morales";
@@ -199,6 +201,62 @@ class CfgFaces
 			materialHL="SEP_Identities\Data\Body_Hispanic_09.rvmat";
 			materialHL2="SEP_Identities\Data\Body_Hispanic_09.rvmat";
 		};
+		
+		//Sikh//
+		class SEP_Sikh_01: PersianHead_A3_01
+		{
+			displayName="Ajit";
+			author="Joe";
+			identityTypes[]=
+			{
+				"Head_Sikh"
+			};
+			head = "PersianHead_A3";
+			texture="SEP_Identities\Data\sikh\Head_Sikh_01_CO.paa";
+			material="SEP_Identities\Data\sikh\Head_Sikh_01.rvmat";
+			materialWounded1="SEP_Identities\Data\sikh\Head_Sikh_01_Injury.rvmat";
+			materialWounded2="SEP_Identities\Data\sikh\Head_Sikh_01_Injury.rvmat";
+			textureHL="SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
+			textureHL2="SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
+			materialHL="SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
+			materialHL2="SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
+		};
+		class SEP_Sikh_02: Default
+		{
+			displayName="Ekam";
+			author="Joe";
+			identityTypes[]=
+			{
+				"Head_Sikh"
+			};
+			head = "PersianHead_A3";
+			texture="SEP_Identities\Data\sikh\Head_Sikh_02_CO.paa";
+			material="SEP_Identities\Data\sikh\Head_Sikh_02.rvmat";
+			materialWounded1="SEP_Identities\Data\sikh\Head_Sikh_02_Injury.rvmat";
+			materialWounded2="SEP_Identities\Data\sikh\Head_Sikh_02_Injury.rvmat";
+			textureHL="SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
+			textureHL2="SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
+			materialHL="SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
+			materialHL2="SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
+		};
+		class SEP_Sikh_03: PersianHead_A3_01
+		{
+			displayName="Guneet";
+			author="Joe";
+			identityTypes[]=
+			{
+				"Head_Sikh"
+			};
+			head = "TanoanHead_A3";
+			texture="SEP_Identities\Data\sikh\Head_Sikh_03_CO.paa";
+			material="SEP_Identities\Data\sikh\Head_Sikh_03.rvmat";
+			materialWounded1="SEP_Identities\Data\sikh\Head_Sikh_03_Injury.rvmat";
+			materialWounded2="SEP_Identities\Data\sikh\Head_Sikh_03_Injury.rvmat";
+			textureHL="SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
+			textureHL2="SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
+			materialHL="SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
+			materialHL2="SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
+		};		
 	};
 };
 
@@ -432,6 +490,187 @@ class CfgWorlds
 				neagu="Neagu";
 				petrescu="Petrescu";
 				popescu="Popescu";
+			};
+		};
+		
+		class ItalianMen
+		{
+			class FirstNames
+			{
+				adriano="Adriano";
+				alberto="Alberto";
+				alessandro="Alessandro";
+				alfio="Alfio";
+				andrea="Andrea";
+				angelo="Angelo";
+				antonio="Antonio";
+				armando="Armando";
+				bruno="Bruno";
+				carlo="Carlo";
+				cataldo="Cataldo";
+				claudio="Claudio";
+				cornelio="Cornelio";
+				costantino="Costantino";
+				daniele="Daniele";
+				domenico="Domenico";
+				edoardo="Edoardo";
+				efisio="Efisio";
+				elia="Elia";
+				enrico="Enrico";
+				francesco="Francesco";
+				gabriele="Gabriele";
+				giannino="Giannino";
+				gino="Gino";
+				giorgio="Giorgio";
+				giovanni="Giovanni";
+				giuseppe="Giuseppe";
+				giuliano="Giuliano";
+				leone="Leone";
+				lorenzo="Lorenzo";
+				luciano="Luciano";
+				marcello="Marcello";
+				michele="Michele";
+				nicola="Nicola";
+				orazio="Orazio";
+				paolo="Paolo";
+				pietro="Pietro";
+				raffaele="Raffaele";
+				renato="Renato";
+				ruggero="Ruggero";
+				salvatore="Salvatore";
+				sebastiano="Sebastiano";
+				sergio="Sergio";
+				silvano="Silvano";
+				umberto="Umberto";
+				vittorio="Vittorio";
+			};
+			class LastNames
+			{
+				barbieri="Barbieri";
+				bellini="Bellini";
+				bianchi="Bianchi";
+				brambilla="Brambilla";
+				caruso="Caruso";
+				colombo="Colombo";
+				conte="Conte";
+				coppola="Coppola";
+				deangelis="DeAngelis";
+				degregorio="DeGregorio";
+				esposito="Esposito";
+				farina="Farina";
+				ferrari="Ferrari";
+				fontana="Fontana";
+				gallo="Gallo";
+				gentile="Gentile";
+				grassi="Grassi";
+				greco="Greco";
+				lombardi="Lombardi";
+				mancini="Mancini";
+				marina="Marino";
+				martini="Martini";
+				melis="Melis";
+				moretti="Moretti";
+				orciani="Orciani";
+				parisi="Parisi";
+				pellegrini="Pellegrini";
+				piras="Piras";
+				ricci="Ricci";
+				romano="Romano";
+				rossi="Rossi";
+				russo="Russo";
+				santoro="Santoro";
+				sartori="Sartori";
+				serra="Serra";
+				silvestri="Silvestri";
+				testa="Testa";
+				todaro="Todaro";
+				toscano="Toscano";
+				venturi="Venturi";
+				vitali="Vitali";
+				zaccaria="Zaccaria";
+				zamboni="Zamboni";
+				zappia="Zappia";
+				zucca="Zucca";
+			};
+		};	
+
+		class SikhMen
+		{
+			class FirstNames
+			{
+				amarjit="Amarjit";
+				amritpal="Amritpal";
+				baldev="Baldev";
+				baljit="Baljit";
+				balwinder="Balwinder";
+				charanjit="Charanjit";
+				daljit="Daljit";
+				darshan="Darshan";
+				gagandeep="Gagandeep";
+				gurbachan="Gurbachan";
+				gurcharan="Gurcharan";
+				gurdeep="Gurdeep";
+				gurdial="Gurdial";
+				gurinder="Gurinder";
+				gurjit="Gurjit";
+				gurmukh="Gurmukh";
+				gurpreet="Gurpreet";
+				gursewak="Gursewak";
+				harbhajan="Harbhajan";
+				harinder="Harinder";
+				harjit="Harjit";
+				harpreet="Harpreet";
+				hardeep="Hardeep";
+				jagdeep="Jagdeep";
+				jagjit="Jagjit";
+				jasbir="Jasbir";
+				jasdeep="Jasdeep";
+				jaspreet="Jaspreet";
+				kuldeep="Kuldeep";
+				maninder="Maninder";
+				manpreet="Manpreet";
+				navdeep="Navdeep";
+				parminder="Parminder";
+				ranjit="Ranjit";
+				sukhdeep="Sukhdeep";
+			};
+			class LastNames
+			{				
+				atwal="Atwal";
+				bains="Bains";
+				bajwa="Bajwa";
+				bal="Bal";
+				banga="Banga";
+				basra="Basra";
+				bath="Bath";
+				bhatti="Bhatti";
+				brar="Brar";
+				cheema="Cheema";
+				chahal="Chahal";
+				deol="Deol";
+				dhaliwal="Dhaliwal";
+				dhillon="Dhillon";
+				gill="Gill";
+				gillan="Gillan";
+				grewal="Grewal";
+				hayer="Hayer";
+				johal="Johal";
+				kang="Kang";
+				mann="Mann";
+				matharu="Matharu";
+				pannu="Pannu";
+				randhawa="Randhawa";
+				sahota="Sahota";
+				sandhu="Sandhu";
+				sehgal="Sehgal";
+				shergill="Shergill";
+				sidhu="Sidhu";
+				sohi="Sohi";
+				takhar="Takhar";
+				thind="Thind";
+				toor="Toor";
+				uppal="Uppal";
+				virk="Virk";
 			};
 		};	
 	};

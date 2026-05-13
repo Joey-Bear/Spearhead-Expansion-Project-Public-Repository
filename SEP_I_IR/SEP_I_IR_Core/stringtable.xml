@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Spearhead Expansion Project">
+	<Package name="SEP_I_IR">
+		<Container name="displayName">
+			<Key ID="STR_SEP_I_IR_displayName">
+				<Original>La Resistenza</Original>
+				<English>La Resistenza</English>
+			</Key>
+		</Container>
+
+		<Container name="Library">
+			<Key ID="STR_SEP_I_IR_description">
+				<Original>Alignment: Allies%1Capital: Rome%1National Language: Italian%1Demonyms: Italian%1%1Rooted in earlier underground opposition to fascism, the Italian Resistance (La Resistenza) expanded dramatically after the German invasion of Italy in 1943. What had been a clandestine movement became an organised, armed struggle, uniting diverse partisan groups against Nazi occupation and the remnants of the fascist regime. From late 1943 onward, resistance fighters conducted widespread guerrilla operations - sabotaging infrastructure, gathering intelligence, and engaging German forces - playing a vital role in weakening Axis control and supporting the Allied advance through Italy.%1&lt;img size='17' shadow='0' image='SEP_FieldManual\data\IR.paa' /&gt;</Original>
+				<English>Alignment: Allies%1Capital: Rome%1National Language: Italian%1Demonyms: Italian%1%1Rooted in earlier underground opposition to fascism, the Italian Resistance (La Resistenza) expanded dramatically after the German invasion of Italy in 1943. What had been a clandestine movement became an organised, armed struggle, uniting diverse partisan groups against Nazi occupation and the remnants of the fascist regime. From late 1943 onward, resistance fighters conducted widespread guerrilla operations - sabotaging infrastructure, gathering intelligence, and engaging German forces - playing a vital role in weakening Axis control and supporting the Allied advance through Italy.%1&lt;img size='17' shadow='0' image='SEP_FieldManual\data\IR.paa' /&gt;</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>

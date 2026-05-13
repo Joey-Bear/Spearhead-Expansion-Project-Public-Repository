@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Spearhead Expansion Project">
+	<Package name="SEP_WP_MAS38">
+		<Container name="displayName">
+			<Key ID="STR_SEP_WP_MAS38_displayName">
+				<Original>MAS-38</Original>
+				<English>MAS-38</English>
+			</Key>
+		</Container>
+
+		<Container name="Library">
+			<Key ID="STR_SEP_WP_MAS38_description">
+				<Original>Manufacturer: Manufacture d'armes de Saint-Étienne%1Length: 25 inches%1Ammunition: 7.65mm Longue%1Rate of Fire: 650 rpm%1Weight: 2.87kg%1Firing Mode(s): Automatic%1Magazine: 32-round box magazine%1Effective Range: 200 meters%1%1The MAS-38 is a submachine gun that was developed for the French Army before the outbreak of the Second World War. Chambered in the 7.65mm Longue cartridge and feeding from a 32-round detachable box magazine, the MAS-38 features a wooden stock and a compact, lightweight design. The Wehrmacht seized the MAS plant in 1940 just as the MAS-38 was entering large-scale production.</Original>
+				<English>Manufacturer: Manufacture d'armes de Saint-Étienne%1Length: 25 inches%1Ammunition: 7.65mm Longue%1Rate of Fire: 650 rpm%1Weight: 2.87kg%1Firing Mode(s): Automatic%1Magazine: 32-round box magazine%1Effective Range: 200 meters%1%1The MAS-38 is a submachine gun that was developed for the French Army before the outbreak of the Second World War. Chambered in the 7.65mm Longue cartridge and feeding from a 32-round detachable box magazine, the MAS-38 features a wooden stock and a compact, lightweight design. The Wehrmacht seized the MAS plant in 1940 just as the MAS-38 was entering large-scale production.</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>

@@ -17,7 +17,7 @@ class SEP_I_IHTC_M20_AUC : SPE_M20_AUC
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_interior_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_turret_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_wheel_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M8_20_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};
 	class TextureSources
@@ -34,7 +34,7 @@ class SEP_I_IHTC_M20_AUC : SPE_M20_AUC
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_interior_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_turret_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_wheel_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M8_20_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -71,7 +71,7 @@ class SEP_I_IHTC_M8_LAC : SPE_M8_LAC
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_turret_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_interior_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_wheel_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M8_20_Decals_ca.paa",//Decals
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_interior_co.paa",
 		"\a3\data_f\clear_empty.paa"
 	};
@@ -89,7 +89,7 @@ class SEP_I_IHTC_M8_LAC : SPE_M8_LAC
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_turret_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_interior_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_wheel_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M8_20_Decals_ca.paa",//Decals
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_interior_co.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
@@ -133,7 +133,7 @@ class SEP_I_IHTC_M8_LAC_ringMount : SPE_M8_LAC_ringMount
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_turret_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_interior_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_wheel_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M8_20_Decals_ca.paa",//Decals
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_interior_co.paa",
 		"\a3\data_f\clear_empty.paa"
 	};
@@ -151,7 +151,7 @@ class SEP_I_IHTC_M8_LAC_ringMount : SPE_M8_LAC_ringMount
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_turret_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_interior_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_wheel_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M8_20_Decals_ca.paa",//Decals
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_interior_co.paa",
 				"\a3\data_f\clear_empty.paa"
 			};

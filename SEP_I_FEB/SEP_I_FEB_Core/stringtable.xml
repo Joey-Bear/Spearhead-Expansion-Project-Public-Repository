@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Spearhead Expansion Project">
+	<Package name="SEP_I_FEB">
+		<Container name="displayName">
+			<Key ID="STR_SEP_I_FEB_displayName">
+				<Original>Força Expedicionária Brasileira</Original>
+				<English>Força Expedicionária Brasileira</English>
+			</Key>
+		</Container>
+
+		<Container name="Library">
+			<Key ID="STR_SEP_I_FEB_description">
+				<Original>Alignment: Allies%1Capital: Rio de Janeiro%1National Language: Portuguese%1Demonyms: Brazilian%1%1Formed to support the Allied war effort, the Brazilian Expeditionary Force (Força Expedicionária Brasileira) deployed to Italy in the final phase of the Second World War. Fighting alongside Allied armies from 1944 onward, Brazilian soldiers took part in sustained frontline combat, advancing against entrenched German forces and helping to collapse Axis resistance in northern Italy. Their service marked Brazil’s first large-scale overseas combat deployment.%1&lt;img size='17' shadow='0' image='SEP_FieldManual\data\FEB.paa' /&gt;</Original>
+				<English>Alignment: Allies%1Capital: Rio de Janeiro%1National Language: Portuguese%1Demonyms: Brazilian%1%1Formed to support the Allied war effort, the Brazilian Expeditionary Force (Força Expedicionária Brasileira) deployed to Italy in the final phase of the Second World War. Fighting alongside Allied armies from 1944 onward, Brazilian soldiers took part in sustained frontline combat, advancing against entrenched German forces and helping to collapse Axis resistance in northern Italy. Their service marked Brazil’s first large-scale overseas combat deployment.%1&lt;img size='17' shadow='0' image='SEP_FieldManual\data\FEB.paa' /&gt;</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>

@@ -1,10 +1,11 @@
+//Smock - Split
 class SEP_B_GER_U_LwFDSmock_CFV : B_Soldier_F
 {
     author="Jamie";
     scope= 1;
     scopeArsenal=2;
     scopeCurator= 2;
-    displayName="GER LwFD Field Smock";
+    displayName="GER LwFD Field Smock (Split)";
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_LwFDSmock";
@@ -20,13 +21,14 @@ class SEP_B_GER_U_LwFDSmock_CFV : B_Soldier_F
         "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
+
 class SEP_B_GER_U_LwFDSmock_Gaiters_CFV : B_Soldier_F
 {
     author="Jamie";
     scope= 1;
     scopeArsenal=2;
     scopeCurator= 2;
-    displayName="GER LwFD Field Smock";
+    displayName="GER LwFD Field Smock (Split, Gaiters)";
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_LwFDSmock_Gaiters";
@@ -44,16 +46,34 @@ class SEP_B_GER_U_LwFDSmock_Gaiters_CFV : B_Soldier_F
         "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
-class SEP_B_GER_U_LwFDSmock_gry_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
+
+class SEP_B_GER_U_LwFDSmock_gry_CFV : SEP_B_GER_U_LwFDSmock_CFV
 {
     author="Jamie";
     scope= 1;
     scopeArsenal=2;
     scopeCurator= 2;
-    displayName="GER LwFD Field Smock (Grau)";
+    displayName="GER LwFD Field Smock (Split, Grau)";
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_LwFDSmock_gry";
+    hiddenSelectionsTextures[] = 
+    {
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_gry_CO.paa",
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+    };
+};
+
+class SEP_B_GER_U_LwFDSmock_Gaiters_gry_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
+{
+    author="Jamie";
+    scope= 1;
+    scopeArsenal=2;
+    scopeCurator= 2;
+    displayName="GER LwFD Field Smock (Split, Grau, Gaiters)";
+    side = 2;
+    nakedUniform="U_BasicBody";
+    uniformClass="SEP_B_GER_U_LwFDSmock_Gaiters_gry";
     hiddenSelectionsTextures[] = 
     {
         "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_gry_CO.paa",
@@ -61,13 +81,14 @@ class SEP_B_GER_U_LwFDSmock_gry_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
         "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
+
 class SEP_B_GER_U_LwFDSmock_Uffz_CFV : SEP_B_GER_U_LwFDSmock_CFV
 {
     author="Jamie";
     scope= 1;
     scopeArsenal=2;
     scopeCurator= 2;
-    displayName="GER LwFD Field Smock (Uffz.)";
+    displayName="GER LwFD Field Smock (Split, Uffz.)";
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_LwFDSmock_Uffz";
@@ -77,16 +98,71 @@ class SEP_B_GER_U_LwFDSmock_Uffz_CFV : SEP_B_GER_U_LwFDSmock_CFV
         "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_UNTEROFFIZER_CA.paa"
     };
 };
-class SEP_B_GER_U_LwFDSmock_sumpf_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
+
+class SEP_B_GER_U_LwFDSmock_Medic_CFV : SEP_B_GER_U_LwFDSmock_CFV
+{
+    author="Jamie, Joe";
+    scope= 1;
+    scopeArsenal=2;
+    scopeCurator= 2;
+    displayName="GER LwFD Field Smock (Split, Medic)";
+    side = 2;
+    nakedUniform="U_BasicBody";
+    uniformClass="SEP_B_GER_U_LwFDSmock_Medic";
+    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock.p3d";
+    hiddenSelections[] = 
+    {
+        "camo",
+        "branch"
+    };
+    hiddenSelectionsTextures[] = 
+    {
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_medic_split_grau_co.paa",
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+    };
+};
+
+//Smock - Sumpf
+class SEP_B_GER_U_LwFDSmock_Sumpf_CFV : B_Soldier_F
 {
     author="Jamie";
     scope= 1;
     scopeArsenal=2;
     scopeCurator= 2;
-    displayName="GER LwFD Field Smock (Sumpftarnmuster)";
+    displayName="GER LwFD Field Smock (Sumpf)";
     side = 2;
     nakedUniform="U_BasicBody";
-    uniformClass="SEP_B_GER_U_LwFDSmock_sumpf";
+    uniformClass="SEP_B_GER_U_LwFDSmock_Sumpf";
+    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock.p3d";
+    hiddenSelections[] = 
+    {
+        "camo",
+        "branch"
+    };
+    hiddenSelectionsTextures[] = 
+    {
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_CO.paa",
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+    };
+};
+
+class SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters_CFV : B_Soldier_F
+{
+    author="Jamie";
+    scope= 1;
+    scopeArsenal=2;
+    scopeCurator= 2;
+    displayName="GER LwFD Field Smock (Sumpf, Gaiters)";
+    side = 2;
+    nakedUniform="U_BasicBody";
+    uniformClass="SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters";
+    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock_Gaiters.p3d";
+    hiddenSelections[] = 
+    {
+        "camo",
+        "camo1",
+        "branch"
+    };
     hiddenSelectionsTextures[] = 
     {
         "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_CO.paa",
@@ -95,6 +171,82 @@ class SEP_B_GER_U_LwFDSmock_sumpf_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
     };
 };
 
+class SEP_B_GER_U_LwFDSmock_Sumpf_gry_CFV : SEP_B_GER_U_LwFDSmock_Sumpf_CFV
+{
+    author="Jamie";
+    scope= 1;
+    scopeArsenal=2;
+    scopeCurator= 2;
+    displayName="GER LwFD Field Smock (Sumpf, Grau)";
+    side = 2;
+    nakedUniform="U_BasicBody";
+    uniformClass="SEP_B_GER_U_LwFDSmock_Sumpf_gry";
+    hiddenSelectionsTextures[] = 
+    {
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_grau_CO.paa",
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+    };
+};
+
+class SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters_gry_CFV : SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters_CFV
+{
+    author="Jamie";
+    scope= 1;
+    scopeArsenal=2;
+    scopeCurator= 2;
+    displayName="GER LwFD Field Smock (Sumpf, Grau, Gaiters)";
+    side = 2;
+    nakedUniform="U_BasicBody";
+    uniformClass="SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters_gry";
+    hiddenSelectionsTextures[] = 
+    {
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_grau_CO.paa",
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+    };
+};
+
+class SEP_B_GER_U_LwFDSmock_Sumpf_Uffz_CFV : SEP_B_GER_U_LwFDSmock_Sumpf_CFV
+{
+    author="Jamie";
+    scope= 1;
+    scopeArsenal=2;
+    scopeCurator= 2;
+    displayName="GER LwFD Field Smock (Sumpf, Uffz.)";
+    side = 2;
+    nakedUniform="U_BasicBody";
+    uniformClass="SEP_B_GER_U_LwFDSmock_Sumpf_Uffz";
+    hiddenSelectionsTextures[] = 
+    {
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_grau_CO.paa",
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_UNTEROFFIZER_CA.paa"
+    };
+};
+
+class SEP_B_GER_U_LwFDSmock_Sumpf_Medic_CFV : SEP_B_GER_U_LwFDSmock_Sumpf_CFV
+{
+    author="Jamie, Joe";
+    scope= 1;
+    scopeArsenal=2;
+    scopeCurator= 2;
+    displayName="GER LwFD Field Smock (Sumpf, Medic)";
+    side = 2;
+    nakedUniform="U_BasicBody";
+    uniformClass="SEP_B_GER_U_LwFDSmock_Sumpf_Medic";
+    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock.p3d";
+    hiddenSelections[] = 
+    {
+        "camo",
+        "branch"
+    };
+    hiddenSelectionsTextures[] = 
+    {
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_Sumpf_grau_medic_co.paa",
+        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+    };
+};
+
+//Smock - Flak
 class SEP_B_GER_U_LwFDSmock_ART_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
 {
     author="Jamie";

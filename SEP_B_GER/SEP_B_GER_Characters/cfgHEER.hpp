@@ -1,4 +1,4 @@
-// Headgear
+// Headgear (CfgWeapons)
 
 class SEP_B_GER_H_Stahlhelm_WIN_1 : H_SPE_GER_Helmet
 {
@@ -356,6 +356,137 @@ class SEP_B_GER_H_M40_Burlap_NS_WIN : H_SPE_GER_HelmetCamo3_OS
 	};
 };
 
+class SEP_B_GER_H_FieldCap_Gry : H_SPE_GER_Cap
+{
+	author = "Joe";
+	scope = 2;
+	weaponPoolAvailable = 1;
+	displayName = "GER Field Cap 1943, Grey";
+	descriptionShort = "No Armor";
+	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FieldCap_Gry_ca.paa";
+	hiddenSelectionsTextures[] = 
+	{
+		"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\M43_Cap_co.paa",
+		""
+	};
+};
+
+class SEP_B_GER_H_FieldCap_Brn : H_SPE_GER_Cap
+{
+	author = "Joe";
+	scope = 2;
+	weaponPoolAvailable = 1;
+	displayName = "GER Field Cap 1943, Brown";
+	descriptionShort = "No Armor";
+	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FieldCap_Brn_ca.paa";
+	hiddenSelectionsTextures[] = 
+	{
+		"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_FieldCap_Brn_co.paa",
+		""
+	};
+};
+
+class SEP_B_GER_H_Stahlhelm_M16: H_HelmetB
+{
+	author = "OokamiJamie";
+	displayName = "GER Stahlhelm 1916 (Grau)";
+	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M16_ca.paa";
+	scope = 2;
+	model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_Stahlhelm_M16.p3d";
+	hiddenSelections[] = 
+	{
+		"camo"
+	};
+	hiddenSelectionsTextures[] = 
+	{
+		"\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_Stahlhelm_M16_gry_CO.paa"
+	};
+	class ItemInfo: ItemInfo
+	{
+		mass = 30;
+		hiddenSelections[] = 
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[] = 
+		{
+			"\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_Stahlhelm_M16_gry_CO.paa"
+		};
+		uniformModel = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_Stahlhelm_M16.p3d";
+		class HitpointsProtectionInfo
+		{
+			class Head
+			{
+				hitpointName = HitHead;
+				armor = 4;
+				passThrough = 0.4;
+			};
+		};
+	};
+};
+
+class SEP_B_GER_H_Stahlhelm_M16_grn: SEP_B_GER_H_Stahlhelm_M16
+{
+	author = "OokamiJamie";
+	displayName = "GER Stahlhelm 1916";
+	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M16_grn_ca.paa";
+	scope = 2;
+	hiddenSelectionsTextures[] = 
+	{
+		"\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_Stahlhelm_M16_grn_CO.paa"
+	};
+};
+
+class SEP_B_GER_H_Stahlhelm_M35_gry : H_SPE_GER_Helmet_M35
+{
+	author = "OokamiJamie";
+	scope = 2;
+	weaponPoolAvailable = 1;
+	displayName = "GER Stahlhelm 1935 (Grau)";
+	descriptionShort = "Armor Level I";
+	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_gry_ca.paa";
+	hiddenSelectionsTextures[] = 
+	{
+		"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_gry_co.paa"
+	};
+};
+
+class SEP_B_GER_H_Stahlhelm_M35_ns_gry : H_SPE_GER_Helmet_M35_ns
+{
+	author = "OokamiJamie";
+	scope = 2;
+	weaponPoolAvailable = 1;
+	displayName = "GER Stahlhelm 1935 (Grau, Opened)";
+	descriptionShort = "Armor Level I";
+	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_ns_gry_ca.paa";
+	hiddenSelectionsTextures[] = 
+	{
+		"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_gry_co.paa"
+	};
+};
+
+// Uniforms (NVGs)
+
+class SEP_B_GER_N_Feld_Gorget: NVGoggles
+{
+	author = "Lukinator";
+	scope = 2;
+	scopeArsenal = 2;
+	displayName = "GER Feldgendarmerie Gorget";
+	model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
+	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_F_Feld_Gorget_ca.paa";
+	modelOptics = "\A3\Weapons_F\Reticle\optics_empty.p3d";
+	visionMode[] = {Normal};
+	class ItemInfo: ItemInfo
+	{
+		uniformModel = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
+		modelOff = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
+		mass = 6;
+	};
+};
+
+
+
 // Uniforms (CfgWeapons)
 class SEP_B_GER_U_Parka_grau : Uniform_Base
 {
@@ -363,7 +494,9 @@ class SEP_B_GER_U_Parka_grau : Uniform_Base
     scope = 2;
     displayName = "GER Parka";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_grau_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -379,7 +512,9 @@ class SEP_B_GER_U_Parka_grau_mix : Uniform_Base
     scope = 2;
     displayName = "GER Parka (Grey/White Mixed)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_grau_mix_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -395,7 +530,9 @@ class SEP_B_GER_U_Parka_wht : Uniform_Base
     scope = 2;
     displayName = "GER Parka (White)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_wht_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -411,7 +548,9 @@ class SEP_B_GER_U_Parka_wht_mix : Uniform_Base
     scope = 2;
     displayName = "GER Parka (White/Grey Mixed)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_wht_mix_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -427,7 +566,9 @@ class SEP_B_GER_U_Parka_grau_mix_uffz : Uniform_Base
     scope = 2;
     displayName = "GER Parka (Uffz. Grey/White Mixed)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_grau_mix_uffz_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -443,7 +584,9 @@ class SEP_B_GER_U_Parka_sumpf : Uniform_Base
     scope = 2;
     displayName = "GER Parka (Sumpftarnmuster)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_sumpf_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -460,7 +603,9 @@ class SEP_B_GER_U_FieldUniform_M44 : Uniform_Base
     scope = 2;
     displayName = "GER Field Uniform 1944";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -477,7 +622,9 @@ class SEP_B_GER_U_FieldUniform_M44_Open : Uniform_Base
     scope = 2;
     displayName = "GER Field Uniform 1944 (Opened)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Open_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -494,7 +641,9 @@ class SEP_B_GER_U_FieldUniform_M44_Open_Gref : Uniform_Base
     scope = 2;
     displayName = "GER Field Uniform 1944 (Opened, Gefreiter)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Open_Gref_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -511,7 +660,9 @@ class SEP_B_GER_U_FieldUniform_M44_Roll : Uniform_Base
     scope = 2;
     displayName = "GER Field Uniform 1944 (Rolled)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Roll_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -528,7 +679,9 @@ class SEP_B_GER_U_FieldUniform_M44_Unbloused : Uniform_Base
     scope = 2;
     displayName = "GER Field Uniform 1944 (Unbloused)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Unbloused_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -545,7 +698,9 @@ class SEP_B_GER_U_FieldUniform_M44_Uffz : Uniform_Base
     scope = 2;
     displayName = "GER Field Uniform 1944 (Unteroffizier)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -562,7 +717,9 @@ class SEP_B_GER_U_FieldUniform_M44_Open_Uffz : Uniform_Base
     scope = 2;
     displayName = "GER Field Uniform 1944 (Opened, Unteroffizier)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Open_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -579,7 +736,9 @@ class SEP_B_GER_U_FieldUniform_M44_Roll_Uffz : Uniform_Base
     scope = 2;
     displayName = "GER Field Uniform 1944 (Rolled, Unteroffizier)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Roll_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -596,7 +755,9 @@ class SEP_B_GER_U_FieldUniform_M44_Ober : Uniform_Base
     scope = 2;
     displayName = "GER Field Uniform 1944 (Oberschutze)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Ober_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -613,7 +774,9 @@ class SEP_B_GER_U_FieldUniform_M44_Roll_Gref : Uniform_Base
     scope = 2;
     displayName = "GER Field Uniform 1944 (Rolled, Gefreiter)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Roll_Gref_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -630,7 +793,9 @@ class SEP_B_GER_U_Mantel_M36 : Uniform_Base
     scope = 2;
     displayName = "GER Mantel 1936";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M36_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -647,7 +812,9 @@ class SEP_B_GER_U_Mantel_M36_Gaiters : Uniform_Base
     scope = 2;
     displayName = "GER Mantel 1936 (Gaiters)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M36_Gaiters_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -664,7 +831,9 @@ class SEP_B_GER_U_Mantel_M36_Uffz : Uniform_Base
     scope = 2;
     displayName = "GER Mantel 1936 (Unteroffizer)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M36_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -681,7 +850,9 @@ class SEP_B_GER_U_Mantel_M40 : Uniform_Base
     scope = 2;
     displayName = "GER Mantel 1940";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -698,7 +869,9 @@ class SEP_B_GER_U_Mantel_M40_Gaiters : Uniform_Base
     scope = 2;
     displayName = "GER Mantel 1940 (Gaiters)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_Gaiters_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -715,7 +888,9 @@ class SEP_B_GER_U_Mantel_M40_Unbloused : Uniform_Base
     scope = 2;
     displayName = "GER Mantel 1940 (Unbloused)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_Unbloused_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -732,7 +907,9 @@ class SEP_B_GER_U_Mantel_M40_Uffz : Uniform_Base
     scope = 2;
     displayName = "GER Mantel 1940 (Unteroffizer)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -749,7 +926,9 @@ class SEP_B_GER_U_Mantel_M40_Lehr : Uniform_Base
     scope = 2;
     displayName = "GER Mantel 1940 (Panzer Lehr)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
     picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_Lehr_ca.paa";
     class ItemInfo: UniformItem
     {

@@ -1,4 +1,4 @@
-class SEP_B_GER_DAK_Rflmn_K98 : B_Soldier_F
+class SEP_B_GER_DAK_Rflmn_K98 : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -29,7 +29,7 @@ class SEP_B_GER_DAK_Rflmn_K98 : B_Soldier_F
     backpack = "B_SPE_GER_Belt_bag_K98k_MG";
 };
 
-class SEP_B_GER_DAK_Rflmn_Pith : B_Soldier_lite_F
+class SEP_B_GER_DAK_Rflmn_Pith : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -60,7 +60,7 @@ class SEP_B_GER_DAK_Rflmn_Pith : B_Soldier_lite_F
     backpack = "B_SPE_GER_Belt_bag_K98k_MG";
 };	
     
-class SEP_B_GER_DAK_Rflmn_Unr : B_Soldier_unarmed_F
+class SEP_B_GER_DAK_Rflmn_Unr : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -91,7 +91,7 @@ class SEP_B_GER_DAK_Rflmn_Unr : B_Soldier_unarmed_F
     backpack = "B_SPE_GER_Belt_bag_K98k_MG";
 };
 
-class SEP_B_GER_DAK_Driver : B_Soldier_F
+class SEP_B_GER_DAK_Driver : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -122,7 +122,7 @@ class SEP_B_GER_DAK_Driver : B_Soldier_F
     backpack = "B_SPE_GER_Belt_bag_K98k_MG";
 };
 
-class SEP_B_GER_DAK_Driver_Lite : B_Soldier_F
+class SEP_B_GER_DAK_Driver_Lite : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -153,7 +153,7 @@ class SEP_B_GER_DAK_Driver_Lite : B_Soldier_F
     backpack = "B_SPE_GER_Belt_bag_K98k_MG";
 };
 
-class SEP_B_GER_DAK_Gren : B_Soldier_GL_F
+class SEP_B_GER_DAK_Gren : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -184,7 +184,7 @@ class SEP_B_GER_DAK_Gren : B_Soldier_GL_F
     backpack = "B_SPE_GER_Belt_bag_K98k_MG";
 };
 
-class SEP_B_GER_DAK_MG_MG34 : B_support_MG_F
+class SEP_B_GER_DAK_MG_MG34 : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -215,7 +215,7 @@ class SEP_B_GER_DAK_MG_MG34 : B_support_MG_F
     backpack = "B_SPE_GER_Backpack_MGAmmo";
 };
 
-class SEP_B_GER_DAK_AMG : B_support_AMG_F
+class SEP_B_GER_DAK_AMG : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -246,7 +246,7 @@ class SEP_B_GER_DAK_AMG : B_support_AMG_F
     backpack = "B_SPE_GER_Backpack_MGAmmo";
 };
 
-class SEP_B_GER_DAK_MG_MG42 : B_support_MG_F
+class SEP_B_GER_DAK_MG_MG42 : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -277,7 +277,7 @@ class SEP_B_GER_DAK_MG_MG42 : B_support_MG_F
     backpack = "B_SPE_GER_Backpack_MGAmmo";
 };
     
-class SEP_B_GER_DAK_SL : B_Soldier_SL_F
+class SEP_B_GER_DAK_SL : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -308,7 +308,7 @@ class SEP_B_GER_DAK_SL : B_Soldier_SL_F
     backpack = "B_SPE_GER_A_frame";
 };
 
-class SEP_B_GER_DAK_ASL : B_Soldier_TL_F
+class SEP_B_GER_DAK_ASL : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -339,7 +339,7 @@ class SEP_B_GER_DAK_ASL : B_Soldier_TL_F
     backpack = "B_SPE_GER_Belt_bag";
 };
 
-class SEP_B_GER_DAK_Sniper : B_sniper_F
+class SEP_B_GER_DAK_Sniper : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -370,7 +370,7 @@ class SEP_B_GER_DAK_Sniper : B_sniper_F
     backpack = "B_SPE_GER_Belt_bag_K98k_MG";
 };
         
-class SEP_B_GER_DAK_Medic : B_medic_F
+class SEP_B_GER_DAK_Medic : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -401,7 +401,7 @@ class SEP_B_GER_DAK_Medic : B_medic_F
     backpack = "B_SPE_GER_MedicBackpack";
 };
 
-class SEP_B_GER_DAK_Sapper_Gefr : B_engineer_F
+class SEP_B_GER_DAK_Sapper_Gefr : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -432,7 +432,7 @@ class SEP_B_GER_DAK_Sapper_Gefr : B_engineer_F
     backpack = "_xx_SEP_B_GER_B_Explosives";
 };
 
-class SEP_B_GER_DAK_Sapper : B_engineer_F
+class SEP_B_GER_DAK_Sapper : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -463,7 +463,7 @@ class SEP_B_GER_DAK_Sapper : B_engineer_F
     backpack = "_xx_SEP_B_GER_B_Explosives";
 };
         
-class SEP_B_GER_DAK_Ofcr : B_officer_F
+class SEP_B_GER_DAK_Ofcr : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -490,7 +490,7 @@ class SEP_B_GER_DAK_Ofcr : B_officer_F
     
 };
 
-class SEP_B_GER_DAK_Radioman : B_Soldier_F
+class SEP_B_GER_DAK_Radioman : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -521,7 +521,7 @@ class SEP_B_GER_DAK_Radioman : B_Soldier_F
     backpack = "B_SPE_GER_Radio";
 };
 
-class SEP_B_GER_DAK_Mortar_Gunner : B_Soldier_F
+class SEP_B_GER_DAK_Mortar_Gunner : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -552,7 +552,7 @@ class SEP_B_GER_DAK_Mortar_Gunner : B_Soldier_F
     backpack = "B_SPE_GER_Tonister41_Frame_Full_Mortar";
 };
 
-class SEP_B_GER_DAK_Mortar_AGunner : B_Soldier_F
+class SEP_B_GER_DAK_Mortar_AGunner : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -583,7 +583,7 @@ class SEP_B_GER_DAK_Mortar_AGunner : B_Soldier_F
     backpack = "B_SPE_GER_Tonister41_Frame_Full_Mortar";
 };
 
-class SEP_B_GER_DAK_Mortar_AmmoBearer : B_Soldier_F
+class SEP_B_GER_DAK_Mortar_AmmoBearer : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -616,7 +616,7 @@ class SEP_B_GER_DAK_Mortar_AmmoBearer : B_Soldier_F
 
 //Artillery
 
-class SEP_B_GER_DAK_GunCrew : B_Soldier_F
+class SEP_B_GER_DAK_GunCrew : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -648,7 +648,7 @@ class SEP_B_GER_DAK_GunCrew : B_Soldier_F
     backpack = "B_SPE_GER_Belt_bag_K98k_MG";
 };
 
-class SEP_B_GER_DAK_GunCrew_SquadLead : B_Soldier_SL_F
+class SEP_B_GER_DAK_GunCrew_SquadLead : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -680,7 +680,7 @@ class SEP_B_GER_DAK_GunCrew_SquadLead : B_Soldier_SL_F
     backpack = "B_SPE_GER_Belt_bag_K98k_MG";
 };
 
-class SEP_B_GER_DAK_GunCrew_Lieutenant : B_officer_F
+class SEP_B_GER_DAK_GunCrew_Lieutenant : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -714,7 +714,7 @@ class SEP_B_GER_DAK_GunCrew_Lieutenant : B_officer_F
 
 //Flak-Korps
 
-class SEP_B_GER_DAK_Flak_Gun_Crew : B_Soldier_F
+class SEP_B_GER_DAK_Flak_Gun_Crew : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -746,7 +746,7 @@ class SEP_B_GER_DAK_Flak_Gun_Crew : B_Soldier_F
     backpack = "B_SPE_GER_Belt_bag";
 };
 
-class SEP_B_GER_DAK_Flak_Gun_SL : B_Soldier_SL_F
+class SEP_B_GER_DAK_Flak_Gun_SL : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -780,7 +780,7 @@ class SEP_B_GER_DAK_Flak_Gun_SL : B_Soldier_SL_F
 
 //Tank crew
 
-class SEP_B_GER_DAK_Tank_Crew : B_Soldier_F
+class SEP_B_GER_DAK_Tank_Crew : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -811,7 +811,7 @@ class SEP_B_GER_DAK_Tank_Crew : B_Soldier_F
     
 };
 
-class SEP_B_GER_DAK_Tank_SL : B_Soldier_SL_F
+class SEP_B_GER_DAK_Tank_SL : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -842,7 +842,7 @@ class SEP_B_GER_DAK_Tank_SL : B_Soldier_SL_F
     
 };
 
-class SEP_B_GER_DAK_Tank_Leut : B_officer_F
+class SEP_B_GER_DAK_Tank_Leut : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -873,7 +873,7 @@ class SEP_B_GER_DAK_Tank_Leut : B_officer_F
     
 };
 
-class SEP_B_GER_DAK_SPG_Crew : B_Soldier_F
+class SEP_B_GER_DAK_SPG_Crew : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -904,7 +904,7 @@ class SEP_B_GER_DAK_SPG_Crew : B_Soldier_F
     
 };
 
-class SEP_B_GER_DAK_SPG_SL : B_Soldier_SL_F
+class SEP_B_GER_DAK_SPG_SL : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -935,7 +935,7 @@ class SEP_B_GER_DAK_SPG_SL : B_Soldier_SL_F
     
 };
 
-class SEP_B_GER_DAK_SPG_Leut : B_officer_F
+class SEP_B_GER_DAK_SPG_Leut : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;
@@ -968,7 +968,7 @@ class SEP_B_GER_DAK_SPG_Leut : B_officer_F
 
 //Pilot
 
-class SEP_B_GER_DAK_Pilot : B_Pilot_F
+class SEP_B_GER_DAK_Pilot : SEP_B_GER_Soldier_Base
 {
     author = "Joe";
     scope = 1;

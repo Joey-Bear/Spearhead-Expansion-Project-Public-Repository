@@ -117,7 +117,9 @@ class SEP_I_US_U_Coat_brn : Uniform_Base
     scope = 2;
     displayName = "US Greatcoat";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Americans_t\suitpacks\suitpack_us_hbt_co.paa"};
     picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_U_Coat_brn_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -133,7 +135,9 @@ class SEP_I_US_U_Coat_snow : Uniform_Base
     scope = 2;
     displayName = "US Greatcoat (Snow)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Americans_t\suitpacks\suitpack_us_hbt_co.paa"};
     picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_U_Coat_snow_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -150,7 +154,9 @@ class SEP_I_US_U_M43_snow : Uniform_Base
     scope = 2;
     displayName = "US M1943 Uniform (Snow)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Americans_t\suitpacks\suitpack_us_hbt_co.paa"};
     picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_U_M43_snow_ca.paa";
     class ItemInfo: UniformItem
     {
@@ -167,7 +173,9 @@ class SEP_I_US_U_M43_trop_snow : Uniform_Base
     scope = 2;
     displayName = "US M1943 Uniform (Unbloused, Snow)";
     descriptionShort = "";
-    model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+	hiddenSelections[] = {"camo"};
+	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Americans_t\suitpacks\suitpack_us_hbt_co.paa"};
     picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_U_M43_trop_snow_ca.paa";
     class ItemInfo: UniformItem
     {

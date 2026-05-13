@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Spearhead Expansion Project">
+	<Package name="SEP_WP_A300">
+		<Container name="displayName">
+			<Key ID="STR_SEP_WP_A300_displayName">
+				<Original>Astra M300</Original>
+				<English>Astra M300</English>
+			</Key>
+		</Container>
+
+		<Container name="Library">
+			<Key ID="STR_SEP_WP_A300_description">
+				<Original>Manufacturer: Astra-Unceta y Cia SA%1Length: 6.3 inches%1Ammunition: 9x17mm Short%1Rate of Fire: 25 rpm%1Weight: 0.630kg%1Firing Mode(s): Semi-Automatic%1Magazine: 6-round box magazine%1Effective Range: 25 meters%1%1The Astra 300 is a compact Spanish semi-automatic pistol introduced in the early 1920s by Astra-Unceta y Cía as a smaller version of the Astra 400. It operated on a simple blowback system and featured a solid all-steel construction with a streamlined, service-oriented design suited to military and police use. During the Second World War, Germany placed a substantial order for the pistol, and approximately 85,000 were delivered to the Wehrmacht between 1941 and 1944, of which 63,000 were chambered in in 9×17mm Short.</Original>
+				<English>Manufacturer: Astra-Unceta y Cia SA%1Length: 6.3 inches%1Ammunition: 9x17mm Short%1Rate of Fire: 25 rpm%1Weight: 0.630kg%1Firing Mode(s): Semi-Automatic%1Magazine: 6-round box magazine%1Effective Range: 25 meters%1%1The Astra 300 is a compact Spanish semi-automatic pistol introduced in the early 1920s by Astra-Unceta y Cía as a smaller version of the Astra 400. It operated on a simple blowback system and featured a solid all-steel construction with a streamlined, service-oriented design suited to military and police use. During the Second World War, Germany placed a substantial order for the pistol, and approximately 85,000 were delivered to the Wehrmacht between 1941 and 1944, of which 63,000 were chambered in in 9×17mm Short.</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>

@@ -55,7 +55,7 @@ class SEP_B_GER_WIN_OpelBlitz : SPE_OpelBlitz
 	crew = "SEP_B_GER_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -72,7 +72,7 @@ class SEP_B_GER_WIN_OpelBlitz : SPE_OpelBlitz
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -142,7 +142,7 @@ class SEP_B_GER_WIN_OpelBlitz_Open : SPE_OpelBlitz_Open
 	crew = "SEP_B_GER_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -159,7 +159,7 @@ class SEP_B_GER_WIN_OpelBlitz_Open : SPE_OpelBlitz_Open
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -229,7 +229,7 @@ class SEP_B_GER_WIN_OpelBlitz_Ambulance : SPE_OpelBlitz_Ambulance
 	crew = "SEP_B_GER_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -246,7 +246,7 @@ class SEP_B_GER_WIN_OpelBlitz_Ambulance : SPE_OpelBlitz_Ambulance
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -316,7 +316,7 @@ class SEP_B_GER_WIN_OpelBlitz_Ammo : SPE_OpelBlitz_Ammo
 	crew = "SEP_B_GER_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -333,7 +333,7 @@ class SEP_B_GER_WIN_OpelBlitz_Ammo : SPE_OpelBlitz_Ammo
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -403,7 +403,7 @@ class SEP_B_GER_WIN_OpelBlitz_Fuel : SPE_OpelBlitz_Fuel
 	crew = "SEP_B_GER_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -420,7 +420,7 @@ class SEP_B_GER_WIN_OpelBlitz_Fuel : SPE_OpelBlitz_Fuel
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -490,7 +490,7 @@ class SEP_B_GER_WIN_OpelBlitz_Repair : SPE_OpelBlitz_Repair
 	crew = "SEP_B_GER_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -507,7 +507,7 @@ class SEP_B_GER_WIN_OpelBlitz_Repair : SPE_OpelBlitz_Repair
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -587,7 +587,7 @@ class SEP_B_GER_WIN_OpelBlitz_Flak38 : SPE_OpelBlitz_Flak38
 	crew = "SEP_B_GER_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -609,7 +609,7 @@ class SEP_B_GER_WIN_OpelBlitz_Flak38 : SPE_OpelBlitz_Flak38
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -640,7 +640,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz : SPE_OpelBlitz
 	crew = "SEP_B_GER_Sturm_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -657,7 +657,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz : SPE_OpelBlitz
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -683,7 +683,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz_Open : SPE_OpelBlitz_Open
 	crew = "SEP_B_GER_Sturm_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -700,7 +700,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz_Open : SPE_OpelBlitz_Open
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -726,7 +726,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz_Ambulance : SPE_OpelBlitz_Ambulance
 	crew = "SEP_B_GER_Sturm_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -743,7 +743,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz_Ambulance : SPE_OpelBlitz_Ambulance
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -769,7 +769,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz_Ammo : SPE_OpelBlitz_Ammo
 	crew = "SEP_B_GER_Sturm_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -786,7 +786,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz_Ammo : SPE_OpelBlitz_Ammo
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -812,7 +812,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz_Fuel : SPE_OpelBlitz_Fuel
 	crew = "SEP_B_GER_Sturm_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -829,7 +829,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz_Fuel : SPE_OpelBlitz_Fuel
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -855,7 +855,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz_Repair : SPE_OpelBlitz_Repair
 	crew = "SEP_B_GER_Sturm_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -872,7 +872,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz_Repair : SPE_OpelBlitz_Repair
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -898,7 +898,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz_Flak38 : SPE_OpelBlitz_Flak38
 	crew = "SEP_B_GER_Sturm_WIN_Driver";	
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
@@ -920,7 +920,7 @@ class SEP_B_GER_Sturm_WIN_OpelBlitz_Flak38 : SPE_OpelBlitz_Flak38
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
+				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_Exterior_Win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",
 				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz305_win_co.paa",

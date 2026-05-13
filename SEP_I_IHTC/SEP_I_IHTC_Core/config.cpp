@@ -15,8 +15,8 @@ class CfgFactionClasses
 	{
         displayName = "[SEP] Îles Horizon Troupes Coloniales";
         side = 2;
-	    flag = "";
-        icon = "";
+		flag = "\SEP_I_IHTC\SEP_I_IHTC_Core\data\flag_IHTC_co.paa";
+		icon = "\SEP_I_IHTC\SEP_I_IHTC_Core\data\cfgFactionClasses_IHTC_ca.paa";
         priority = 1;
 	};
 };

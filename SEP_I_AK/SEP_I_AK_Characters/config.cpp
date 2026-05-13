@@ -3,7 +3,8 @@ class CfgPatches
 {
 	class SEP_I_AK_Characters
 	{
-        units[] = {
+        units[] = 
+		{
 			//Infantry - Polish Resistance//
 			"SEP_I_AK_Rflmn_K98",
 			"SEP_I_AK_Rflmn_Sten",
@@ -26,17 +27,52 @@ class CfgPatches
 			"SEP_I_AK_Mortar_AGunner",
 			"SEP_I_AK_Mortar_AmmoBearer",
         };
-        weapons[] = {
+        weapons[] = 
+		{
 			//Weapons//
 			//Headgear//
 			"SEP_I_AK_H_Stahlhelm_Flg",
 			//NVGs//
-			//Uniforms//
-			"SEP_I_AK_U_Suit_Blk_Pld",
-			"SEP_I_AK_U_Suit_Gry",
-			"SEP_I_AK_U_Suit_WrkOut",
-			"SEP_I_AK_U_Swetr_Plaid",
-			"SEP_I_AK_U_Coverall_Gry",
+			//Uniforms - Civilian//
+			"SEP_I_AK_U_Casual_1",
+			"SEP_I_AK_U_Casual_Rolled_1",
+			"SEP_I_AK_U_Casual_2",
+			"SEP_I_AK_U_Casual_Rolled_2",
+			"SEP_I_AK_U_Casual_3",
+			"SEP_I_AK_U_Casual_Rolled_3",
+			"SEP_I_AK_U_Casual_4",
+			"SEP_I_AK_U_Casual_Rolled_4",
+			"SEP_I_AK_U_Casual_5",
+			"SEP_I_AK_U_Casual_Rolled_5",
+			"SEP_I_AK_U_Casual_6",
+			"SEP_I_AK_U_Casual_Rolled_6",
+			"SEP_I_AK_U_Casual_7",
+			"SEP_I_AK_U_Casual_Rolled_7",
+			"SEP_I_AK_U_Jacket_zwart",
+			"SEP_I_AK_U_Jacket_zwart_alt",
+			"SEP_I_AK_U_Jacket_zwart_swetr",
+			"SEP_I_AK_U_Jacket_bruin",
+			"SEP_I_AK_U_Jacket_bruin_swetr",
+			"SEP_I_AK_U_Jacket_grijs",
+			"SEP_I_AK_U_Jacket_grijs_swetr",
+			"SEP_I_AK_U_Worker_1",
+			"SEP_I_AK_U_Worker_Rolled_1",
+			"SEP_I_AK_U_Worker_2",
+			"SEP_I_AK_U_Worker_Rolled_2",			
+			"SEP_I_AK_U_Worker_3",
+			"SEP_I_AK_U_Worker_Rolled_3",			
+			"SEP_I_AK_U_Worker_4",
+			"SEP_I_AK_U_Worker_Rolled_4",		
+			"SEP_I_AK_U_Worker_Coverall_1",
+			"SEP_I_AK_U_Worker_Coverall_Rolled_1",
+			"SEP_I_AK_U_Worker_Coverall_2",
+			"SEP_I_AK_U_Worker_Coverall_Rolled_2",
+			"SEP_I_AK_U_Swetr_vest_1",
+			"SEP_I_AK_U_Swetr_vest_2",
+			"SEP_I_AK_U_Swetr_vest_3",
+			"SEP_I_AK_U_Swetr_vest_4",
+			"SEP_I_AK_U_Swetr_vest_5",
+			//Uniforms - Captured//
 			"SEP_I_AK_U_FieldUniform_Sumpf",
 			//Vests//
 			//Backpacks//
@@ -72,140 +108,11 @@ class cfgWeapons
 	class H_SPE_GER_Helmet;
 			
 //===================================
-//Custom Classes (Headgear)
+//Custom Classes (CfgWeapons)
 //===================================
 
-	class SEP_I_AK_H_Stahlhelm_Flg : H_SPE_GER_Helmet
-	{
-		author = "Joe";
-		scope = 2;
-		weaponPoolAvailable = 1;
-		displayName = "PR Stahlhelm 1942 (Flag)";
-		descriptionShort = "Armor Level I";
-		picture = "\SEP_I_AK\SEP_I_AK_Characters\data\ui\icons\SEP_I_AK_H_Stahlhelm_Flg_ca.paa";
-		hiddenSelectionsTextures[] = 
-		{
-			"\SEP_I_AK\SEP_I_AK_Characters\data\SEP_I_AK_H_Stahlhelm_Flg_co.paa"
-		};
-	};
-		
-//===================================
-//Custom Classes (Uniforms)
-//===================================
-	
-	class SEP_I_AK_U_Suit_Blk_Pld : Uniform_Base
-	{
-		author = "Joe";
-		scope = 2;
-		displayName = "PR Suit Open Black (Plaid Shirt)";
-		descriptionShort = "";
-		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-		picture = "\SEP_I_AK\SEP_I_AK_Characters\data\ui\icons\SEP_I_AK_U_Suit_Blk_Pld_ca.paa";
-		class ItemInfo: UniformItem
-		{
-			uniformModel= "-";
-			uniformClass= "SEP_I_AK_U_Suit_Blk_Pld_CFV";
-			containerClass= "Supply50";
-			mass=20;
-		};
-	};
-	
-	class SEP_I_AK_U_Suit_Gry : Uniform_Base
-	{
-		author = "Joe";
-		scope = 2;
-		displayName = "PR Suit Open Grey (Sweater)";
-		descriptionShort = "";
-		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-		picture = "\SEP_I_AK\SEP_I_AK_Characters\data\ui\icons\SEP_I_AK_U_Suit_Gry_ca.paa";
-		class ItemInfo: UniformItem
-		{
-			uniformModel= "-";
-			uniformClass= "SEP_I_AK_U_Suit_Gry_CFV";
-			containerClass= "Supply50";
-			mass=20;
-		};
-	};
+#include "cfgAK.hpp"
 
-	class SEP_I_AK_U_Suit_WrkOut : Uniform_Base
-	{
-		author = "Joe";
-		scope = 2;
-		displayName = "PR Working Outfit (Grey/Brown)";
-		descriptionShort = "";
-		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-		picture = "\SEP_I_AK\SEP_I_AK_Characters\data\ui\icons\SEP_I_AK_U_Suit_WrkOut_ca.paa";
-		class ItemInfo: UniformItem
-		{
-			uniformModel= "-";
-			uniformClass= "SEP_I_AK_U_Suit_WrkOut_CFV";
-			containerClass= "Supply50";
-			mass=20;
-		};
-	};
-
-	class SEP_I_AK_U_Swetr_Plaid : Uniform_Base
-	{
-		author = "Joe";
-		scope = 2;
-		displayName = "PR Sweater Vest (Plaid)";
-		descriptionShort = "";
-		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-		picture = "\SEP_I_AK\SEP_I_AK_Characters\data\ui\icons\SEP_I_AK_U_Swetr_Plaid_ca.paa";
-		class ItemInfo: UniformItem
-		{
-			uniformModel= "-";
-			uniformClass= "SEP_I_AK_U_Swetr_Plaid_CFV";
-			containerClass= "Supply50";
-			mass=20;
-		};
-	};
-	
-	class SEP_I_AK_U_Coverall_Gry : Uniform_Base
-	{
-		author = "Joe";
-		scope = 2;
-		displayName = "PR Worker Coveralls (Grey)";
-		descriptionShort = "";
-		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-		picture = "\SEP_I_AK\SEP_I_AK_Characters\data\ui\icons\SEP_I_AK_U_Coverall_Gry_ca.paa";
-		class ItemInfo: UniformItem
-		{
-			uniformModel= "-";
-			uniformClass= "SEP_I_AK_U_Coverall_Gry_CFV";
-			containerClass= "Supply50";
-			mass=20;
-		};
-	};
-	
-	class SEP_I_AK_U_FieldUniform_Sumpf : Uniform_Base
-	{
-		author = "Joe";
-		scope = 2;
-		displayName = "PR Field Uniform (Sumpf, Gaiters)";
-		descriptionShort = "";
-		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-		picture = "\SEP_I_AK\SEP_I_AK_Characters\data\ui\icons\SEP_I_AK_U_FieldUniform_Sumpf_ca.paa";
-		class ItemInfo: UniformItem
-		{
-			uniformModel= "-";
-			uniformClass= "SEP_I_AK_U_FieldUniform_Sumpf_CFV";
-			containerClass= "Supply50";
-			mass=20;
-		};
-	};
-	
-//===================================
-//Custom Classes (NVGs)
-//===================================
-				
-//===================================
-//Custom Classes (Vests)
-//===================================
-	
-//===================================
-//Custom Classes (Weapons)
-//===================================
 };
 
 class CfgVehicles 
@@ -217,23 +124,53 @@ class CfgVehicles
 	//Equipment Inheritances - Spearhead 1944//
 	class B_SPE_GER_MedicBackpack_Empty;
 	class B_SPE_GER_Belt_bag_MG;
-	class B_SPE_GER_Tonister41_Frame;
-	
-	class B_SPE_GER_A_frame_MGCan;				//A-Frame (MG Box)
-	
+	class B_SPE_GER_Tonister41_Frame;	
+	class B_SPE_GER_A_frame_MGCan;				//A-Frame (MG Box)	
 	class B_SPE_CIV_musette;					//Sling Bag
 	
 	//Infantry Inheritances - Spearhead 1944//
-		
-	class SPE_FFI_Jacket_zwart_alt;				//Suit Open Black (Plaid Shirt)
-	class SPE_FFI_Jacket_grijs_swetr;			//Suit Open Grey (Sweater)
-
-	class SPE_CIV_Swetr_4_vest;					//Sweater Vest
-	class SPE_FFI_Worker_1;						//Working Outfit
+	//Civilian
+	class SPE_FFI_Casual_1;
+	class SPE_FFI_Casual_1_trop;
+	class SPE_FFI_Casual_2;
+	class SPE_FFI_Casual_2_trop;
+	class SPE_FFI_Casual_3;
+	class SPE_FFI_Casual_3_trop;	
+	class SPE_FFI_Casual_4;
+	class SPE_FFI_Casual_4_trop;		
+	class SPE_FFI_Casual_5;
+	class SPE_FFI_Casual_5_trop;	
+	class SPE_FFI_Casual_6;
+	class SPE_FFI_Casual_6_trop;
+	class SPE_FFI_Casual_7;
+	class SPE_FFI_Casual_7_trop;
+	class SPE_FFI_Jacket_zwart;
+	class SPE_FFI_Jacket_zwart_Alt;
+	class SPE_FFI_Jacket_zwart_swetr;
+	class SPE_FFI_Jacket_bruin;
+	class SPE_FFI_Jacket_bruin_swetr;
+	class SPE_FFI_Jacket_grijs;
+	class SPE_FFI_Jacket_grijs_swetr;
+	class SPE_FFI_Worker_1;
+	class SPE_FFI_Worker_1_trop;
+	class SPE_FFI_Worker_2;
+	class SPE_FFI_Worker_2_trop;
+	class SPE_FFI_Worker_3;
+	class SPE_FFI_Worker_3_trop;
+	class SPE_FFI_Worker_4;
+	class SPE_FFI_Worker_4_trop;
+	class SPE_CIV_Worker_Coverall_2;
+	class SPE_CIV_Worker_Coverall_2_trop;
+	class SPE_CIV_Worker_Coverall_3;
+	class SPE_CIV_Worker_Coverall_3_trop;
 	
-	class SPE_CIV_Worker_Coverall_3;			//Worker Coveralls (Grey)
-	class SPE_CIV_Worker_Coverall_3_trop;		//Worker Coveralls (Grey, Rolled)
-		
+	class SPE_CIV_Swetr_1_vest;
+	class SPE_CIV_Swetr_2_vest;	
+	class SPE_CIV_Swetr_3_vest;	
+	class SPE_CIV_Swetr_4_vest;	
+	class SPE_CIV_Swetr_5_vest;	
+	
+	//Captured
 	class SPE_GER_soldier_camo5_gaiter;			//Field Uniform (Sumpf, Gaiters)
 
 	class SEP_I_AK_Man_Base: I_soldier_F
@@ -246,797 +183,22 @@ class CfgVehicles
 	};
 	class SEP_I_AK_Soldier_Base: SEP_I_AK_Man_Base
 	{
-		uniformClass = "SEP_I_AK_U_Suit_WrkOut";
+		uniformClass = "SEP_I_AK_U_Worker_1";
 		class EventHandlers;
 	};
 	
 //===================================
-//Custom Classes (INFANTRY - Polish Resistance)
+//Custom Classes (Men)
 //SEP Polish Resistance
 //===================================
 
-    class SEP_I_AK_Rflmn_K98 : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Militia (K98k)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_K98.jpg";
-		icon = "iconManRifleman";
-		role = "Rifleman";
-		
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-      
-        uniformClass = "SEP_I_AK_U_Suit_WrkOut";
+    #include "cfgAK_Units.hpp"
 
-        linkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_K98","Put","Throw"};
-        respawnWeapons[] = {"SPE_K98","Put","Throw"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-		
-		backpack = "B_SPE_CIV_satchel";
-    };
-	
-    class SEP_I_AK_Rflmn_Sten : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Militia (Sten)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_Sten.jpg";
-		icon = "iconManSMG";
-		role = "Assault";
-		
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-      
-        uniformClass = "SEP_I_AK_U_Suit_WrkOut";
-
-        linkedItems[] = {"H_SPE_GER_Helmet","V_SPE_FFI_Vest_SMG_pouch","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"H_SPE_GER_Helmet","V_SPE_FFI_Vest_SMG_pouch","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_Sten_Mk2","Put","Throw"};
-        respawnWeapons[] = {"SPE_Sten_Mk2","Put","Throw"};
-
-        magazines[] = {MAG_10(SPE_32Rnd_9x19_Sten),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_10(SPE_32Rnd_9x19_Sten),MAG_2(SPE_Shg24)};
-		
-		backpack = "";
-    };
-	
-    class SEP_I_AK_Rflmn_MP40 : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Militia (MP 40)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_MP40.jpg";
-		icon = "iconManSMG";
-		role = "Assault";
-		
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-      
-        uniformClass = "SEP_I_AK_U_Coverall_Gry";
-
-        linkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_SMG_pouch","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_SMG_pouch","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_MP40","Put","Throw"};
-        respawnWeapons[] = {"SPE_MP40","Put","Throw"};
-
-        magazines[] = {MAG_10(SPE_32Rnd_9x19),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_10(SPE_32Rnd_9x19),MAG_2(SPE_Shg24)};
-		
-		backpack = "";
-    };
-	
-    class SEP_I_AK_Rflmn_Flame : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Militia (Flammenwerfer 41)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_Flame.jpg";
-		icon = "iconMan";
-		role = "Flamethrower";
-		
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-      
-        uniformClass = "SEP_I_AK_U_Coverall_Gry";
-
-        linkedItems[] = {"H_SPE_GER_Helmet","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"H_SPE_GER_Helmet","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_Flammenwerfer41","SPE_P08","Put","Throw"};
-        respawnWeapons[] = {"SPE_Flammenwerfer41","SPE_P08","Put","Throw"};
-
-        magazines[] = {MAG_4(SPE_8Rnd_9x19_P08),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_4(SPE_8Rnd_9x19_P08),MAG_2(SPE_Shg24)};
-		
-		backpack = "B_SPE_GER_Flammenwerfer_41";
-    };
-		
-    class SEP_I_AK_Rflmn_Lite : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Militia (Light)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_Lite.jpg";
-		icon = "iconManRifleman";
-		role = "Rifleman";
-		
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-      
-        uniformClass = "SEP_I_AK_U_Suit_Blk_Pld";
-
-        linkedItems[] = {"H_SPE_CIV_Worker_Cap_2","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"H_SPE_CIV_Worker_Cap_2","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_K98","Put","Throw"};
-        respawnWeapons[] = {"SPE_K98","Put","Throw"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-		
-		backpack = "B_SPE_FFI_Gasbag";
-    };	
-	
-    class SEP_I_AK_Rflmn_Unr : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Militia (Unarmed)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_Unr.jpg";
-		icon = "iconManRifleman";
-		role = "Rifleman";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Suit_WrkOut";
-
-        linkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {};
-        respawnWeapons[] = {};
-
-        magazines[] = {};
-        respawnMagazines[] = {};
-		
-		backpack = "B_SPE_CIV_satchel";
-    };
-	
-    class SEP_I_AK_Gren : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Grenadier";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Gren.jpg";
-		icon = "iconManGrenadier";
-		role = "Grenadier";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Suit_Blk_Pld";
-
-        linkedItems[] = {"H_SPE_CIV_Worker_Cap_2","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"H_SPE_CIV_Worker_Cap_2","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_K98_GW","Put","Throw"};
-        respawnWeapons[] = {"SPE_K98_GW","Put","Throw"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_1Rnd_G_M2_ANM8),MAG_2(SPE_1Rnd_G_SPRGR_30),MAG_2(SPE_1Rnd_G_PZGR_30),MAG_2(SPE_1Rnd_G_PZGR_40),MAG_1(SPE_1Rnd_G_FLGR),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_1Rnd_G_M2_ANM8),MAG_2(SPE_1Rnd_G_SPRGR_30),MAG_2(SPE_1Rnd_G_PZGR_30),MAG_2(SPE_1Rnd_G_PZGR_40),MAG_1(SPE_1Rnd_G_FLGR),MAG_2(SPE_Shg24)};
-		
-		backpack = "B_SPE_CIV_satchel";
-    };
-		
-    class SEP_I_AK_MG_MG34 : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Machine-Gunner (MG 34)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_MG_MG34.jpg";
-		icon = "iconManMG";
-		role = "MachineGunner";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Suit_WrkOut";
-
-        linkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_MG34","Put","Throw"};
-        respawnWeapons[] = {"SPE_MG34","Put","Throw"};
-
-        magazines[] = {MAG_2(SPE_100Rnd_792x57),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_2(SPE_100Rnd_792x57),MAG_2(SPE_Shg24)};
-		
-		backpack = "_xx_SEP_I_AK_B_MG_MG34";
-    };
-	
-    class SEP_I_AK_AMG : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Machine-Gunner (Assist.)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_AMG.jpg";
-		icon = "iconManRifleman";
-		role = "Assistant";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Coverall_Gry";
-
-        linkedItems[] = {"H_SPE_GER_Helmet","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"H_SPE_GER_Helmet","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-		
-        weapons[] = {"SPE_K98","SPE_Lafette_Tripod","Put","Throw"};
-        respawnWeapons[] = {"SPE_K98","SPE_Lafette_Tripod","Put","Throw"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-
-		backpack = "_xx_SEP_I_AK_B_MG_MG34";	
-    };
-			
-    class SEP_I_AK_SL : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Team Leader (MP 40)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_SL.jpg";
-		icon = "iconManOfficer";
-		role = "SquadLeader";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_FieldUniform_Sumpf";
-
-        linkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_erla_VestMP40","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-        respawnlinkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_erla_VestMP40","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-		
-		Items[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_MP40","Put","Throw"};
-        respawnWeapons[] = {"SPE_MP40","Put","Throw"};
-
-        magazines[] = {MAG_10(SPE_32Rnd_9x19),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_10(SPE_32Rnd_9x19),MAG_2(SPE_Shg24)};
-		
-		backpack = "";	
-    };
-	
-    class SEP_I_AK_ASL: SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Team Leader (K98k)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_ASL.jpg";
-		icon = "iconManLeader";
-		role = "SquadLeader";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Suit_WrkOut";
-
-        linkedItems[] = {"H_SPE_CIV_Fedora_Cap_1","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-        respawnlinkedItems[] = {"H_SPE_CIV_Fedora_Cap_1","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-		
-		Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_K98","Put","Throw"};
-        respawnWeapons[] = {"SPE_K98","Put","Throw"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-		
-		backpack = "";	
-    };
-	
-    class SEP_I_AK_Sniper : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Sniper (K98k ZF39)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Sniper.jpg";
-		icon = "iconManRecon";
-		role = "Marksman";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Suit_WrkOut";
-
-        linkedItems[] = {"H_SPE_CIV_Worker_Cap_2","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-        respawnlinkedItems[] = {"H_SPE_CIV_Worker_Cap_2","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-		
-		Items[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_GER_Medkit","SPE_GER_Medkit"};
-		
-        weapons[] = {"SPE_k98zf39","SPE_P08","Put","Throw"};
-        respawnWeapons[] = {"SPE_k98zf39","SPE_P08","Put","Throw"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-		
-		backpack = "B_SPE_CIV_satchel";
-    };
-	
-    class SEP_I_AK_AT_PZ30 : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Tank Hunter (Panzerfaust 30)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_AT_PZ30.jpg";   
-		icon = "iconManAT";
-		role = "MissileSpecialist";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Suit_WrkOut";
-
-        linkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_K98","Put","Throw","SPE_PzFaust_30m"};
-        respawnWeapons[] = {"SPE_K98","Put","Throw","SPE_PzFaust_30m"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_1(SPE_1Rnd_PzFaust_30m),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_1(SPE_1Rnd_PzFaust_30m),MAG_2(SPE_Shg24)};
-		
-		backpack = "B_SPE_CIV_musette";
-    };
-	
-    class SEP_I_AK_AT_PZ60 : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Tank Hunter (Panzerfaust 60)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_AT_PZ60.jpg";  
-		icon = "iconManAT";		
-		role = "MissileSpecialist";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Suit_Gry";
-
-        linkedItems[] = {"H_SPE_CIV_Worker_Cap_2","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"H_SPE_CIV_Worker_Cap_2","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_K98","Put","Throw","SPE_PzFaust_60m"};
-        respawnWeapons[] = {"SPE_K98","Put","Throw","SPE_PzFaust_60m"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_1(SPE_1Rnd_PzFaust_60m),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_1(SPE_1Rnd_PzFaust_60m),MAG_2(SPE_Shg24)};
-		
-		backpack = "B_SPE_CIV_musette";
-    };
-		
-    class SEP_I_AK_Medic : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Medic";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Medic.jpg";
-		icon = "iconManMedic";
-		role = "CombatLifeSaver";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Suit_Blk_Pld";
-
-        linkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_K98","Put","Throw"};
-        respawnWeapons[] = {"SPE_K98","Put","Throw"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-		
-		backpack = "_xx_SEP_I_AK_B_Medic";
-    };
-	
-    class SEP_I_AK_Sabo : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Saboteur";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Sabo.jpg";
-		icon = "iconManExplosive";
-		role = "SpecialOperative";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Coverall_Gry";
-
-        linkedItems[] = {"H_SPE_CIV_Worker_Cap_2","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"H_SPE_CIV_Worker_Cap_2","V_SPE_FFI_Vest_rifle_frag","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_K98","Put","Throw"};
-        respawnWeapons[] = {"SPE_K98","Put","Throw"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-		
-		backpack = "_xx_SEP_I_AK_B_Explosives";
-    };
-			
-    class SEP_I_AK_Ofcr : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Cell Leader";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Ofcr.jpg";
-		icon = "iconManCommander";
-		role = "SquadLeader";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Swetr_Plaid";
-
-        linkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_SMG_pouch","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-        respawnlinkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_SMG_pouch","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-		
-        weapons[] = {"SPE_MP40","SPE_P08","Put","Throw"};
-        respawnWeapons[] = {"SPE_MP40","SPE_P08","Put","Throw"};
-
-        magazines[] = {MAG_2(SPE_32Rnd_9x19),MAG_2(SPE_8Rnd_9x19_P08),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_2(SPE_32Rnd_9x19),MAG_2(SPE_8Rnd_9x19_P08),MAG_2(SPE_Shg24)};
-
-		backpack = "";
-    };
-	
-	class SEP_I_AK_Mortar_Gunner : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Gunner (GrW 278/1)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Mortar_Gunner.jpg";
-		icon = "iconManRifleman";
-		role = "Assistant";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Coverall_Gry";
-
-        linkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_K98","SPE_GrW278_1_Barrel","Put","Throw"};
-        respawnWeapons[] = {"SPE_K98","SPE_GrW278_1_Barrel","Put","Throw"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-		
-		backpack = "B_SPE_GER_Tonister41_Frame_Full_Mortar";
-    };
-	
-	class SEP_I_AK_Mortar_AGunner : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Asst. Gunner (GrW 278/1)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Mortar_AGunner.jpg";
-		icon = "iconManRifleman";
-		role = "Assistant";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Swetr_Plaid";
-
-        linkedItems[] = {"H_SPE_CIV_Worker_Cap_2","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-        respawnlinkedItems[] = {"H_SPE_CIV_Worker_Cap_2","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch","SPE_Binocular_GER"};
-		
-		Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_K98","SPE_GrW278_1_Stand","Put","Throw"};
-        respawnWeapons[] = {"SPE_K98","SPE_GrW278_1_Stand","Put","Throw"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-
-		backpack = "B_SPE_GER_Tonister41_Frame_Full_Mortar";
-    };
-	
-	class SEP_I_AK_Mortar_AmmoBearer : SEP_I_AK_Soldier_Base
-	{
-        author = "Joe";
-        scope = 2;
-        scopeCurator = 2;
-        displayName = "Ammo Bearer (GrW 278/1)";
-        side = 2;
-        faction = "SEP_I_AK_Units";
-		editorSubcategory = "EdSubcat_Personnel";		
-		editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Mortar_AmmoBearer.jpg";
-		icon = "iconManRifleman";
-		role = "Assistant";
-
-        identityTypes[] = {"LanguagePOL_F","Head_Enoch","Head_Euro","SPE_GER_Glasses"};
-		genericNames = "EnochMen";
-
-        uniformClass = "SEP_I_AK_U_Suit_Blk_Pld";
-
-        linkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-        respawnlinkedItems[] = {"SEP_I_AK_H_Stahlhelm_Flg","V_SPE_FFI_Vest_rifle","ItemMap","SPE_GER_ItemCompass_deg","SPE_GER_ItemWatch"};
-		
-		Items[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-		RespawnItems[] = {"SPE_ACC_K98_Bayo","SPE_GER_Medkit","SPE_GER_Medkit"};
-
-        weapons[] = {"SPE_K98","Put","Throw"};
-        respawnWeapons[] = {"SPE_K98","Put","Throw"};
-
-        magazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-        respawnMagazines[] = {MAG_25(SPE_5Rnd_792x57),MAG_2(SPE_Shg24)};
-
-		backpack = "B_SPE_GER_Tonister41_Frame_Full_Mortar";
-    };
-
-					
 //===================================
 //Textures - Uniforms
 //===================================
-	
-	class SEP_I_AK_U_Suit_Blk_Pld_CFV: SPE_FFI_Jacket_zwart_alt
-	{
-		author="Joe";
-		scope= 1;
-		scopeArsenal=2;
-		scopeCurator= 2;
-		displayName="PR Suit Open Black (Plaid Shirt)";
-		side = 2;
-		nakedUniform="U_BasicBody";
-		uniformClass= "SEP_I_AK_U_Suit_Blk_Pld";
-		hiddenSelectionsTextures[] = 
-		{
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_pak2_zwart_d_co.paa",
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_bruin_co.paa",
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_d_co.paa",
-			"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
-		};
-		modelSides[] = {6};
-	};
-		
-	class SEP_I_AK_U_Suit_Gry_CFV: SPE_FFI_Jacket_grijs_swetr
-	{
-		author="Joe";
-		scope= 1;
-		scopeArsenal=2;
-		scopeCurator= 2;
-		displayName="PR Suit Open Grey (Sweater)";
-		side = 2;
-		nakedUniform="U_BasicBody";
-		uniformClass= "SEP_I_AK_U_Suit_Gry";
-		hiddenSelectionsTextures[] = 
-		{
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_pak2_grijs_a_co.paa",
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_bruin_co.paa",
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\swetr1_d_co.paa",
-			"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
-		};
-		modelSides[] = {6};
-	};
-	
-	class SEP_I_AK_U_Suit_WrkOut_CFV: SPE_FFI_Worker_1
-	{
-		author="Joe";
-		scope= 1;
-		scopeArsenal=2;
-		scopeCurator= 2;
-		displayName="PR Working Outfit (Grey/Brown)";
-		side = 2;
-		nakedUniform="U_BasicBody";
-		uniformClass= "SEP_I_AK_U_Suit_WrkOut";
-		hiddenSelectionsTextures[] = 
-		{
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_sc2_d_co.paa",
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_grijs_co.paa",
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_e_co.paa",
-			"",
-			"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
-			""
-		};
-		modelSides[] = {6};
-	};
-	
-	class SEP_I_AK_U_Swetr_Plaid_CFV: SPE_CIV_Swetr_4_vest
-	{
-		author="Joe";
-		scope= 1;
-		scopeArsenal=2;
-		scopeCurator= 2;
-		displayName="PR Sweater Vest (Plaid)";
-		side = 2;
-		nakedUniform="U_BasicBody";
-		uniformClass= "SEP_I_AK_U_Swetr_Plaid";
-		hiddenSelectionsTextures[] = 
-		{
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_sc1_f_co.paa",
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_bruin_co.paa",
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\swetr1_c_co.paa",
-			"",
-			"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
-			""
-		};
-		modelSides[] = {6};
-	};	
 
-	class SEP_I_AK_U_Coverall_Gry_CFV: SPE_CIV_Worker_Coverall_3
-	{
-		author="Joe";
-		scope= 1;
-		scopeArsenal=2;
-		scopeCurator= 2;
-		displayName="PR Worker Coveralls (Grey)";
-		side = 2;
-		nakedUniform="U_BasicBody";
-		uniformClass= "SEP_I_AK_U_Coverall_Gry";
-		hiddenSelectionsTextures[] = 
-		{
-			"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_covral_grijs_co.paa",
-			"",
-			"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
-		};
-		modelSides[] = {6};
-	};
-	
-	class SEP_I_AK_U_FieldUniform_Sumpf_CFV: SPE_GER_soldier_camo5_gaiter
-	{
-		author="Joe";
-		scope= 1;
-		scopeArsenal=2;
-		scopeCurator= 2;
-		displayName="PR Field Uniform (Sumpf, Gaiters)";
-		side = 2;
-		nakedUniform="U_BasicBody";
-		uniformClass= "SEP_I_AK_U_FieldUniform_Sumpf";
-		hiddenSelectionsTextures[] = 
-		{
-			"\SEP_I_AK\SEP_I_AK_Characters\data\SEP_I_AK_U_FieldUniform_Sumpf_co.paa",
-			""
-		};
-		modelSides[] = {6};
-	};	
+	#include "cfgAK_Uniforms.hpp"
 			
 //===================================
 //Custom Classes (Backpacks)
@@ -1129,32 +291,37 @@ class CfgGroups
 			{
                 name = "Infantry";
 
-                class SEP_I_AK_Infantry_Platoon_HQ {
+                class SEP_I_AK_Infantry_Platoon_HQ 
+				{
                     name = "Command Circle";
                     side = 2;
                     faction = "SEP_I_AK_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_HQ.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "LIEUTENANT";
                         side = 2;
                         vehicle = "SEP_I_AK_Ofcr";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "SERGEANT";
                         side = 2;
                         vehicle = "SEP_I_AK_SL";
                     };
-                    class Unit2 {
+                    class Unit2 
+					{
                         position[] = {-5,-5,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_ASL";
                     };
-					class Unit3 {
+					class Unit3 
+					{
                         position[] = {10,-10,0};
                         rank = "CORPORAL";
                         side = 2;
@@ -1162,44 +329,51 @@ class CfgGroups
                     };
                 };
 
-                class SEP_I_AK_Militia_Group {
+                class SEP_I_AK_Militia_Group 
+				{
                     name = "Militia Group";
                     side = 2;
                     faction = "SEP_I_AK_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_Infantry.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "SERGEANT";
                         side = 2;
                         vehicle = "SEP_I_AK_SL";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_ASL";
                     };
-                    class Unit2 {
+                    class Unit2 
+					{
                         position[] = {-5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit3 {
+                    class Unit3 
+					{
                         position[] = {10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit4 {
+                    class Unit4 
+					{
                         position[] = {-10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_Sten";
                     };
-                    class Unit5 {
+                    class Unit5 
+					{
                         position[] = {15,-15,0};
                         rank = "PRIVATE";
                         side = 2;
@@ -1207,80 +381,93 @@ class CfgGroups
                     };
                 };
 				
-                class SEP_I_AK_Fighter_Cell {
+                class SEP_I_AK_Fighter_Cell 
+				{
                     name = "Fighter Cell";
                     side = 2;
                     faction = "SEP_I_AK_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_Infantry.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "SERGEANT";
                         side = 2;
                         vehicle = "SEP_I_AK_SL";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_ASL";
                     };
-                    class Unit2 {
+                    class Unit2 
+					{
                         position[] = {-5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit3 {
+                    class Unit3 
+					{
                         position[] = {10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit4 {
+                    class Unit4 
+					{
                         position[] = {-10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_Sten";
                     };
-                    class Unit5 {
+                    class Unit5 
+					{
                         position[] = {15,-15,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit6 {
+                    class Unit6 
+					{
                         position[] = {-15,-15,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_Sten";
                     };
-                    class Unit7 {
+                    class Unit7 
+					{
                         position[] = {20,-20,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit8 {
+                    class Unit8 
+					{
                         position[] = {-20,-20,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit9 {
+                    class Unit9 
+					{
                         position[] = {25,-25,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit10 {
+                    class Unit10 
+					{
                         position[] = {-25,-25,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit11 {
+                    class Unit11 
+					{
                         position[] = {30,-30,0};
                         rank = "PRIVATE";
                         side = 2;
@@ -1288,38 +475,44 @@ class CfgGroups
                     };					
                 };
 												
-                class SEP_I_AK_Infantry_Assault_Team {
+                class SEP_I_AK_Infantry_Assault_Team 
+				{
                     name = "Assault Team";
                     side = 2;
                     faction = "SEP_I_AK_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_Infantry.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_SL";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_Sten";
                     };
-                    class Unit2 {
+                    class Unit2 
+					{
                         position[] = {-5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_Sten";
                     };
-                    class Unit3 {
+                    class Unit3 
+					{
                         position[] = {10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_MP40";
                     };
-                    class Unit4 {
+                    class Unit4 
+					{
                         position[] = {-10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
@@ -1327,38 +520,44 @@ class CfgGroups
                     };
                 };
 				
-				class SEP_I_AK_Infantry_Tank_Hunter_Team_30 {
+				class SEP_I_AK_Infantry_Tank_Hunter_Team_30 
+				{
                     name = "Tank Hunter Team (PzF 30)";
                     side = 2;
                     faction = "SEP_I_AK_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_AT.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_SL";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_AT_PZ30";
                     };
-                    class Unit2 {
+                    class Unit2 
+					{
                         position[] = {-5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_AT_PZ30";
                     };
-                    class Unit3 {
+                    class Unit3 
+					{
                         position[] = {10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_AT_PZ30";
                     };
-                    class Unit4 {
+                    class Unit4 
+					{
                         position[] = {-10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
@@ -1366,38 +565,44 @@ class CfgGroups
                     };					
                 };
 				
-				class SEP_I_AK_Infantry_Tank_Hunter_Team_60 {
+				class SEP_I_AK_Infantry_Tank_Hunter_Team_60 
+				{
                     name = "Tank Hunter Team (PzF 60)";
                     side = 2;
                     faction = "SEP_I_AK_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_AT.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_SL";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_AT_PZ60";
                     };
-                    class Unit2 {
+                    class Unit2 
+					{
                         position[] = {-5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_AT_PZ60";
                     };
-                    class Unit3 {
+                    class Unit3 
+					{
                         position[] = {10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_AT_PZ60";
                     };
-                    class Unit4 {
+                    class Unit4 
+					{
                         position[] = {-10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
@@ -1405,44 +610,51 @@ class CfgGroups
                     };						
                 };
 												
-				class SEP_I_AK_Infantry_MG_Team_MG34 {
+				class SEP_I_AK_Infantry_MG_Team_MG34 
+				{
                     name = "Machine Gun Team";
                     side = 2;
                     faction = "SEP_I_AK_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_Infantry.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_SL";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit2 {
+                    class Unit2 
+					{
                         position[] = {-5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_MG_MG34";
                     };
-                    class Unit3 {
+                    class Unit3 
+					{
                         position[] = {10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_AMG";
                     };
-                    class Unit4 {
+                    class Unit4
+					{
                         position[] = {-10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_MG_MG34";
                     };
-                    class Unit5 {
+                    class Unit5 
+					{
                         position[] = {15,-15,0};
                         rank = "PRIVATE";
                         side = 2;
@@ -1450,20 +662,23 @@ class CfgGroups
                     };					
                 };
 								
-				class SEP_I_AK_Infantry_Sabo_Team {
+				class SEP_I_AK_Infantry_Sabo_Team 
+				{
                     name = "Saboteur Team";
                     side = 2;
                     faction = "SEP_I_AK_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_Infantry.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_Sabo";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
@@ -1471,32 +686,37 @@ class CfgGroups
                     };		
                 };
 				
-				class SEP_I_AK_Infantry_Flame_Team {
+				class SEP_I_AK_Infantry_Flame_Team 
+				{
                     name = "Flammenwerfer 41 Team";
                     side = 2;
                     faction = "SEP_I_AK_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_Infantry.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_Flame";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_Flame";
                     };
-                    class Unit2 {
+                    class Unit2 
+					{
                         position[] = {-5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit3 {
+                    class Unit3 
+					{
                         position[] = {10,-10,0};
                         rank = "PRIVATE";
                         side = 2;
@@ -1504,26 +724,30 @@ class CfgGroups
                     };			
                 };
 				
-				class SEP_I_AK_Infantry_3Sentry_Team {
+				class SEP_I_AK_Infantry_3Sentry_Team 
+				{
                     name = "3 Man Sentry";
                     side = 2;
                     faction = "SEP_I_AK_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_Infantry.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit2 {
+                    class Unit2 
+					{
                         position[] = {-5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
@@ -1531,20 +755,23 @@ class CfgGroups
                     };		
                 };
 				
-				class SEP_I_AK_Infantry_2Sentry_Team {
+				class SEP_I_AK_Infantry_2Sentry_Team 
+				{
                     name = "2 Man Sentry";
                     side = 2;
                     faction = "SEP_I_AK_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_Infantry.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_Rflmn_K98";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
@@ -1552,20 +779,23 @@ class CfgGroups
                     };	
                 };				
 				
-				class SEP_I_AK_Infantry_Sniper_Team {
+				class SEP_I_AK_Infantry_Sniper_Team 
+				{
                     name = "Sniper Team";
                     side = 2;
                     faction = "SEP_I_AK_Units";
-                    icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_AT.paa";
+                    icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_Recon.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_Sniper";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
@@ -1578,32 +808,37 @@ class CfgGroups
 			{
                 name = "Support Infantry";
 
-                class SEP_I_AK_SupportInfantry_Mortar_Team {
+                class SEP_I_AK_SupportInfantry_Mortar_Team 
+				{
                     name = "Mortar Team";
                     side = 2;
                     faction = "SEP_I_AK_Units";
                     icon = "\WW2\SPE_Core_t\Markers_t\Allies\SPE_Icon_Allies_Mortar.paa";
                     rarityGroup = 0.5;
 
-                    class Unit0 {
+                    class Unit0 
+					{
                         position[] = {0,0,0};
                         rank = "SERGEANT";
                         side = 2;
                         vehicle = "SEP_I_AK_SL";
                     };
-                    class Unit1 {
+                    class Unit1 
+					{
                         position[] = {5,-5,0};
                         rank = "CORPORAL";
                         side = 2;
                         vehicle = "SEP_I_AK_Mortar_Gunner";
                     };
-                    class Unit2 {
+                    class Unit2 
+					{
                         position[] = {-5,-5,0};
                         rank = "PRIVATE";
                         side = 2;
                         vehicle = "SEP_I_AK_Mortar_AGunner";
                     };
-					class Unit3 {
+					class Unit3 
+					{
                         position[] = {10,-10,0};
                         rank = "PRIVATE";
                         side = 2;

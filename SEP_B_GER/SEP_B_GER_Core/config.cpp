@@ -15,28 +15,32 @@ class CfgFactionClasses
 		displayName = "[SEP] Afrika Korps";
 		priority = 3;
 		side = 1;
-		icon = "\WW2\SPE_Core_t\Data_t\Factions\Wehrmacht.paa";
+		flag = "\WW2\SPE_Core_t\Data_t\Flags\flag_GER_co.paa";
+		icon = "\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_GER_ca.paa";
 	};
     class SEP_B_GER_Winter_Units
 	{
 		displayName = "[SEP] Wehrmacht (Winter)";
 		priority = 3;
 		side = 1;
-		icon = "\WW2\SPE_Core_t\Data_t\Factions\Wehrmacht.paa";
+		flag = "\WW2\SPE_Core_t\Data_t\Flags\flag_GER_co.paa";
+		icon = "\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_AK_ca.paa";
 	};
     class SEP_B_GER_Sturm_Winter_Units
 	{
 		displayName = "[SEP] Sturmtroopers (Winter)";
 		priority = 3;
 		side = 1;
-		icon = "\WW2\Core_t\IF_Data_t\Factions\Wehrmacht.paa";
+		flag = "\WW2\SPE_Core_t\Data_t\Flags\flag_GER_co.paa";
+		icon = "\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_AK_ca.paa";
 	};
 	class SEP_B_GER_Volk_Units
 	{
 		displayName = "[SEP] Volkssturm";
 		priority = 3;
 		side = 1;
-		icon = "\WW2\SPE_Core_t\Data_t\Factions\Wehrmacht.paa";
+		flag = "\WW2\SPE_Core_t\Data_t\Flags\flag_GER_co.paa";
+		icon = "\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_AK_ca.paa";
 	};
 };
 

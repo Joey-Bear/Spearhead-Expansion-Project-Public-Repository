@@ -27,4 +27,9 @@ class CfgEditorSubcategories
     {
         displayName="Men (Altian)";
     };
+	
+    class SEP_I_CW_SIKH_Units_Infantry
+    {
+        displayName="Men (Sikh)";
+    };
 };

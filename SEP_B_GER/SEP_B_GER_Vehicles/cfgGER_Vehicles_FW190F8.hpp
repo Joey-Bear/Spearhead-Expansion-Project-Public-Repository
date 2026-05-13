@@ -1,7 +1,7 @@
 class SPE_FW190F8;
 class SEP_B_GER_DAK_FW190F8 : SPE_FW190F8 
 {
-	author = "Joe";
+	author = "Hyena";
 	editorSubcategory = "EdSubcat_Planes";
 	scope = 1;
 	scopeCurator = 1;
@@ -39,7 +39,7 @@ class SEP_B_GER_DAK_FW190F8 : SPE_FW190F8
 
 class SEP_B_GER_WIN_FW190F8 : SPE_FW190F8 
 {
-	author = "Joe";
+	author = "Hyena";
 	editorSubcategory = "EdSubcat_Planes";
 	scope = 2;
 	scopeCurator = 2;

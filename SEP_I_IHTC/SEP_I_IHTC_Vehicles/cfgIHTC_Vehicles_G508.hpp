@@ -15,7 +15,7 @@ class SEP_I_IHTC_CCKW_353 : SPE_CCKW_353
 	{
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_1_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_CCKW_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};
 	class TextureSources
@@ -30,7 +30,7 @@ class SEP_I_IHTC_CCKW_353 : SPE_CCKW_353
 			{
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_1_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_CCKW_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -53,7 +53,7 @@ class SEP_I_IHTC_CCKW_353_Open : SPE_CCKW_353_Open
 	{
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_1_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_CCKW_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};
 	class TextureSources
@@ -68,7 +68,7 @@ class SEP_I_IHTC_CCKW_353_Open : SPE_CCKW_353_Open
 			{
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_1_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_CCKW_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -91,7 +91,7 @@ class SEP_I_IHTC_CCKW_353_M2 : SPE_CCKW_353_M2
 	{
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_1_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_CCKW_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};
 	class TextureSources
@@ -106,7 +106,7 @@ class SEP_I_IHTC_CCKW_353_M2 : SPE_CCKW_353_M2
 			{
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_1_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_CCKW_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -175,7 +175,7 @@ class SEP_I_IHTC_CCKW_353_Ammo : SPE_CCKW_353_Ammo
 	{
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_1_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_CCKW_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};
 	class TextureSources
@@ -190,7 +190,7 @@ class SEP_I_IHTC_CCKW_353_Ammo : SPE_CCKW_353_Ammo
 			{
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_1_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_CCKW_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -214,7 +214,7 @@ class SEP_I_IHTC_CCKW_353_Fuel : SPE_CCKW_353_Fuel
 	{
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_1_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_CCKW_Decals_ca.paa",//Decals
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_Fuel_co.paa",
 		"\a3\data_f\clear_empty.paa"
 	};
@@ -230,7 +230,7 @@ class SEP_I_IHTC_CCKW_353_Fuel : SPE_CCKW_353_Fuel
 			{
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_1_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_CCKW_Decals_ca.paa",//Decals
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_Fuel_co.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
@@ -255,7 +255,7 @@ class SEP_I_IHTC_CCKW_353_Repair : SPE_CCKW_353_Repair
 	{
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_1_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-		"\a3\data_f\clear_empty.paa",//Decals
+		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_CCKW_Decals_ca.paa",//Decals
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_Repair_co.paa",
 		"\a3\data_f\clear_empty.paa"
 	};
@@ -271,7 +271,7 @@ class SEP_I_IHTC_CCKW_353_Repair : SPE_CCKW_353_Repair
 			{
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_1_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-				"\a3\data_f\clear_empty.paa",//Decals
+				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_CCKW_Decals_ca.paa",//Decals
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_Repair_co.paa",
 				"\a3\data_f\clear_empty.paa"
 			};

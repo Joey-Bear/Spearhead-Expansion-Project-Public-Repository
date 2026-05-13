@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Spearhead Expansion Project">
+	<Package name="SEP_WP_RKWerfer43">
+		<Container name="displayName">
+			<Key ID="STR_SEP_WP_RKWerfer43_displayName">
+				<Original>8.8 cm Raketenwerfer 43</Original>
+				<English>8.8 cm Raketenwerfer 43</English>
+			</Key>
+		</Container>
+
+		<Container name="Library">
+			<Key ID="STR_SEP_WP_RKWerfer43_description">
+				<Original>Manufacturer: Anhaltisch/Westfalische Sprengstoff AG of Reindorf%1Type: Anti-tank rocket launcher%1Mass: 143kg%1Length: 2.9 metres%1Width: 1 metres%1Height: .89 metres%1Cartridge: RPzB. Gr. 4312%1Action: Breech Loaded, Fired from Closed Breech%1Caliber: 88 mm%1Effective Range: 230 meters%1%1The 8.8 cm Raketenwerfer 43 “Puppchen” is a German reusable anti-tank rocket launcher developed in 1943 to improve infantry anti-armor capabilities. Mounted on a small two-wheeled carriage, it fires a rocket-propelled grenade with greater accuracy and nearly twice the range of the Panzerschreck, though it is heavier and more complex to manufacture. Around 3,000 units were produced between 1943 and 1945.</Original>
+				<English>Manufacturer: Anhaltisch/Westfalische Sprengstoff AG of Reindorf%1Type: Anti-tank rocket launcher%1Mass: 143kg%1Length: 2.9 metres%1Width: 1 metres%1Height: .89 metres%1Cartridge: RPzB. Gr. 4312%1Action: Breech Loaded, Fired from Closed Breech%1Calber: 88 mm%1Effective Range: 230 meters%1%1The 8.8 cm Raketenwerfer 43 “Puppchen” is a German reusable anti-tank rocket launcher developed in 1943 to improve infantry anti-armor capabilities. Mounted on a small two-wheeled carriage, it fires a rocket-propelled grenade with greater accuracy and nearly twice the range of the Panzerschreck, though it is heavier and more complex to manufacture. Around 3,000 units were produced between 1943 and 1945.</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Spearhead Expansion Project">
+	<Package name="SEP_WP_MP507">
+		<Container name="displayName">
+			<Key ID="STR_SEP_WP_MP507_displayName">
+				<Original>MP 507</Original>
+				<English>MP 507</English>
+			</Key>
+		</Container>
+
+		<Container name="Library">
+			<Key ID="STR_SEP_WP_MP507_description">
+				<Original>Manufacturer: Gustloff-Werke%1Length: 34.8 inches%1Ammunition: 7.92×33mm Kurz%1Rate of Fire: 600 rpm%1Weight: 4.6kg%1Firing Mode(s): Semi-Automatic%1Magazine: 30-round detachable box magazine%1Effective Range: 300 meters%1%1The MP 507, also known as the Gustloff Volkssturmgewehr, is a semi-automatic rifle that saw service during the closing months of the Second World War. Chambered in 7.92×33mm Kurz, the MP 507 used the same detachable 30-round box magazine as the StG 44. Designed for the Primitiv-Waffen-Programm, it had a simple gas-delayed blowback action based on the Barnitzke system.</Original>
+				<English>Manufacturer: Gustloff-Werke%1Length: 34.8 inches%1Ammunition: 7.92×33mm Kurz%1Rate of Fire: 600 rpm%1Weight: 4.6kg%1Firing Mode(s): Semi-Automatic%1Magazine: 30-round detachable box magazine%1Effective Range: 300 meters%1%1The MP 507, also known as the Gustloff Volkssturmgewehr, is a semi-automatic rifle that saw service during the closing months of the Second World War. Chambered in 7.92×33mm Kurz, the MP 507 used the same detachable 30-round box magazine as the StG 44. Designed for the Primitiv-Waffen-Programm, it had a simple gas-delayed blowback action based on the Barnitzke system.</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>

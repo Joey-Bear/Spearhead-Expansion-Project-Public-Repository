@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Spearhead Expansion Project">
+	<Package name="SEP_WP_Gewehr98">
+		<Container name="displayName">
+			<Key ID="STR_SEP_WP_Gewehr98_displayName">
+				<Original>Gew 98</Original>
+				<English>Gew 98</English>
+			</Key>
+
+			<Key ID="STR_SEP_WP_Gewehr98_Sniper_displayName">
+				<Original>Gew 98 (Luxor 3x)</Original>
+				<English>Gew 98 (Luxor 3x)</English>
+			</Key>
+		</Container>
+
+		<Container name="Library">
+			<Key ID="STR_SEP_WP_Gewehr98_description">
+				<Original>Manufacturer: Mauser%1Length: 49.2 inches%1Ammunition: 7.92×57mm Mauser%1Rate of Fire: 35 rpm%1Weight: 4.09kg%1Firing Mode(s): Bolt-Action%1Magazine: 5-round stripper clips%1Effective Range: 500 meters%1%1The Gewehr 98 (also known as the G98, Gew 98 or M98) is a bolt-action rifle manufactured by Mauser and adopted by the German Empire in 1898. Chambered in 7.92×57mm Mauser with a 5-round internal magazine, the rifle features a straight bolt handle and a full-length wooden stock. While it was Germany’s main rifle during the First World War, it also saw limited use during Second World War where it was often issued to second-line units and reserves.</Original>
+				<English>Manufacturer: Mauser%1Length: 49.2 inches%1Ammunition: 7.92×57mm Mauser%1Rate of Fire: 35 rpm%1Weight: 4.09kg%1Firing Mode(s): Bolt-Action%1Magazine: 5-round stripper clips%1Effective Range: 500 meters%1%1The Gewehr 98 (also known as the G98, Gew 98 or M98) is a bolt-action rifle manufactured by Mauser and adopted by the German Empire in 1898. Chambered in 7.92×57mm Mauser with a 5-round internal magazine, the rifle features a straight bolt handle and a full-length wooden stock. While it was Germany’s main rifle during the First World War, it also saw limited use during Second World War where it was often issued to second-line units and reserves.</English>
+			</Key>
+
+			<Key ID="STR_SEP_WP_Gewehr98_Sniper_description">
+				<Original>Manufacturer: Mauser%1Length: 49.2 inches%1Ammunition: 7.92×57mm Mauser%1Rate of Fire: 35 rpm%1Weight: 4.09kg%1Firing Mode(s): Bolt-Action%1Magazine: 5-round stripper clips%1Effective Range: 500 meters%1%1First issued in the spring of 1915, the sniper variant of the Gewehr 98 was outfitted a telescopic sight for precision shooting, typically a 4x Görtz or Zeiss, or in many cases the Luxor 3x. These rifles saw service with German marksmen during the First World War and, in smaller numbers, during the Second World War.</Original>
+				<English>Manufacturer: Mauser%1Length: 49.2 inches%1Ammunition: 7.92×57mm Mauser%1Rate of Fire: 35 rpm%1Weight: 4.09kg%1Firing Mode(s): Bolt-Action%1Magazine: 5-round stripper clips%1Effective Range: 500 meters%1%1First issued in the spring of 1915, the sniper variant of the Gewehr 98 was outfitted a telescopic sight for precision shooting, typically a 4x Görtz or Zeiss, or in many cases the Luxor 3x. These rifles saw service with German marksmen during the First World War and, in smaller numbers, during the Second World War.</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>
