@@ -2,6 +2,16 @@
 //CHANGELOG
 //===================================
 
+==1.0.7==
+
+- [ADDED] Added SEP_C_CIV Civilians category for future use
+
+- [FIXED] Miscellaneous hotfixes for SEP_Identities
+
+==1.0.6==
+
+- [FIXED] Fixed proxy issue in viewPilot causing objects to block players view when using some faces with German uniforms
+
 ==1.0.5==
 
 - [ADDED] MP 18/I
