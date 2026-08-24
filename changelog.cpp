@@ -2,6 +2,30 @@
 //CHANGELOG
 //===================================
 
+==1.0.8==
+
+- [NOTE] This update has shifted the packing from AddonBuilder to Mikero's pboProject; please report if any issues are encountered
+
+- [ADDED] Bren bra and Bergen
+- [ADDED] Commonwealth Commandos sub-factions
+- [ADDED] Commonwealth Sikh sub-faction groups
+- [ADDED] EHM 6-cell SMG Vest
+- [ADDED] MP 38
+
+- [UPDATED] Gewehr 98 textures
+- [UPDATED] MP 18/I textures and magazine icon
+- [UPDATED] MP 28/II textures
+- [UPDATED] Volkssturm armbands
+- [UPDATED] Italian Resistance armband
+- [UPDATED] Polish Resistance armband
+- [UPDATED] Various texture file paths
+
+- [REMOVED] Old, no longer in use .pbo files for RAR
+
+==1.0.7 [HOTFIX]==
+
+- [FIXED] Stray vertice in viewPilot on various German uniforms
+
 ==1.0.7==
 
 - [ADDED] Added SEP_C_CIV Civilians category for future use

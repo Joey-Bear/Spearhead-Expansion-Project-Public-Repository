@@ -13,8 +13,10 @@
 
 📧 Contributors 📧
 - Axle			 -  Sound assets (MAS-38)
+- icuras		 -	Bren bra and Bergen contribution
 - Ture Right     -  Asset porting / contributions (Astra M300, MP 507) and tech support
-- simcardo       -  Uniform assets and tech support
+- simcardo       -  Uniform assets and tech support, Bren bra and Bergen
+- surikik		 -	Bren bra and Bergen
 - Winter	     -  Texturing contribution (PPK)
 
 ============================================================
