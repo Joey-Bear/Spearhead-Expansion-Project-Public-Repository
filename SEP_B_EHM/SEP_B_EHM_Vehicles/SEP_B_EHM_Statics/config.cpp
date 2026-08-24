@@ -12,9 +12,11 @@ class CfgPatches
 			"SEP_B_EHM_SearchLight"
 		};
 		weapons[]={};
+		addonRootClass = "SEP_B_EHM";
 		requiredAddons[]=
 		{
-			"WW2_SPE_Assets_c_Vehicles_StaticWeapons_c"
+			"WW2_SPE_Assets_c_Vehicles_StaticWeapons_c",
+			"SEP_B_EHM"
 		};
 	};
 };
@@ -40,7 +42,7 @@ class CfgVehicles
 		editorSubcategory = "EdSubcat_Turrets";
 		crew="SEP_B_EHM_Militia_G98";
 		displayName = "MG 34";
-		editorPreview="\SEP_B_EHM\SEP_B_EHM_Vehicles\SEP_B_EHM_Statics\editorPreviews\SEP_B_EHM_MG34_Lafette_Deployed.jpg";
+		editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Vehicles\SEP_B_EHM_Statics\editorPreviews\SEP_B_EHM_MG34_Lafette_Deployed.jpg";
 	};
 
 	class SPE_MG34_Bipod;
@@ -55,7 +57,7 @@ class CfgVehicles
 		editorSubcategory = "EdSubcat_Turrets";
 		crew="SEP_B_EHM_Militia_G98";
 		displayName = "MG 34 (Bipod)";
-		editorPreview="\SEP_B_EHM\SEP_B_EHM_Vehicles\SEP_B_EHM_Statics\editorPreviews\SEP_B_EHM_MG34_Bipod.jpg";
+		editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Vehicles\SEP_B_EHM_Statics\editorPreviews\SEP_B_EHM_MG34_Bipod.jpg";
 	};
 	
 	class SPE_MG34_Lafette_low_Deployed;
@@ -70,7 +72,7 @@ class CfgVehicles
 		editorSubcategory = "EdSubcat_Turrets";
 		crew="SEP_B_EHM_Militia_G98";
 		displayName = "MG 34 (Low)";
-		editorPreview="\SEP_B_EHM\SEP_B_EHM_Vehicles\SEP_B_EHM_Statics\editorPreviews\SEP_B_EHM_MG34_Lafette_low_Deployed.jpg";
+		editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Vehicles\SEP_B_EHM_Statics\editorPreviews\SEP_B_EHM_MG34_Lafette_low_Deployed.jpg";
 	};
 	
 	class SPE_MG34_Lafette_Trench_Deployed;
@@ -85,7 +87,7 @@ class CfgVehicles
 		editorSubcategory = "EdSubcat_Turrets";
 		crew="SEP_B_EHM_Militia_G98";
 		displayName = "MG 34 (Trench)";
-		editorPreview="\SEP_B_EHM\SEP_B_EHM_Vehicles\SEP_B_EHM_Statics\editorPreviews\SEP_B_EHM_MG34_Lafette_Trench_Deployed.jpg";
+		editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Vehicles\SEP_B_EHM_Statics\editorPreviews\SEP_B_EHM_MG34_Lafette_Trench_Deployed.jpg";
 	};
 
 	class SPE_GER_SearchLight;
@@ -100,6 +102,6 @@ class CfgVehicles
 		editorSubcategory = "EdSubcat_Turrets";
 		crew="SEP_B_EHM_Militia_G98";
 		displayName = "Search Light";
-		editorPreview="\SEP_B_EHM\SEP_B_EHM_Vehicles\SEP_B_EHM_Statics\editorPreviews\SEP_B_EHM_SearchLight.jpg";
+		editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Vehicles\SEP_B_EHM_Statics\editorPreviews\SEP_B_EHM_SearchLight.jpg";
 	};
 };

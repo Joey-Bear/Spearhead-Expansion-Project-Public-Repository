@@ -7,7 +7,7 @@ class SEP_B_GER_Lehr_WIN_Rflmn_K98 : SEP_B_GER_WIN_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Lehr_Winter";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_Rflmn_K98.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_Rflmn_K98.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -40,7 +40,7 @@ class SEP_B_GER_Lehr_WIN_Rflmn_Unr : SEP_B_GER_WIN_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Lehr_Winter";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_Rflmn_Unr.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_Rflmn_Unr.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -73,7 +73,7 @@ class SEP_B_GER_Lehr_WIN_Gren : SEP_B_GER_WIN_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Lehr_Winter";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_Gren.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_Gren.jpg";
 	icon = "iconManGrenadier";
 	role = "Grenadier";
 
@@ -106,7 +106,7 @@ class SEP_B_GER_Lehr_WIN_MG_MG34 : SEP_B_GER_WIN_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Lehr_Winter";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_MG_MG34.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_MG_MG34.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -139,7 +139,7 @@ class SEP_B_GER_Lehr_WIN_AMG : SEP_B_GER_WIN_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Lehr_Winter";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_AMG.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_AMG.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -172,7 +172,7 @@ class SEP_B_GER_Lehr_WIN_MG_MG42 : SEP_B_GER_WIN_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Lehr_Winter";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_MG_MG42.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_MG_MG42.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -205,7 +205,7 @@ class SEP_B_GER_Lehr_WIN_SL : SEP_B_GER_WIN_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Lehr_Winter";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_SL.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_SL.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -238,7 +238,7 @@ class SEP_B_GER_Lehr_WIN_ASL : SEP_B_GER_WIN_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Lehr_Winter";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_ASL.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_ASL.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -271,7 +271,7 @@ class SEP_B_GER_Lehr_WIN_AT_PZ60 : SEP_B_GER_WIN_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Lehr_Winter";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_AT_PZ60.jpg";   
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_AT_PZ60.jpg";   
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -304,7 +304,7 @@ class SEP_B_GER_Lehr_WIN_Lieutenant : SEP_B_GER_WIN_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Lehr_Winter";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_Lieutenant.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Lehr_WIN_Lieutenant.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 

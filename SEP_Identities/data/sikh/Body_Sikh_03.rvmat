@@ -36,7 +36,7 @@ class Stage2
 };
 class Stage3
 {
-	texture="SEP_Identities\data\sikh\Body_Sikh_03_CO.paa";
+	texture="SEP\SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -60,7 +60,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="SEP_Identities\data\sikh\Body_Sikh_03_SMDI.paa";
+	texture="SEP\SEP_Identities\Data\sikh\Body_Sikh_03_SMDI.paa";
 	uvSource="tex";
 	class uvTransform
 	{

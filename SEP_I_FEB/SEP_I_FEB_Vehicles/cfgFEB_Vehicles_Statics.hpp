@@ -29,7 +29,7 @@ class SEP_I_FEB_57mm_M1: SEP_I_FEB_57mm_M1_Base
 	crew="SEP_I_FEB_GunCrew";
 	typicalCargo[] = {"SEP_I_FEB_Rflmn_M1903","SEP_I_FEB_Rflmn_M1903","SEP_I_FEB_Rflmn_M1903"};
 	displayName = "57 mm Gun M1";
-	editorPreview="\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_57mm_M1.jpg";
+	editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_57mm_M1.jpg";
 	class Turrets: Turrets
 	{
 		class MainTurret: MainTurret
@@ -67,7 +67,7 @@ class SEP_I_FEB_M1_81: SPE_M1_81
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_FEB_Mortar_Gunner";
 	displayName = "M1 81 mm";
-	editorPreview="\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M1_81.jpg";
+	editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M1_81.jpg";
 };
 
 class SPE_M1919_M2;
@@ -82,7 +82,7 @@ class SEP_I_FEB_M1919_M2: SPE_M1919_M2
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_FEB_GunCrew";
 	displayName = "M1919A4";
-	editorPreview="\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M1919_M2.jpg";
+	editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M1919_M2.jpg";
 };
 
 class SPE_M1919_M2_Trench_Deployed;
@@ -97,7 +97,7 @@ class SEP_I_FEB_M1919_M2_Trench_Deployed: SPE_M1919_M2_Trench_Deployed
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_FEB_GunCrew";
 	displayName = "M1919A4 (Trench)";
-	editorPreview="\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M1919_M2_Trench_Deployed.jpg";
+	editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M1919_M2_Trench_Deployed.jpg";
 };
 
 class SPE_M1919A6_Bipod;
@@ -112,7 +112,7 @@ class SEP_I_FEB_M1919A6_Bipod: SPE_M1919A6_Bipod
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_FEB_GunCrew";
 	displayName = "M1919A6 (Bipod)";
-	editorPreview="\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M1919A6_Bipod.jpg";
+	editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M1919A6_Bipod.jpg";
 };
 
 class SPE_M2_M3_Trench;
@@ -127,7 +127,7 @@ class SEP_I_FEB_M2_M3_Trench: SPE_M2_M3_Trench
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_FEB_GunCrew";
 	displayName = "M2 .50 (Trench)";
-	editorPreview="\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M2_M3_Trench.jpg";
+	editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M2_M3_Trench.jpg";
 };
 
 class SPE_M2_M3;
@@ -142,5 +142,5 @@ class SEP_I_FEB_M2_M3: SPE_M2_M3
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_FEB_GunCrew";
 	displayName = "M2 .50 (Tripod)";
-	editorPreview="\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M2_M3.jpg";
+	editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M2_M3.jpg";
 };

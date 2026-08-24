@@ -8,7 +8,7 @@ class SEP_I_US_WIN_M20_AUC : SPE_M20_AUC
 	scopeCurator = 2;
 	displayName = "M20 Armored Utility Car";
 	side = 2;
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M20_AUC.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M20_AUC.jpg";
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
 	/*hiddenSelectionsTextures[] = 
@@ -17,7 +17,7 @@ class SEP_I_US_WIN_M20_AUC : SPE_M20_AUC
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_interior_co.paa",
 		"SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_M20_03_win_co.paa",
 		"SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_M8_04_win_co.paa",
-		"\SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_WIN_M8_20_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_WIN_M8_20_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};
 	class TextureSources
@@ -34,7 +34,7 @@ class SEP_I_US_WIN_M20_AUC : SPE_M20_AUC
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_interior_co.paa",
 				"SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_M20_03_win_co.paa",
 				"SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_M8_04_win_co.paa",
-				"\SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_WIN_M8_20_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_WIN_M8_20_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -62,7 +62,7 @@ class SEP_I_US_WIN_M8_LAC : SPE_M8_LAC
 	scopeCurator = 2;
 	displayName = "M8 Armored Car";
 	side = 2;
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M8_LAC.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M8_LAC.jpg";
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
 	/*hiddenSelectionsTextures[] = 
@@ -71,7 +71,7 @@ class SEP_I_US_WIN_M8_LAC : SPE_M8_LAC
 		"SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_M8_02_win_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_interior_co.paa",
 		"SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_M8_04_win_co.paa",
-		"\SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_WIN_M8_20_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_WIN_M8_20_Decals_ca.paa",//Decals
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_interior_co.paa",
 		"\a3\data_f\clear_empty.paa"
 	};
@@ -89,7 +89,7 @@ class SEP_I_US_WIN_M8_LAC : SPE_M8_LAC
 				"SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_M8_02_win_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_interior_co.paa",
 				"SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_M8_04_win_co.paa",
-				"\SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_WIN_M8_20_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_WIN_M8_20_Decals_ca.paa",//Decals
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_interior_co.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
@@ -124,7 +124,7 @@ class SEP_I_US_WIN_M8_LAC_ringMount : SPE_M8_LAC_ringMount
 	scopeCurator = 2;
 	displayName = "M8 Armored Car (M2)";
 	side = 2;
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M8_LAC.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M8_LAC.jpg";
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
 /*hiddenSelectionsTextures[] = 
@@ -133,7 +133,7 @@ class SEP_I_US_WIN_M8_LAC_ringMount : SPE_M8_LAC_ringMount
 		"SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_M8_02_win_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_interior_co.paa",
 		"SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_M8_04_win_co.paa",
-		"\SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_WIN_M8_20_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_WIN_M8_20_Decals_ca.paa",//Decals
 		"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_interior_co.paa",
 		"\a3\data_f\clear_empty.paa"
 	};
@@ -151,7 +151,7 @@ class SEP_I_US_WIN_M8_LAC_ringMount : SPE_M8_LAC_ringMount
 				"SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_M8_02_win_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M8_LAC\m8_interior_co.paa",
 				"SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_M8_04_win_co.paa",
-				"\SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_WIN_M8_20_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_US\SEP_I_US_Vehicles\data\SEP_I_US_WIN_M8_20_Decals_ca.paa",//Decals
 				"\WW2\SPE_Assets_t\Vehicles\ArmoredCar_U1_t\M20_AUC\m20_interior_co.paa",
 				"\a3\data_f\clear_empty.paa"
 			};

@@ -7,8 +7,3 @@ class CfgPatches
 		requiredAddons[]={};
 	};
 };
-
-class CfgEditorSubcategories
-{
-	
-};

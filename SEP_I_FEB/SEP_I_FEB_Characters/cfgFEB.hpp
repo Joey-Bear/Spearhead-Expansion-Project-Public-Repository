@@ -7,7 +7,7 @@ class SEP_I_FEB_U_FU_Khk : Uniform_Base
 	displayName = "FEB Field Uniform";
 	descriptionShort = "";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-	picture = "\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\icons\SEP_I_FEB_U_FU_Khk_ca.paa";
+	picture = "\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\icons\SEP_I_FEB_U_FU_Khk_ca.paa";
 	class ItemInfo: UniformItem
 	{
 		uniformModel= "-";
@@ -24,7 +24,7 @@ class SEP_I_FEB_U_FU_Medic_Khk : Uniform_Base
 	displayName = "FEB Field Uniform (Medic)";
 	descriptionShort = "";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
-	picture = "\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\icons\SEP_I_FEB_U_FU_Khk_ca.paa";
+	picture = "\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\icons\SEP_I_FEB_U_FU_Khk_ca.paa";
 	class ItemInfo: UniformItem
 	{
 		uniformModel= "-";

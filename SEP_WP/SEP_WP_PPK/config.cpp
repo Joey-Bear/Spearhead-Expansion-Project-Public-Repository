@@ -44,11 +44,11 @@ class CfgMagazines
         displayName = "7.65×17mmSR 7Rnd Mag";
 		displayNameShort = "7.65×17mmSR 7Rnd Mag";
 		descriptionShort = "Caliber: 7.65×17mmSR<br />Rounds: 7<br />Type: Box Magazine<br />Used in: Walther PPK";
-		picture = "\SEP_WP\SEP_WP_PPK\data\icons\SEP_WP_PPK_M_ca.paa";
+		picture = "\SEP\SEP_WP\SEP_WP_PPK\data\icons\SEP_WP_PPK_M_ca.paa";
         ammo = "SEP_A_765_17";
         count = 7;
         mass = 4;
-        model = "\SEP_WP\SEP_WP_PPK\data\mesh\7Rnd_765_17_PPK.p3d";
+        model = "\SEP\SEP_WP\SEP_WP_PPK\data\mesh\7Rnd_765_17_PPK.p3d";
         initspeed = 390.2;
         lastroundstracer = 0;
         scope = 2;
@@ -62,8 +62,8 @@ class CfgMagazines
         displayName = "7.65×17mmSR 7Rnd Mag (Bakelite)";
 		displayNameShort = "7.65×17mmSR 7Rnd Mag (Bakelite)";
 		descriptionShort = "Caliber: 7.65×17mmSR<br />Rounds: 7<br />Type: Box Magazine<br />Used in: Walther PPK";
-		picture = "\SEP_WP\SEP_WP_PPK\data\icons\SEP_WP_PPK_PW_M_ca.paa";
-        model = "\SEP_WP\SEP_WP_PPK\data\mesh\7Rnd_765_17_PPK_PW.p3d";
+		picture = "\SEP\SEP_WP\SEP_WP_PPK\data\icons\SEP_WP_PPK_PW_M_ca.paa";
+        model = "\SEP\SEP_WP\SEP_WP_PPK\data\mesh\7Rnd_765_17_PPK_PW.p3d";
     };
 };
 
@@ -87,13 +87,13 @@ class CfgWeapons
         dlc = "SEP_WP";
         displayName = "Walther PPK";
         descriptionShort = "Handgun <br/>Caliber: 7.65×17mmSR";
-		model = "\SEP_WP\SEP_WP_PPK\data\mesh\SEP_WP_PPK.p3d";
-		picture = "\SEP_WP\SEP_WP_PPK\data\icons\SEP_WP_PPK_x_ca.paa";
+		model = "\SEP\SEP_WP\SEP_WP_PPK\data\mesh\SEP_WP_PPK.p3d";
+		picture = "\SEP\SEP_WP\SEP_WP_PPK\data\icons\SEP_WP_PPK_x_ca.paa";
         magazines[] = {"SEP_WP_M_765_17_7Rnd_PPK","SEP_WP_M_765_17_7Rnd_PPK_PW"};
         magazineWell[] = {"SEP_WP_MW_765_17_PPK"};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_WP\SEP_WP_PPK\data\tex\SEP_WP_PPK_co.paa"
+			"\SEP\SEP_WP\SEP_WP_PPK\data\tex\SEP_WP_PPK_co.paa"
 		};
         //Gribblies
         aiRateOfFire = 2;
@@ -175,11 +175,11 @@ class CfgWeapons
         dlc = "SEP_WP";
         displayName = "Walther PPK (Bakelite)";
         descriptionShort = "Handgun <br/>Caliber: 7.65×17mmSR";
-		model = "\SEP_WP\SEP_WP_PPK\data\mesh\SEP_WP_PPK_PW.p3d";
-		picture = "\SEP_WP\SEP_WP_PPK\data\icons\SEP_WP_PPK_PW_x_ca.paa";
+		model = "\SEP\SEP_WP\SEP_WP_PPK\data\mesh\SEP_WP_PPK_PW.p3d";
+		picture = "\SEP\SEP_WP\SEP_WP_PPK\data\icons\SEP_WP_PPK_PW_x_ca.paa";
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_WP\SEP_WP_PPK\data\tex\prewar\SEP_WP_PPK_PW_co.paa"
+			"\SEP\SEP_WP\SEP_WP_PPK\data\tex\prewar\SEP_WP_PPK_PW_co.paa"
 		};
     };
 };

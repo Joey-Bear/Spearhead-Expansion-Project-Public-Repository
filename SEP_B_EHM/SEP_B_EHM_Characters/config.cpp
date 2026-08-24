@@ -3,7 +3,8 @@ class CfgPatches
 {
 	class SEP_B_EHM_Characters
 	{
-        units[] = {
+        units[] = 
+		{
 			//Infantry//
 			"SEP_B_EHM_Militia_G98",
 			"SEP_B_EHM_Militia_Lite",
@@ -18,7 +19,8 @@ class CfgPatches
 			"SEP_B_EHM_Medic",
 			"SEP_B_EHM_RTO",
         };
-        weapons[] = {
+        weapons[] = 
+		{
 			//Weapons//
 			//Headgear//
 			"SEP_B_EHM_H_Stahlhelm_M16",
@@ -36,7 +38,22 @@ class CfgPatches
 			"_xx_SEP_B_EHM_B_MG_MG34",
 			"_xx_SEP_B_EHM_B_Early_Medic"
 		};
-		requiredAddons[]={};
+		addonRootClass = "SEP_B_EHM";
+		requiredAddons[]=
+		{
+			"A3_Characters_F",
+			"A3_Characters_F_Heads",
+			"A3_Characters_F_Mark",
+			"A3_Characters_F_Tacops",
+			"A3_Characters_F_Orange_Facewear",
+			"A3_Characters_F_Enoch_Facewear",
+			"A3_Characters_F_Tank_Uniforms",
+			"A3_Weapons_F",
+			"A3_Weapons_F_Items",
+			"WW2_SPE_Core_c_Core_c",
+			"SEP_B_GER",
+			"SEP_B_EHM"
+		};
 	};
 };
 

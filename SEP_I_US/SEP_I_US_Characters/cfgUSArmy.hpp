@@ -7,10 +7,10 @@ class SEP_I_US_H_M1Helmet_WIN : H_SPE_US_Helmet
     weaponPoolAvailable = 1;
     displayName = "US Helmet, M1 (Winter)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_H_M1Helmet_WIN_os_ca.paa";
+    picture = "\SEP\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_H_M1Helmet_WIN_os_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_H_M1Helmet_win_co.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_H_M1Helmet_win_co.paa",
         "",
         "",
         "",
@@ -25,10 +25,10 @@ class SEP_I_US_H_M1Helmet_WIN_ns : H_SPE_US_Helmet_ns
     weaponPoolAvailable = 1;
     displayName = "US Helmet, M1 (Winter, Folded)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_H_M1Helmet_WIN_os_ca.paa";
+    picture = "\SEP\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_H_M1Helmet_WIN_os_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_H_M1Helmet_win_co.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_H_M1Helmet_win_co.paa",
         "",
         "",
         "",
@@ -43,10 +43,10 @@ class SEP_I_US_H_M1Helmet_WIN_os : H_SPE_US_Helmet_os
     weaponPoolAvailable = 1;
     displayName = "US Helmet, M1 (Winter, Opened)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_H_M1Helmet_WIN_os_ca.paa";
+    picture = "\SEP\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_H_M1Helmet_WIN_os_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_H_M1Helmet_win_co.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_H_M1Helmet_win_co.paa",
         "",
         "",
         "",
@@ -62,11 +62,11 @@ class SEP_I_US_H_M1Helmet_Cover_WIN : H_SPE_US_Helmet_cover
     weaponPoolAvailable = 1;
     displayName = "US Helmet, M1 (Winter Cover)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_H_M1Helmet_Cover_WIN_os_ca.paa";
+    picture = "\SEP\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_H_M1Helmet_Cover_WIN_os_ca.paa";
     hiddenSelectionsTextures[] = 
     {
         "\WW2\SPE_Assets_t\Characters\Americans_t\US_Army\US_Pot_co.paa",
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_H_M1Helmet_Cover_win_co.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_H_M1Helmet_Cover_win_co.paa",
         "",
         "",
         "",
@@ -80,11 +80,11 @@ class SEP_I_US_H_M1Helmet_Cover_WIN_ns : H_SPE_US_Helmet_cover_ns
     weaponPoolAvailable = 1;
     displayName = "US Helmet, M1 (Winter Cover, Folded)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_H_M1Helmet_Cover_WIN_os_ca.paa";
+    picture = "\SEP\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_H_M1Helmet_Cover_WIN_os_ca.paa";
     hiddenSelectionsTextures[] = 
     {
         "\WW2\SPE_Assets_t\Characters\Americans_t\US_Army\US_Pot_co.paa",
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_H_M1Helmet_Cover_win_co.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_H_M1Helmet_Cover_win_co.paa",
         "",
         "",
         "",
@@ -98,11 +98,11 @@ class SEP_I_US_H_M1Helmet_Cover_WIN_os : H_SPE_US_Helmet_cover_os
     weaponPoolAvailable = 1;
     displayName = "US Helmet, M1 (Winter Cover, Opened)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_H_M1Helmet_Cover_WIN_os_ca.paa";
+    picture = "\SEP\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_H_M1Helmet_Cover_WIN_os_ca.paa";
     hiddenSelectionsTextures[] = 
     {
         "\WW2\SPE_Assets_t\Characters\Americans_t\US_Army\US_Pot_co.paa",
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_H_M1Helmet_Cover_win_co.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_H_M1Helmet_Cover_win_co.paa",
         "",
         "",
         "",
@@ -120,7 +120,7 @@ class SEP_I_US_U_Coat_brn : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Americans_t\suitpacks\suitpack_us_hbt_co.paa"};
-    picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_U_Coat_brn_ca.paa";
+    picture = "\SEP\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_U_Coat_brn_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -138,7 +138,7 @@ class SEP_I_US_U_Coat_snow : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Americans_t\suitpacks\suitpack_us_hbt_co.paa"};
-    picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_U_Coat_snow_ca.paa";
+    picture = "\SEP\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_U_Coat_snow_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -157,7 +157,7 @@ class SEP_I_US_U_M43_snow : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Americans_t\suitpacks\suitpack_us_hbt_co.paa"};
-    picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_U_M43_snow_ca.paa";
+    picture = "\SEP\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_U_M43_snow_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -176,7 +176,7 @@ class SEP_I_US_U_M43_trop_snow : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Americans_t\suitpacks\suitpack_us_hbt_co.paa"};
-    picture = "\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_U_M43_trop_snow_ca.paa";
+    picture = "\SEP\SEP_I_US\SEP_I_US_Characters\data\icons\SEP_I_US_U_M43_trop_snow_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";

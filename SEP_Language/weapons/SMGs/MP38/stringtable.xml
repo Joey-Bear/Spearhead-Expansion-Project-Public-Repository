@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Spearhead Expansion Project">
+	<Package name="SEP_WP_MP38">
+		<Container name="displayName">
+			<Key ID="STR_SEP_WP_MP38_displayName">
+				<Original>MP 38</Original>
+				<English>MP 38</English>
+			</Key>
+		</Container>
+
+		<Container name="Library">
+			<Key ID="STR_SEP_WP_MP38_description">
+				<Original>Manufacturer: Erma-Werke%1Length: 32.7 inches%1Ammunition: 9×19mm Parabellum%1Rate of Fire: 400 rpm%1Weight: 4.3kg%1Firing Mode(s): Automatic%1Magazine: 32-round detachable box magazine%1Effective Range: 200 meters%1%1The MP 38 is a submachine gun that entered service with the German military in 1938. Chambered in 9×19mm Parabellum, the MP 38 fed from a 32-round detachable box magazine. Designed by Heinrich Vollmer and manufactured by Erma-Werke , it operated on a simple blowback action with an open bolt. Developed from the MP 36, the MP 38 was originally issued to tank crews and mechanised infantry units, before being replaced by the cheaper to manufacture MP 40 in 1940.</Original>
+				<English>Manufacturer: Erma-Werke%1Length: 32.7 inches%1Ammunition: 9×19mm Parabellum%1Rate of Fire: 400 rpm%1Weight: 4.3kg%1Firing Mode(s): Automatic%1Magazine: 32-round detachable box magazine%1Effective Range: 200 meters%1%1The MP 38 is a submachine gun that entered service with the German military in 1938. Chambered in 9×19mm Parabellum, the MP 38 fed from a 32-round detachable box magazine. Designed by Heinrich Vollmer and manufactured by Erma-Werke , it operated on a simple blowback action with an open bolt. Developed from the MP 36, the MP 38 was originally issued to tank crews and mechanised infantry units, before being replaced by the cheaper to manufacture MP 40 in 1940.</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>

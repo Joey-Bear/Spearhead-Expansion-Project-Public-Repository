@@ -29,7 +29,7 @@ class SEP_I_IHTC_57mm_M1: SEP_I_IHTC_57mm_M1_Base
 	crew="SEP_I_IHTC_GunCrew";
 	typicalCargo[] = {"SEP_I_IHTC_GunCrew","SEP_I_IHTC_GunCrew","SEP_I_IHTC_GunCrew"};
 	displayName = "57 mm Gun M1";
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\editorPreviews\SEP_I_IHTC_57mm_M1.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\editorPreviews\SEP_I_IHTC_57mm_M1.jpg";
 	class Turrets: Turrets
 	{
 		class MainTurret: MainTurret
@@ -68,7 +68,7 @@ class SEP_I_IHTC_MLE_27_31: SPE_MLE_27_31
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_IHTC_Mortar_Gunner";
 	displayName = "Mortier de 81 mm Mle. 27/31";
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\editorPreviews\SEP_I_IHTC_MLE_27_31.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\editorPreviews\SEP_I_IHTC_MLE_27_31.jpg";
 };
 
 class SPE_FM24_M24_Bipod;
@@ -84,5 +84,5 @@ class SEP_I_IHTC_FM24_M24_Bipod: SPE_FM24_M24_Bipod
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_IHTC_Rflmn_Carb";
 	displayName = "FM 24 M29 (Bipod)";
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\editorPreviews\SEP_I_IHTC_FM24_M24_Bipod.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\editorPreviews\SEP_I_IHTC_FM24_M24_Bipod.jpg";
 };

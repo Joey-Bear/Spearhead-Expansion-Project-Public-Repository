@@ -48,14 +48,14 @@ class CfgFaces
 				"Head_Hispanic"
 			};
 			head="NATOHead_A3";
-			texture="SEP_Identities\Data\Head_Hispanic_01_CO.paa";
-			material="SEP_Identities\Data\Head_Hispanic_01.rvmat";
-			materialWounded1="SEP_Identities\Data\Head_Hispanic_01_Injury.rvmat";
-			materialWounded2="SEP_Identities\Data\Head_Hispanic_01_Injury.rvmat";
-			textureHL="SEP_Identities\Data\Body_Hispanic_01_CO.paa";
-			textureHL2="SEP_Identities\Data\Body_Hispanic_01_CO.paa";
-			materialHL="SEP_Identities\Data\Body_Hispanic_01.rvmat";
-			materialHL2="SEP_Identities\Data\Body_Hispanic_01.rvmat";
+			texture="\SEP\SEP_Identities\Data\Head_Hispanic_01_CO.paa";
+			material="\SEP\SEP_Identities\Data\Head_Hispanic_01.rvmat";
+			materialWounded1="\SEP\SEP_Identities\Data\Head_Hispanic_01_Injury.rvmat";
+			materialWounded2="\SEP\SEP_Identities\Data\Head_Hispanic_01_Injury.rvmat";
+			textureHL="\SEP\SEP_Identities\Data\Body_Hispanic_01_CO.paa";
+			textureHL2="\SEP\SEP_Identities\Data\Body_Hispanic_01_CO.paa";
+			materialHL="\SEP\SEP_Identities\Data\Body_Hispanic_01.rvmat";
+			materialHL2="\SEP\SEP_Identities\Data\Body_Hispanic_01.rvmat";
 		};
 		class SEP_Hispanic_02: Default
 		{
@@ -66,14 +66,14 @@ class CfgFaces
 				"Head_Hispanic"
 			};
 			head="NATOHead_A3";
-			texture="SEP_Identities\Data\Head_Hispanic_02_CO.paa";
-			material="SEP_Identities\Data\Head_Hispanic_02.rvmat";
-			materialWounded1="SEP_Identities\Data\Head_Hispanic_02_Injury.rvmat";
-			materialWounded2="SEP_Identities\Data\Head_Hispanic_02_Injury.rvmat";
-			textureHL="SEP_Identities\Data\Body_Hispanic_02_CO.paa";
-			textureHL2="SEP_Identities\Data\Body_Hispanic_02_CO.paa";
-			materialHL="SEP_Identities\Data\Body_Hispanic_02.rvmat";
-			materialHL2="SEP_Identities\Data\Body_Hispanic_02.rvmat";
+			texture="\SEP\SEP_Identities\Data\Head_Hispanic_02_CO.paa";
+			material="\SEP\SEP_Identities\Data\Head_Hispanic_02.rvmat";
+			materialWounded1="\SEP\SEP_Identities\Data\Head_Hispanic_02_Injury.rvmat";
+			materialWounded2="\SEP\SEP_Identities\Data\Head_Hispanic_02_Injury.rvmat";
+			textureHL="\SEP\SEP_Identities\Data\Body_Hispanic_02_CO.paa";
+			textureHL2="\SEP\SEP_Identities\Data\Body_Hispanic_02_CO.paa";
+			materialHL="\SEP\SEP_Identities\Data\Body_Hispanic_02.rvmat";
+			materialHL2="\SEP\SEP_Identities\Data\Body_Hispanic_02.rvmat";
 		};
 		class SEP_Hispanic_03: Default
 		{
@@ -84,14 +84,14 @@ class CfgFaces
 				"Head_Hispanic"
 			};
 			head="NATOHead_A3";
-			texture="SEP_Identities\Data\Head_Hispanic_03_CO.paa";
-			material="SEP_Identities\Data\Head_Hispanic_03.rvmat";
-			materialWounded1="SEP_Identities\Data\Head_Hispanic_03_Injury.rvmat";
-			materialWounded2="SEP_Identities\Data\Head_Hispanic_03_Injury.rvmat";
-			textureHL="SEP_Identities\Data\Body_Hispanic_03_CO.paa";
-			textureHL2="SEP_Identities\Data\Body_Hispanic_03_CO.paa";
-			materialHL="SEP_Identities\Data\Body_Hispanic_03.rvmat";
-			materialHL2="SEP_Identities\Data\Body_Hispanic_03.rvmat";
+			texture="\SEP\SEP_Identities\Data\Head_Hispanic_03_CO.paa";
+			material="\SEP\SEP_Identities\Data\Head_Hispanic_03.rvmat";
+			materialWounded1="\SEP\SEP_Identities\Data\Head_Hispanic_03_Injury.rvmat";
+			materialWounded2="\SEP\SEP_Identities\Data\Head_Hispanic_03_Injury.rvmat";
+			textureHL="\SEP\SEP_Identities\Data\Body_Hispanic_03_CO.paa";
+			textureHL2="\SEP\SEP_Identities\Data\Body_Hispanic_03_CO.paa";
+			materialHL="\SEP\SEP_Identities\Data\Body_Hispanic_03.rvmat";
+			materialHL2="\SEP\SEP_Identities\Data\Body_Hispanic_03.rvmat";
 		};
 		class SEP_Hispanic_04: Default
 		{
@@ -102,14 +102,14 @@ class CfgFaces
 				"Head_Hispanic"
 			};
 			head="NATOHead_A3";
-			texture="SEP_Identities\Data\Head_Hispanic_04_CO.paa";
-			material="SEP_Identities\Data\Head_Hispanic_04.rvmat";
-			materialWounded1="SEP_Identities\Data\Head_Hispanic_04_Injury.rvmat";
-			materialWounded2="SEP_Identities\Data\Head_Hispanic_04_Injury.rvmat";
-			textureHL="SEP_Identities\Data\Body_Hispanic_04_CO.paa";
-			textureHL2="SEP_Identities\Data\Body_Hispanic_04_CO.paa";
-			materialHL="SEP_Identities\Data\Body_Hispanic_04.rvmat";
-			materialHL2="SEP_Identities\Data\Body_Hispanic_04.rvmat";
+			texture="\SEP\SEP_Identities\Data\Head_Hispanic_04_CO.paa";
+			material="\SEP\SEP_Identities\Data\Head_Hispanic_04.rvmat";
+			materialWounded1="\SEP\SEP_Identities\Data\Head_Hispanic_04_Injury.rvmat";
+			materialWounded2="\SEP\SEP_Identities\Data\Head_Hispanic_04_Injury.rvmat";
+			textureHL="\SEP\SEP_Identities\Data\Body_Hispanic_04_CO.paa";
+			textureHL2="\SEP\SEP_Identities\Data\Body_Hispanic_04_CO.paa";
+			materialHL="\SEP\SEP_Identities\Data\Body_Hispanic_04.rvmat";
+			materialHL2="\SEP\SEP_Identities\Data\Body_Hispanic_04.rvmat";
 		};
 		class SEP_Hispanic_05: Default
 		{
@@ -120,14 +120,14 @@ class CfgFaces
 				"Head_Hispanic"
 			};
 			head="NATOHead_A3";
-			texture="SEP_Identities\Data\Head_Hispanic_05_CO.paa";
-			material="SEP_Identities\Data\Head_Hispanic_05.rvmat";
-			materialWounded1="SEP_Identities\Data\Head_Hispanic_05_Injury.rvmat";
-			materialWounded2="SEP_Identities\Data\Head_Hispanic_05_Injury.rvmat";
-			textureHL="SEP_Identities\Data\Body_Hispanic_05_CO.paa";
-			textureHL2="SEP_Identities\Data\Body_Hispanic_05_CO.paa";
-			materialHL="SEP_Identities\Data\Body_Hispanic_05.rvmat";
-			materialHL2="SEP_Identities\Data\Body_Hispanic_05.rvmat";
+			texture="\SEP\SEP_Identities\Data\Head_Hispanic_05_CO.paa";
+			material="\SEP\SEP_Identities\Data\Head_Hispanic_05.rvmat";
+			materialWounded1="\SEP\SEP_Identities\Data\Head_Hispanic_05_Injury.rvmat";
+			materialWounded2="\SEP\SEP_Identities\Data\Head_Hispanic_05_Injury.rvmat";
+			textureHL="\SEP\SEP_Identities\Data\Body_Hispanic_05_CO.paa";
+			textureHL2="\SEP\SEP_Identities\Data\Body_Hispanic_05_CO.paa";
+			materialHL="\SEP\SEP_Identities\Data\Body_Hispanic_05.rvmat";
+			materialHL2="\SEP\SEP_Identities\Data\Body_Hispanic_05.rvmat";
 		};
 		class SEP_Hispanic_06: Default
 		{
@@ -138,14 +138,14 @@ class CfgFaces
 				"Head_Hispanic"
 			};
 			head="NATOHead_A3";
-			texture="SEP_Identities\Data\Head_Hispanic_06_CO.paa";
-			material="SEP_Identities\Data\Head_Hispanic_06.rvmat";
-			materialWounded1="SEP_Identities\Data\Head_Hispanic_06_Injury.rvmat";
-			materialWounded2="SEP_Identities\Data\Head_Hispanic_06_Injury.rvmat";
-			textureHL="SEP_Identities\Data\Body_Hispanic_06_CO.paa";
-			textureHL2="SEP_Identities\Data\Body_Hispanic_06_CO.paa";
-			materialHL="SEP_Identities\Data\Body_Hispanic_06.rvmat";
-			materialHL2="SEP_Identities\Data\Body_Hispanic_06.rvmat";
+			texture="\SEP\SEP_Identities\Data\Head_Hispanic_06_CO.paa";
+			material="\SEP\SEP_Identities\Data\Head_Hispanic_06.rvmat";
+			materialWounded1="\SEP\SEP_Identities\Data\Head_Hispanic_06_Injury.rvmat";
+			materialWounded2="\SEP\SEP_Identities\Data\Head_Hispanic_06_Injury.rvmat";
+			textureHL="\SEP\SEP_Identities\Data\Body_Hispanic_06_CO.paa";
+			textureHL2="\SEP\SEP_Identities\Data\Body_Hispanic_06_CO.paa";
+			materialHL="\SEP\SEP_Identities\Data\Body_Hispanic_06.rvmat";
+			materialHL2="\SEP\SEP_Identities\Data\Body_Hispanic_06.rvmat";
 		};
 		class SEP_Hispanic_07: Default
 		{
@@ -156,14 +156,14 @@ class CfgFaces
 				"Head_Hispanic"
 			};
 			head="NATOHead_A3";
-			texture="SEP_Identities\Data\Head_Hispanic_07_CO.paa";
-			material="SEP_Identities\Data\Head_Hispanic_07.rvmat";
-			materialWounded1="SEP_Identities\Data\Head_Hispanic_07_Injury.rvmat";
-			materialWounded2="SEP_Identities\Data\Head_Hispanic_07_Injury.rvmat";
-			textureHL="SEP_Identities\Data\Body_Hispanic_07_CO.paa";
-			textureHL2="SEP_Identities\Data\Body_Hispanic_07_CO.paa";
-			materialHL="SEP_Identities\Data\Body_Hispanic_07.rvmat";
-			materialHL2="SEP_Identities\Data\Body_Hispanic_07.rvmat";
+			texture="\SEP\SEP_Identities\Data\Head_Hispanic_07_CO.paa";
+			material="\SEP\SEP_Identities\Data\Head_Hispanic_07.rvmat";
+			materialWounded1="\SEP\SEP_Identities\Data\Head_Hispanic_07_Injury.rvmat";
+			materialWounded2="\SEP\SEP_Identities\Data\Head_Hispanic_07_Injury.rvmat";
+			textureHL="\SEP\SEP_Identities\Data\Body_Hispanic_07_CO.paa";
+			textureHL2="\SEP\SEP_Identities\Data\Body_Hispanic_07_CO.paa";
+			materialHL="\SEP\SEP_Identities\Data\Body_Hispanic_07.rvmat";
+			materialHL2="\SEP\SEP_Identities\Data\Body_Hispanic_07.rvmat";
 		};
 		class SEP_Hispanic_08: Default
 		{
@@ -174,14 +174,14 @@ class CfgFaces
 				"Head_Hispanic"
 			};
 			head="NATOHead_A3";
-			texture="SEP_Identities\Data\Head_Hispanic_08_CO.paa";
-			material="SEP_Identities\Data\Head_Hispanic_08.rvmat";
-			materialWounded1="SEP_Identities\Data\Head_Hispanic_08_Injury.rvmat";
-			materialWounded2="SEP_Identities\Data\Head_Hispanic_08_Injury.rvmat";
-			textureHL="SEP_Identities\Data\Body_Hispanic_08_CO.paa";
-			textureHL2="SEP_Identities\Data\Body_Hispanic_08_CO.paa";
-			materialHL="SEP_Identities\Data\Body_Hispanic_08.rvmat";
-			materialHL2="SEP_Identities\Data\Body_Hispanic_08.rvmat";
+			texture="\SEP\SEP_Identities\Data\Head_Hispanic_08_CO.paa";
+			material="\SEP\SEP_Identities\Data\Head_Hispanic_08.rvmat";
+			materialWounded1="\SEP\SEP_Identities\Data\Head_Hispanic_08_Injury.rvmat";
+			materialWounded2="\SEP\SEP_Identities\Data\Head_Hispanic_08_Injury.rvmat";
+			textureHL="\SEP\SEP_Identities\Data\Body_Hispanic_08_CO.paa";
+			textureHL2="\SEP\SEP_Identities\Data\Body_Hispanic_08_CO.paa";
+			materialHL="\SEP\SEP_Identities\Data\Body_Hispanic_08.rvmat";
+			materialHL2="\SEP\SEP_Identities\Data\Body_Hispanic_08.rvmat";
 		};
 		class SEP_Hispanic_09: Default
 		{
@@ -192,14 +192,14 @@ class CfgFaces
 				"Head_Hispanic"
 			};
 			head="NATOHead_A3";
-			texture="SEP_Identities\Data\Head_Hispanic_09_CO.paa";
-			material="SEP_Identities\Data\Head_Hispanic_09.rvmat";
-			materialWounded1="SEP_Identities\Data\Head_Hispanic_09_Injury.rvmat";
-			materialWounded2="SEP_Identities\Data\Head_Hispanic_09_Injury.rvmat";
-			textureHL="SEP_Identities\Data\Body_Hispanic_09_CO.paa";
-			textureHL2="SEP_Identities\Data\Body_Hispanic_09_CO.paa";
-			materialHL="SEP_Identities\Data\Body_Hispanic_09.rvmat";
-			materialHL2="SEP_Identities\Data\Body_Hispanic_09.rvmat";
+			texture="\SEP\SEP_Identities\Data\Head_Hispanic_09_CO.paa";
+			material="\SEP\SEP_Identities\Data\Head_Hispanic_09.rvmat";
+			materialWounded1="\SEP\SEP_Identities\Data\Head_Hispanic_09_Injury.rvmat";
+			materialWounded2="\SEP\SEP_Identities\Data\Head_Hispanic_09_Injury.rvmat";
+			textureHL="\SEP\SEP_Identities\Data\Body_Hispanic_09_CO.paa";
+			textureHL2="\SEP\SEP_Identities\Data\Body_Hispanic_09_CO.paa";
+			materialHL="\SEP\SEP_Identities\Data\Body_Hispanic_09.rvmat";
+			materialHL2="\SEP\SEP_Identities\Data\Body_Hispanic_09.rvmat";
 		};
 		
 		//Sikh//
@@ -212,14 +212,14 @@ class CfgFaces
 				"Head_Sikh"
 			};
 			head = "PersianHead_A3";
-			texture="SEP_Identities\Data\sikh\Head_Sikh_01_CO.paa";
-			material="SEP_Identities\Data\sikh\Head_Sikh_01.rvmat";
-			materialWounded1="SEP_Identities\Data\sikh\Head_Sikh_01_Injury.rvmat";
-			materialWounded2="SEP_Identities\Data\sikh\Head_Sikh_01_Injury.rvmat";
-			textureHL="SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
-			textureHL2="SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
-			materialHL="SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
-			materialHL2="SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
+			texture="\SEP\SEP_Identities\Data\sikh\Head_Sikh_01_CO.paa";
+			material="\SEP\SEP_Identities\Data\sikh\Head_Sikh_01.rvmat";
+			materialWounded1="\SEP\SEP_Identities\Data\sikh\Head_Sikh_01_Injury.rvmat";
+			materialWounded2="\SEP\SEP_Identities\Data\sikh\Head_Sikh_01_Injury.rvmat";
+			textureHL="\SEP\SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
+			textureHL2="\SEP\SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
+			materialHL="\SEP\SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
+			materialHL2="\SEP\SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
 		};
 		class SEP_Sikh_02: Default
 		{
@@ -230,14 +230,14 @@ class CfgFaces
 				"Head_Sikh"
 			};
 			head = "PersianHead_A3";
-			texture="SEP_Identities\Data\sikh\Head_Sikh_02_CO.paa";
-			material="SEP_Identities\Data\sikh\Head_Sikh_02.rvmat";
-			materialWounded1="SEP_Identities\Data\sikh\Head_Sikh_02_Injury.rvmat";
-			materialWounded2="SEP_Identities\Data\sikh\Head_Sikh_02_Injury.rvmat";
-			textureHL="SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
-			textureHL2="SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
-			materialHL="SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
-			materialHL2="SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
+			texture="\SEP\SEP_Identities\Data\sikh\Head_Sikh_02_CO.paa";
+			material="\SEP\SEP_Identities\Data\sikh\Head_Sikh_02.rvmat";
+			materialWounded1="\SEP\SEP_Identities\Data\sikh\Head_Sikh_02_Injury.rvmat";
+			materialWounded2="\SEP\SEP_Identities\Data\sikh\Head_Sikh_02_Injury.rvmat";
+			textureHL="\SEP\SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
+			textureHL2="\SEP\SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
+			materialHL="\SEP\SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
+			materialHL2="\SEP\SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
 		};
 		class SEP_Sikh_03: PersianHead_A3_01
 		{
@@ -248,15 +248,35 @@ class CfgFaces
 				"Head_Sikh"
 			};
 			head = "TanoanHead_A3";
-			texture="SEP_Identities\Data\sikh\Head_Sikh_03_CO.paa";
-			material="SEP_Identities\Data\sikh\Head_Sikh_03.rvmat";
-			materialWounded1="SEP_Identities\Data\sikh\Head_Sikh_03_Injury.rvmat";
-			materialWounded2="SEP_Identities\Data\sikh\Head_Sikh_03_Injury.rvmat";
-			textureHL="SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
-			textureHL2="SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
-			materialHL="SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
-			materialHL2="SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
-		};		
+			texture="\SEP\SEP_Identities\Data\sikh\Head_Sikh_03_CO.paa";
+			material="\SEP\SEP_Identities\Data\sikh\Head_Sikh_03.rvmat";
+			materialWounded1="\SEP\SEP_Identities\Data\sikh\Head_Sikh_03_Injury.rvmat";
+			materialWounded2="\SEP\SEP_Identities\Data\sikh\Head_Sikh_03_Injury.rvmat";
+			textureHL="\SEP\SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
+			textureHL2="\SEP\SEP_Identities\Data\sikh\Body_Sikh_03_CO.paa";
+			materialHL="\SEP\SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
+			materialHL2="\SEP\SEP_Identities\Data\sikh\Body_Sikh_03.rvmat";
+		};
+
+		//Developers//
+		class SEP_Joseph_01: Default
+		{
+			displayName="Joseph";
+			author="Joe";
+			identityTypes[]=
+			{
+				"Head_Joseph_01"
+			};
+			head="NATOHead_A3";
+			material = "\SEP\SEP_Identities\Data\developers\joseph\m_joseph_01.rvmat";
+			materialHL = "\A3\Characters_F\Heads\Data\hl_White_hairy_muscular.rvmat";
+			materialHL2 = "A3\Characters_F\Heads\Data\hl_White_hairy_muscular.rvmat";
+			materialWounded1 = "\SEP\SEP_Identities\Data\developers\joseph\m_joseph_01_injury.rvmat";
+			materialWounded2 = "\SEP\SEP_Identities\Data\developers\joseph\m_joseph_01_injury.rvmat";
+			texture = "\SEP\SEP_Identities\Data\developers\joseph\m_joseph_01_co.paa";
+			textureHL = "\HSim\Characters_H\A3\Faces\Data\hl_White_bald_3_co.paa";
+			textureHL2 = "\HSim\Characters_H\A3\Faces\Data\hl_White_bald_co.paa";
+		};
 	};
 };
 
@@ -672,6 +692,18 @@ class CfgWorlds
 				uppal="Uppal";
 				virk="Virk";
 			};
-		};	
+		};
+
+		class Developer01Name
+		{
+			class FirstNames
+			{
+				joseph="Joseph";
+			};
+			class LastNames
+			{
+				spear="Spearman";
+			};
+		};			
 	};
 };

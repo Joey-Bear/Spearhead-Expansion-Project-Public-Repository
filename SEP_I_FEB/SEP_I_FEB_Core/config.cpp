@@ -10,13 +10,12 @@ class CfgPatches
 
 class CfgFactionClasses
 {
-	access=1;
 	class SEP_I_FEB_Units
 	{
         displayName = "[SEP] Força Expedicionária Brasileira";
         side = 2;
-		flag = "\SEP_I_FEB\SEP_I_FEB_Core\data\flag_FEB_co.paa";
-		icon = "\SEP_I_FEB\SEP_I_FEB_Core\data\cfgFactionClasses_FEB_ca.paa";
+		flag = "\SEP\SEP_I_FEB\SEP_I_FEB_Core\data\flag_FEB_co.paa";
+		icon = "\SEP\SEP_I_FEB\SEP_I_FEB_Core\data\cfgFactionClasses_FEB_ca.paa";
         priority = 1;
 	};
 };
@@ -27,7 +26,7 @@ class CfgUnitInsignia
 	{
 		author="Joe";
 		displayName="Força Expedicionária Brasileira";
-		texture="SEP_I_FEB\SEP_I_FEB_Core\data\unitinsignia\SEP_I_FEB_Badge_ca.paa";
+		texture="\SEP\SEP_I_FEB\SEP_I_FEB_Core\data\unitinsignia\SEP_I_FEB_Badge_ca.paa";
 		material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
 	};
 };

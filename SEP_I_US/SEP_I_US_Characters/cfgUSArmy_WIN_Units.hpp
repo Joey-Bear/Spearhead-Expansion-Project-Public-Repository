@@ -7,7 +7,7 @@ class SEP_I_US_WIN_Rflmn : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Rflmn.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Rflmn.jpg";
 	icon = "iconManSemiauto";
 	role = "Rifleman";
     
@@ -40,7 +40,7 @@ class SEP_I_US_WIN_Rflmn_Unr : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Rflmn_Unr.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Rflmn_Unr.jpg";
 	icon = "iconMan";
 	role = "Rifleman";
 
@@ -73,7 +73,7 @@ class SEP_I_US_WIN_AmmoBearer : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_AmmoBearer.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_AmmoBearer.jpg";
 	icon = "iconManSemiauto";
 	role = "Rifleman";
     
@@ -106,7 +106,7 @@ class SEP_I_US_WIN_Driver : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Driver.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Driver.jpg";
 	icon = "iconManSemiauto";
 	role = "Rifleman";
     
@@ -139,7 +139,7 @@ class SEP_I_US_WIN_Driver_Lite : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Driver_Lite.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Driver_Lite.jpg";
 	icon = "iconManSemiauto";
 	role = "Rifleman";
     
@@ -172,7 +172,7 @@ class SEP_I_US_WIN_Gren : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Gren.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Gren.jpg";
 	icon = "iconManGrenadier";
 	role = "Grenadier";
 
@@ -205,7 +205,7 @@ class SEP_I_US_WIN_AR : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_AR.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_AR.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -238,7 +238,7 @@ class SEP_I_US_WIN_AAR : SPE_US_Soldier_base
 	side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_AAR.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_AAR.jpg";
 	icon = "iconManSemiauto";
 	role = "Assistant";
 
@@ -271,7 +271,7 @@ class SEP_I_US_WIN_SL : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_SL.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_SL.jpg";
 	icon = "iconManOfficer";
 	role = "SquadLeader";
 
@@ -304,7 +304,7 @@ class SEP_I_US_WIN_ASL : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_ASL.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_ASL.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -337,7 +337,7 @@ class SEP_I_US_WIN_Sniper : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Sniper.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Sniper.jpg";
 	icon = "iconManRecon";
 	role = "Marksman";
 
@@ -370,7 +370,7 @@ class SEP_I_US_WIN_AT : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_AT.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_AT.jpg";
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -403,7 +403,7 @@ class SEP_I_US_WIN_Medic : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Medic.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Medic.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 
@@ -436,7 +436,7 @@ class SEP_I_US_WIN_Engi : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Engi.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Engi.jpg";
 	icon = "iconManEngineer";
 	role = "Sapper";
 
@@ -470,7 +470,7 @@ class SEP_I_US_WIN_Engi_Expl : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Engi_Expl.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Engi_Expl.jpg";
 	icon = "iconManEngineer";
 
     identityTypes[] = {"LanguageENG_F","Head_EURO","SPE_US_Glasses"};
@@ -502,7 +502,7 @@ class SEP_I_US_WIN_Cpt : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Cpt.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Cpt.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -532,7 +532,7 @@ class SEP_I_US_WIN_Radioman : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Radioman.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Radioman.jpg";
 	icon = "iconManRTO";
 	role = "RadioOperator";
     
@@ -565,7 +565,7 @@ class SEP_I_US_WIN_Mortar_Gunner : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Mortar_Gunner.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Mortar_Gunner.jpg";
 	icon = "iconManSemiauto";
 	role = "Assistant";
     
@@ -598,7 +598,7 @@ class SEP_I_US_WIN_Mortar_AGunner : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Mortar_AGunner.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Mortar_AGunner.jpg";
 	icon = "iconManSemiauto";
 	role = "Assistant";
     
@@ -631,7 +631,7 @@ class SEP_I_US_WIN_Mortar_AmmoBearer : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Mortar_AmmoBearer.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Mortar_AmmoBearer.jpg";
 	icon = "iconManSemiauto";
 	role = "Assistant";
     
@@ -664,7 +664,7 @@ class SEP_I_US_WIN_Flamethrower_Operator : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Flamethrower_Operator.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Flamethrower_Operator.jpg";
 	icon = "iconMan";
 	role = "Flamethrower";
 
@@ -697,7 +697,7 @@ class SEP_I_US_WIN_HMGunner : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_HMGunner.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_HMGunner.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -730,7 +730,7 @@ class SEP_I_US_WIN_HMGunner_M2 : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_HMGunner_M2.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_HMGunner_M2.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -763,7 +763,7 @@ class SEP_I_US_WIN_HMG_AmmoBearer : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_HMG_AmmoBearer.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_HMG_AmmoBearer.jpg";
 	icon = "iconManSemiauto";
 	role = "Assistant";
 
@@ -796,7 +796,7 @@ class SEP_I_US_WIN_HMG_AmmoBearer_M2 : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_HMG_AmmoBearer_M2.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_HMG_AmmoBearer_M2.jpg";
 	icon = "iconManSemiauto";
 	role = "Assistant";
 
@@ -829,7 +829,7 @@ class SEP_I_US_WIN_AHMGunner : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_AHMGunner.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_AHMGunner.jpg";
 	icon = "iconManSemiauto";
 	role = "Assistant";
 
@@ -862,7 +862,7 @@ class SEP_I_US_WIN_AHMGunner_M2 : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_AHMGunner_M2.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_AHMGunner_M2.jpg";
 	icon = "iconManSemiauto";
 	role = "Assistant";
 
@@ -895,7 +895,7 @@ class SEP_I_US_WIN_GunCrew : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory = "SPE_EdSubcat_US_GunCrew";
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_GunCrew.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_GunCrew.jpg";
 	icon = "iconManTankcrew";
 	role = "Crewman";
 
@@ -928,7 +928,7 @@ class SEP_I_US_WIN_GunCrew_Srgt : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory = "SPE_EdSubcat_US_GunCrew";
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_GunCrew_Srgt.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_GunCrew_Srgt.jpg";
 	icon = "iconManTankcrew";
 	role = "Crewman";
 
@@ -961,7 +961,7 @@ class SEP_I_US_WIN_Pilot : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Pilot.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Pilot.jpg";
 	icon = "iconManPilot";
 	role = "Crewman";
 
@@ -994,7 +994,7 @@ class SEP_I_US_WIN_Tank_Crew : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory = "SPE_EdSubcat_US_TankCrew";
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Tank_Crew.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Tank_Crew.jpg";
 	icon = "iconManTankcrew";
 	role = "Crewman";
 
@@ -1026,7 +1026,7 @@ class SEP_I_US_WIN_Tank_Sergeant : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory = "SPE_EdSubcat_US_TankCrew";
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Tank_Sergeant.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Tank_Sergeant.jpg";
 	icon = "iconManTankcrew";
 	role = "Crewman";
 
@@ -1058,7 +1058,7 @@ class SEP_I_US_WIN_Tank_Second_Lieutenant : SPE_US_Soldier_base
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	editorSubcategory = "SPE_EdSubcat_US_TankCrew";
-	editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Tank_Second_Lieutenant.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Tank_Second_Lieutenant.jpg";
 	icon = "iconManTankcrew";
 	role = "Crewman";
 
@@ -1090,7 +1090,7 @@ class SEP_I_US_WIN_Sentry_Carb : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Sentry_Carb.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Sentry_Carb.jpg";
 	icon = "iconManSemiauto";
 	role = "Rifleman";
     
@@ -1123,7 +1123,7 @@ class SEP_I_US_WIN_Sentry_Shotgun : SPE_US_Soldier_base
     side = 2;
     faction = "SEP_I_US_Winter_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Sentry_Shotgun.jpg";
+    editorPreview="\SEP\SEP_I_US\SEP_I_US_Characters\data\editorPreviews\SEP_I_US_WIN_Sentry_Shotgun.jpg";
 	icon = "iconManSemiauto";
 	role = "Rifleman";
     

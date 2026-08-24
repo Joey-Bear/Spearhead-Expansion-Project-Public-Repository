@@ -10,7 +10,7 @@ class SEP_B_GER_DAK_leFH18: SPE_leFH18
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_GunCrew";
 	displayName = "10.5 cm leFH18 (Artillery)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_leFH18.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_leFH18.jpg";
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -54,7 +54,7 @@ class SEP_B_GER_WIN_leFH18: SPE_leFH18
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Gun_Crew";
 	displayName = "10.5 cm leFH18 (Artillery)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_leFH18.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_leFH18.jpg";
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -99,7 +99,7 @@ class SEP_B_GER_DAK_leFH18_AT: SPE_leFH18_AT
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_GunCrew";
 	displayName = "10.5 cm leFH18 (AT)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_leFH18_AT.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_leFH18_AT.jpg";
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -143,7 +143,7 @@ class SEP_B_GER_WIN_leFH18_AT: SPE_leFH18_AT
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Gun_Crew";
 	displayName = "10.5 cm leFH18 (AT)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_leFH18_AT.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_leFH18_AT.jpg";
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -188,13 +188,13 @@ class SEP_B_GER_DAK_GrW278_1 : SPE_GrW278_1
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Mortar_Gunner";
 	displayName = "8.14 cm GrW 278/1 (f)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_GrW278_1.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_GrW278_1.jpg";
 };
 
 class SEP_B_GER_WIN_GrW278_1 : SPE_GrW278_1
 {
-	scope=2;
-	scopeCurator=2;
+	scope = 2;
+	scopeCurator = 2;
 	dlc="SEP_B_GER";
 	author = "Joe";
 	side = 1;
@@ -202,7 +202,7 @@ class SEP_B_GER_WIN_GrW278_1 : SPE_GrW278_1
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Mortar_Gunner";
 	displayName = "8.14 cm GrW 278/1 (f)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_GrW278_1.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_GrW278_1.jpg";
 };
 
 class SPE_FlaK_30;
@@ -217,7 +217,7 @@ class SEP_B_GER_DAK_FlaK_30: SPE_FlaK_30
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Flak_Gun_Crew";
 	displayName = "FlaK 30";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_FlaK_30.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_FlaK_30.jpg";
 	hiddenSelectionsTextures[]=
 	{
 		"WW2\SPE_Assets_t\Vehicles\StaticWeapons_t\Flak_38\flak_38_01_01_dak_co.paa",
@@ -238,7 +238,7 @@ class SEP_B_GER_WIN_FlaK_30: SPE_FlaK_30
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Flak_Gun_Crew";
 	displayName = "FlaK 30";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_30.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_30.jpg";
 };	
 
 class SPE_FlaK_36;
@@ -253,7 +253,7 @@ class SEP_B_GER_DAK_FlaK_36: SPE_FlaK_36
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Flak_Gun_Crew";
 	displayName = "FlaK 36";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_FlaK_36.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_FlaK_36.jpg";
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -292,7 +292,7 @@ class SEP_B_GER_WIN_FlaK_36: SPE_FlaK_36
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Flak_Gun_Crew";
 	displayName = "FlaK 36";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_36.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_36.jpg";
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -332,7 +332,7 @@ class SEP_B_GER_DAK_FlaK_36_AA: SPE_FlaK_36_AA
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Flak_Gun_Crew";
 	displayName = "FlaK 36 (AA)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_FlaK_36_AA.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_FlaK_36_AA.jpg";
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -369,7 +369,7 @@ class SEP_B_GER_WIN_FlaK_36_AA: SPE_FlaK_36_AA
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Flak_Gun_Crew";
 	displayName = "FlaK 36 (AA)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_36_AA.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_36_AA.jpg";
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -407,7 +407,7 @@ class SEP_B_GER_DAK_FlaK_38: SPE_FlaK_38
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Flak_Gun_Crew";
 	displayName = "FlaK 38";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_FlaK_38.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_FlaK_38.jpg";
 	hiddenSelectionsTextures[]=
 	{
 		"WW2\SPE_Assets_t\Vehicles\StaticWeapons_t\Flak_38\flak_38_01_01_dak_co.paa",
@@ -428,7 +428,7 @@ class SEP_B_GER_WIN_FlaK_38: SPE_FlaK_38
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Flak_Gun_Crew";
 	displayName = "FlaK 38";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_38.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_38.jpg";
 };	
 
 class SPE_MG34_Lafette_Deployed;
@@ -443,7 +443,7 @@ class SEP_B_GER_DAK_MG34_Lafette_Deployed: SPE_MG34_Lafette_Deployed
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Rflmn_K98";
 	displayName = "MG 34";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_Deployed.jpg";
 };
 
 class SEP_B_GER_WIN_MG34_Lafette_Deployed: SPE_MG34_Lafette_Deployed
@@ -457,7 +457,7 @@ class SEP_B_GER_WIN_MG34_Lafette_Deployed: SPE_MG34_Lafette_Deployed
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Rflmn_K98";
 	displayName = "MG 34";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_Deployed.jpg";
 };
 
 class SPE_MG34_Bipod;
@@ -472,7 +472,7 @@ class SEP_B_GER_DAK_MG34_Bipod : SPE_MG34_Bipod
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Rflmn_K98";
 	displayName = "MG 34 (Bipod)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Bipod.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Bipod.jpg";
 };
 
 class SEP_B_GER_WIN_MG34_Bipod : SPE_MG34_Bipod
@@ -486,7 +486,7 @@ class SEP_B_GER_WIN_MG34_Bipod : SPE_MG34_Bipod
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Rflmn_K98";
 	displayName = "MG 34 (Bipod)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Bipod.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Bipod.jpg";
 };
 
 class SPE_MG34_Lafette_low_Deployed;
@@ -501,7 +501,7 @@ class SEP_B_GER_DAK_MG34_Lafette_low_Deployed : SPE_MG34_Lafette_low_Deployed
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Rflmn_K98";
 	displayName = "MG 34 (Low)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_low_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_low_Deployed.jpg";
 };
 
 class SEP_B_GER_WIN_MG34_Lafette_low_Deployed : SPE_MG34_Lafette_low_Deployed
@@ -515,7 +515,7 @@ class SEP_B_GER_WIN_MG34_Lafette_low_Deployed : SPE_MG34_Lafette_low_Deployed
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Rflmn_K98";
 	displayName = "MG 34 (Low)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_low_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_low_Deployed.jpg";
 };
 
 class SPE_MG34_Lafette_Trench_Deployed;
@@ -530,7 +530,7 @@ class SEP_B_GER_DAK_MG34_Lafette_Trench_Deployed : SPE_MG34_Lafette_Trench_Deplo
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Rflmn_K98";
 	displayName = "MG 34 (Trench)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_Trench_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_Trench_Deployed.jpg";
 };
 
 class SEP_B_GER_WIN_MG34_Lafette_Trench_Deployed : SPE_MG34_Lafette_Trench_Deployed
@@ -544,7 +544,7 @@ class SEP_B_GER_WIN_MG34_Lafette_Trench_Deployed : SPE_MG34_Lafette_Trench_Deplo
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Rflmn_K98";
 	displayName = "MG 34 (Trench)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_Trench_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_Trench_Deployed.jpg";
 };
 
 class SPE_MG42_Lafette_Deployed;
@@ -559,7 +559,7 @@ class SEP_B_GER_DAK_MG42_Lafette_Deployed : SPE_MG42_Lafette_Deployed
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Rflmn_K98";
 	displayName = "MG 42";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_Deployed.jpg";
 };
 
 class SEP_B_GER_WIN_MG42_Lafette_Deployed : SPE_MG42_Lafette_Deployed
@@ -573,7 +573,7 @@ class SEP_B_GER_WIN_MG42_Lafette_Deployed : SPE_MG42_Lafette_Deployed
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Rflmn_K98";
 	displayName = "MG 42";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_Deployed.jpg";
 };
 
 class SPE_MG42_Bipod;
@@ -588,7 +588,7 @@ class SEP_B_GER_DAK_MG42_Bipod : SPE_MG42_Bipod
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Rflmn_K98";
 	displayName = "MG 42 (Bipod)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Bipod.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Bipod.jpg";
 };
 
 class SEP_B_GER_WIN_MG42_Bipod : SPE_MG42_Bipod
@@ -602,7 +602,7 @@ class SEP_B_GER_WIN_MG42_Bipod : SPE_MG42_Bipod
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Rflmn_K98";
 	displayName = "MG 42 (Bipod)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Bipod.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Bipod.jpg";
 };
 
 class SPE_MG42_Lafette_low_Deployed;
@@ -617,7 +617,7 @@ class SEP_B_GER_DAK_MG42_Lafette_low_Deployed : SPE_MG42_Lafette_low_Deployed
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Rflmn_K98";
 	displayName = "MG 42 (Low)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_low_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_low_Deployed.jpg";
 };
 
 class SEP_B_GER_WIN_MG42_Lafette_low_Deployed : SPE_MG42_Lafette_low_Deployed
@@ -631,7 +631,7 @@ class SEP_B_GER_WIN_MG42_Lafette_low_Deployed : SPE_MG42_Lafette_low_Deployed
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Rflmn_K98";
 	displayName = "MG 42 (Low)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_low_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_low_Deployed.jpg";
 };
 
 class SPE_MG42_Lafette_trench_Deployed;
@@ -646,7 +646,7 @@ class SEP_B_GER_DAK_MG42_Lafette_trench_Deployed : SPE_MG42_Lafette_trench_Deplo
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Rflmn_K98";
 	displayName = "MG 42 (Trench)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_trench_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_trench_Deployed.jpg";
 };
 
 class SEP_B_GER_WIN_MG42_Lafette_trench_Deployed : SPE_MG42_Lafette_trench_Deployed
@@ -660,7 +660,7 @@ class SEP_B_GER_WIN_MG42_Lafette_trench_Deployed : SPE_MG42_Lafette_trench_Deplo
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Rflmn_K98";
 	displayName = "MG 42 (Trench)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_trench_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_trench_Deployed.jpg";
 };
 
 class All;
@@ -753,7 +753,7 @@ class SPE_Pak40_base: SPE_StaticCannon_base
 			author = "Jamie";
 			textures[] =
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_pzgry_CO.paa"
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_pzgry_CO.paa"
 			};
 			factions[] = 
 			{
@@ -772,7 +772,7 @@ class SPE_Pak40_base: SPE_StaticCannon_base
 			author = "Jamie";
 			textures[] =
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_pzgry_winter_CO.paa"
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_pzgry_winter_CO.paa"
 			};
 			factions[] = 
 			{
@@ -791,7 +791,7 @@ class SPE_Pak40_base: SPE_StaticCannon_base
 			author = "Jamie";
 			textures[] =
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_dunkel_winter_CO.paa"
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_dunkel_winter_CO.paa"
 			};
 			factions[] = 
 			{
@@ -810,7 +810,7 @@ class SPE_Pak40_base: SPE_StaticCannon_base
 			author = "Jamie";
 			textures[] =
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_camo_win_CO.paa"
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_camo_win_CO.paa"
 			};
 			factions[] = 
 			{
@@ -937,7 +937,7 @@ class SEP_B_GER_DAK_Pak40: SPE_Pak40
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_GunCrew";
 	displayName = "PaK 40";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_Pak40.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_Pak40.jpg";
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Vehicles\StaticWeapons_t\Pak40\PAK_40_gelb_co.paa"};
 	class Turrets : Turrets
 	{
@@ -985,9 +985,9 @@ class SEP_B_GER_WIN_Pak40: SPE_Pak40
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Gun_Crew";
 	displayName = "PaK 40";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_Pak40.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_Pak40.jpg";
 	textureList[] = {SEP_DunkelgelbWinter,1};
-	hiddenSelectionsTextures[] = {"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_camo_win_CO.paa"};
+	hiddenSelectionsTextures[] = {"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_camo_win_CO.paa"};
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -1035,7 +1035,7 @@ class SEP_B_GER_DAK_SearchLight : SPE_GER_SearchLight
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_DAK_Rflmn_K98";
 	displayName = "Search Light";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_SearchLight.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_SearchLight.jpg";
 };	
 
 class SEP_B_GER_WIN_SearchLight : SPE_GER_SearchLight
@@ -1049,7 +1049,7 @@ class SEP_B_GER_WIN_SearchLight : SPE_GER_SearchLight
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_WIN_Rflmn_K98";
 	displayName = "Search Light";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_SearchLight.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_SearchLight.jpg";
 };	
 
 class SEP_B_GER_Sturm_WIN_leFH18: SPE_leFH18
@@ -1063,7 +1063,7 @@ class SEP_B_GER_Sturm_WIN_leFH18: SPE_leFH18
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "10.5 cm leFH18 (Artillery)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_leFH18.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_leFH18.jpg";
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -1107,7 +1107,7 @@ class SEP_B_GER_Sturm_WIN_leFH18_AT: SPE_leFH18_AT
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "10.5 cm leFH18 (AT)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_leFH18_AT.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_leFH18_AT.jpg";
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -1151,7 +1151,7 @@ class SEP_B_GER_Sturm_WIN_GrW278_1 : SPE_GrW278_1
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Mortar_Gunner";
 	displayName = "8.14 cm GrW 278/1 (f)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_GrW278_1.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_GrW278_1.jpg";
 };
 
 class SEP_B_GER_Sturm_WIN_FlaK_36: SPE_FlaK_36
@@ -1165,7 +1165,7 @@ class SEP_B_GER_Sturm_WIN_FlaK_36: SPE_FlaK_36
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "FlaK 36";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_36.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_36.jpg";
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -1204,7 +1204,7 @@ class SEP_B_GER_Sturm_WIN_FlaK_36_AA: SPE_FlaK_36_AA
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "FlaK 36 (AA)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_36_AA.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_36_AA.jpg";
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -1241,7 +1241,7 @@ class SEP_B_GER_Sturm_WIN_FlaK_38: SPE_FlaK_38
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "FlaK 38";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_38.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_FlaK_38.jpg";
 };	
 
 class SEP_B_GER_Sturm_WIN_MG34_Lafette_Deployed: SPE_MG34_Lafette_Deployed
@@ -1255,7 +1255,7 @@ class SEP_B_GER_Sturm_WIN_MG34_Lafette_Deployed: SPE_MG34_Lafette_Deployed
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "MG 34";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_Deployed.jpg";
 };
 
 class SEP_B_GER_Sturm_WIN_MG34_Bipod : SPE_MG34_Bipod
@@ -1269,7 +1269,7 @@ class SEP_B_GER_Sturm_WIN_MG34_Bipod : SPE_MG34_Bipod
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "MG 34 (Bipod)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Bipod.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Bipod.jpg";
 };
 
 class SEP_B_GER_Sturm_WIN_MG34_Lafette_low_Deployed : SPE_MG34_Lafette_low_Deployed
@@ -1283,7 +1283,7 @@ class SEP_B_GER_Sturm_WIN_MG34_Lafette_low_Deployed : SPE_MG34_Lafette_low_Deplo
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "MG 34 (Low)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_low_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_low_Deployed.jpg";
 };
 
 class SEP_B_GER_Sturm_WIN_MG34_Lafette_Trench_Deployed : SPE_MG34_Lafette_Trench_Deployed
@@ -1297,7 +1297,7 @@ class SEP_B_GER_Sturm_WIN_MG34_Lafette_Trench_Deployed : SPE_MG34_Lafette_Trench
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "MG 34 (Trench)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_Trench_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG34_Lafette_Trench_Deployed.jpg";
 };
 
 class SEP_B_GER_Sturm_WIN_MG42_Lafette_Deployed : SPE_MG42_Lafette_Deployed
@@ -1311,7 +1311,7 @@ class SEP_B_GER_Sturm_WIN_MG42_Lafette_Deployed : SPE_MG42_Lafette_Deployed
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "MG 42";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_Deployed.jpg";
 };
 
 class SEP_B_GER_Sturm_WIN_MG42_Bipod : SPE_MG42_Bipod
@@ -1325,7 +1325,7 @@ class SEP_B_GER_Sturm_WIN_MG42_Bipod : SPE_MG42_Bipod
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "MG 42 (Bipod)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Bipod.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Bipod.jpg";
 };
 
 class SEP_B_GER_Sturm_WIN_MG42_Lafette_low_Deployed : SPE_MG42_Lafette_low_Deployed
@@ -1339,7 +1339,7 @@ class SEP_B_GER_Sturm_WIN_MG42_Lafette_low_Deployed : SPE_MG42_Lafette_low_Deplo
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "MG 42 (Low)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_low_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_low_Deployed.jpg";
 };
 
 class SEP_B_GER_Sturm_WIN_MG42_Lafette_trench_Deployed : SPE_MG42_Lafette_trench_Deployed
@@ -1353,7 +1353,7 @@ class SEP_B_GER_Sturm_WIN_MG42_Lafette_trench_Deployed : SPE_MG42_Lafette_trench
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "MG 42 (Trench)";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_trench_Deployed.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_MG42_Lafette_trench_Deployed.jpg";
 };
 
 class SEP_B_GER_Sturm_WIN_Pak40: SPE_Pak40
@@ -1367,9 +1367,9 @@ class SEP_B_GER_Sturm_WIN_Pak40: SPE_Pak40
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "PaK 40";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_Pak40.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_Pak40.jpg";
 	textureList[] = {SEP_DunkelgelbWinter,1};
-	hiddenSelectionsTextures[] = {"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_camo_win_CO.paa"};
+	hiddenSelectionsTextures[] = {"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_camo_win_CO.paa"};
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret
@@ -1416,10 +1416,10 @@ class SEP_B_GER_Sturm_WIN_SearchLight : SPE_GER_SearchLight
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_B_GER_Sturm_WIN_Rflmn_K98";
 	displayName = "Search Light";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_SearchLight.jpg";
+	editorPreview="\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_SearchLight.jpg";
 };	
 
-//Volkssturm//
+/* Volkssturm */
 class SEP_B_GER_Volk_GrW278_1 : SPE_GrW278_1
 {
 	scope=2;
@@ -1502,7 +1502,7 @@ class SEP_B_GER_Volk_Pak40: SPE_Pak40
 	crew="SEP_B_GER_Volk_Militia_G98";
 	displayName = "PaK 40";
 	editorPreview = "\WW2\SPE_Core_t\EditorPreviews_t\SPE_Pak40.jpg";
-	hiddenSelectionsTextures[] = {"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_pzgry_CO.paa"};
+	hiddenSelectionsTextures[] = {"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_Pak40_pzgry_CO.paa"};
 	class Turrets : Turrets
 	{
 		class MainTurret : MainTurret

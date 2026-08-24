@@ -11,7 +11,7 @@ class SEP_B_GER_U_LwFDSmock : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -30,7 +30,7 @@ class SEP_B_GER_U_LwFDSmock_Gaiters : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -49,7 +49,7 @@ class SEP_B_GER_U_LwFDSmock_gry : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_gry_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_gry_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -68,7 +68,7 @@ class SEP_B_GER_U_LwFDSmock_Gaiters_gry : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_gry_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_gry_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -87,7 +87,7 @@ class SEP_B_GER_U_LwFDSmock_Uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -106,7 +106,7 @@ class SEP_B_GER_U_LwFDSmock_Medic : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Medic_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Medic_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -126,7 +126,7 @@ class SEP_B_GER_U_LwFDSmock_Sumpf : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Sumpf_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Sumpf_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -145,7 +145,7 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Sumpf_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Sumpf_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -164,7 +164,7 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_gry : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Sumpf_gry_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Sumpf_gry_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -183,7 +183,7 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters_gry : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Sumpf_gry_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Sumpf_gry_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -202,7 +202,7 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_Uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Sumpf_Uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Sumpf_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -221,7 +221,7 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_Medic : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Sumpf_Medic_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_Sumpf_Medic_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -241,7 +241,7 @@ class SEP_B_GER_U_LwFDSmock_ART : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_ART_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_ART_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -260,7 +260,7 @@ class SEP_B_GER_U_LwFDSmock_ART_Uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_ART_Uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_ART_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -282,7 +282,7 @@ class SEP_B_GER_U_LwFDSmock_FSJ : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_FSJ_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_FSJ_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -301,7 +301,7 @@ class SEP_B_GER_U_LwFDSmock_FSJ_gry : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_FSJ_gry_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_FSJ_gry_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -320,7 +320,7 @@ class SEP_B_GER_U_LwFDSmock_FSJ_Uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_FSJ_Uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFDSmock_FSJ_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -340,7 +340,7 @@ class SEP_B_GER_U_LwFD_FSJ_Parka_grau : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_FSJ_Parka_grau_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_FSJ_Parka_grau_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -358,7 +358,7 @@ class SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -376,7 +376,7 @@ class SEP_B_GER_U_LwFD_FSJ_Parka_wht : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_FSJ_Parka_wht_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_FSJ_Parka_wht_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -394,7 +394,7 @@ class SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix_uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix_uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix_uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -413,7 +413,7 @@ class SEP_B_GER_U_LwFD_ART_Parka_wht : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_ART_Parka_wht_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_ART_Parka_wht_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -431,7 +431,7 @@ class SEP_B_GER_U_LwFD_ART_Parka_wht_uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_ART_Parka_wht_uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_ART_Parka_wht_uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -450,7 +450,7 @@ class SEP_B_GER_U_LwFD_Parka_grau : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_Parka_grau_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_Parka_grau_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -469,7 +469,7 @@ class SEP_B_GER_U_LwFD_Parka_grau_mix : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_Parka_grau_mix_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_Parka_grau_mix_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -488,7 +488,7 @@ class SEP_B_GER_U_LwFD_Parka_wht : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_Parka_wht_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_Parka_wht_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -507,7 +507,7 @@ class SEP_B_GER_U_LwFD_Parka_grau_mix_uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_Parka_grau_mix_uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_LwFD_Parka_grau_mix_uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";

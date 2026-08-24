@@ -29,7 +29,7 @@ class SEP_I_US_WIN_57mm_M1: SEP_I_US_WIN_57mm_M1_Base
 	crew="SEP_I_US_WIN_GunCrew";
 	typicalCargo[] = {"SEP_I_US_WIN_Rflmn","SEP_I_US_WIN_Rflmn","SEP_I_US_WIN_Rflmn"};
 	displayName = "57 mm Gun M1";
-	editorPreview="\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_57mm_M1.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_57mm_M1.jpg";
 	class Turrets: Turrets
 	{
 		class MainTurret: MainTurret
@@ -67,7 +67,7 @@ class SEP_I_US_WIN_M1_81: SPE_M1_81
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_US_WIN_Mortar_Gunner";
 	displayName = "M1 81 mm";
-	editorPreview="\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M1_81.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M1_81.jpg";
 };
 
 class SPE_M1919_M2;
@@ -82,7 +82,7 @@ class SEP_I_US_WIN_M1919_M2: SPE_M1919_M2
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_US_WIN_GunCrew";
 	displayName = "M1919A4";
-	editorPreview="\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M1919_M2.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M1919_M2.jpg";
 };
 
 class SPE_M1919_M2_Trench_Deployed;
@@ -97,7 +97,7 @@ class SEP_I_US_WIN_M1919_M2_Trench_Deployed: SPE_M1919_M2_Trench_Deployed
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_US_WIN_GunCrew";
 	displayName = "M1919A4 (Trench)";
-	editorPreview="\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M1919_M2_Trench_Deployed.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M1919_M2_Trench_Deployed.jpg";
 };
 
 class SPE_M1919A6_Bipod;
@@ -112,7 +112,7 @@ class SEP_I_US_WIN_M1919A6_Bipod: SPE_M1919A6_Bipod
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_US_WIN_GunCrew";
 	displayName = "M1919A6 (Bipod)";
-	editorPreview="\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M1919A6_Bipod.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M1919A6_Bipod.jpg";
 };
 
 class SPE_M2_M3_Trench;
@@ -127,7 +127,7 @@ class SEP_I_US_WIN_M2_M3_Trench: SPE_M2_M3_Trench
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_US_WIN_GunCrew";
 	displayName = "M2 .50 (Trench)";
-	editorPreview="\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M2_M3_Trench.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M2_M3_Trench.jpg";
 };
 
 class SPE_M2_M3;
@@ -142,7 +142,7 @@ class SEP_I_US_WIN_M2_M3: SPE_M2_M3
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_US_WIN_GunCrew";
 	displayName = "M2 .50 (Tripod)";
-	editorPreview="\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M2_M3.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M2_M3.jpg";
 };
 
 class SPEX_M2_60;	
@@ -157,7 +157,7 @@ class SEP_I_US_WIN_M2_60: SPEX_M2_60
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_US_WIN_Mortar_Gunner";
 	displayName = "M2 60 mm";
-	editorPreview="\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M2_60.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M2_60.jpg";
 };
 
 class SPE_105mm_M3_base:SPE_StaticCannon_base
@@ -178,7 +178,7 @@ class SEP_I_US_WIN_105mm_M3: SPE_105mm_M3
 	crew="SEP_I_US_WIN_GunCrew";
 	typicalCargo[] = {"SEP_I_US_WIN_GunCrew","SEP_I_US_WIN_GunCrew","SEP_I_US_WIN_GunCrew"};
 	displayName = "M3 105 mm Howitzer";
-	editorPreview="\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_105mm_M3.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_105mm_M3.jpg";
 	icon = "\WW2\SPE_Assets_t\Vehicles\Icons_t\Icon_105mm_M3_ca.paa";
 	class Turrets: Turrets
 	{
@@ -214,7 +214,7 @@ class SEP_I_US_WIN_105mm_M3_Direct: SPE_105mm_M3_Direct
 	crew="SEP_I_US_WIN_GunCrew";
 	typicalCargo[] = {"SEP_I_US_WIN_GunCrew","SEP_I_US_WIN_GunCrew","SEP_I_US_WIN_GunCrew"};
 	displayName = "M3 105 mm Howitzer (Direct)";
-	editorPreview="\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_105mm_M3_Direct.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_105mm_M3_Direct.jpg";
 	icon = "\WW2\SPE_Assets_t\Vehicles\Icons_t\Icon_105mm_M3_ca.paa";
 	class Turrets: Turrets
 	{
@@ -249,5 +249,5 @@ class SEP_I_US_WIN_M45_Quadmount: SPE_M45_Quadmount
 	editorSubcategory = "EdSubcat_Turrets";
 	crew="SEP_I_US_WIN_GunCrew";
 	displayName = "M45 Quadmount";
-	editorPreview="\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M2_60.jpg";
+	editorPreview="\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M2_60.jpg";
 };

@@ -8,7 +8,7 @@ class SEP_B_GER_U_FieldUniform_DAK_CFV : B_Soldier_F
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_FieldUniform_DAK";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Tropbluse.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Tropbluse.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -16,8 +16,8 @@ class SEP_B_GER_U_FieldUniform_DAK_CFV : B_Soldier_F
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_FieldUniform_DAK_Rolled_CFV : B_Soldier_F
@@ -30,7 +30,7 @@ class SEP_B_GER_U_FieldUniform_DAK_Rolled_CFV : B_Soldier_F
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_FieldUniform_DAK_Rolled";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Tropbluse_Roll.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Tropbluse_Roll.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -38,8 +38,8 @@ class SEP_B_GER_U_FieldUniform_DAK_Rolled_CFV : B_Soldier_F
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_FieldUniform_DAK_Shorts_CFV : B_Soldier_F
@@ -52,7 +52,7 @@ class SEP_B_GER_U_FieldUniform_DAK_Shorts_CFV : B_Soldier_F
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_FieldUniform_DAK";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Tropbluse_Shorts.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Tropbluse_Shorts.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -61,9 +61,9 @@ class SEP_B_GER_U_FieldUniform_DAK_Shorts_CFV : B_Soldier_F
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_FieldUniform_DAK_alt_CFV : SEP_B_GER_U_FieldUniform_DAK_CFV
@@ -83,8 +83,8 @@ class SEP_B_GER_U_FieldUniform_DAK_alt_CFV : SEP_B_GER_U_FieldUniform_DAK_CFV
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_alt_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_alt_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_FieldUniform_DAK_Rolled_alt_CFV : SEP_B_GER_U_FieldUniform_DAK_Rolled_CFV
@@ -104,8 +104,8 @@ class SEP_B_GER_U_FieldUniform_DAK_Rolled_alt_CFV : SEP_B_GER_U_FieldUniform_DAK
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_alt_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_alt_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 
@@ -126,8 +126,8 @@ class SEP_B_GER_U_FieldUniform_DAK_reed_CFV : SEP_B_GER_U_FieldUniform_DAK_CFV
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_reed_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_reed_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 
@@ -148,8 +148,8 @@ class SEP_B_GER_U_FieldUniform_DAK_Rolled_reed_CFV : SEP_B_GER_U_FieldUniform_DA
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_reed_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_reed_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 
@@ -170,8 +170,8 @@ class SEP_B_GER_U_MixedUniform_DAK_CFV : SEP_B_GER_U_FieldUniform_DAK_CFV
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_mix_01_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_mix_01_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_MixedUniform_DAK_Rolled_CFV : SEP_B_GER_U_FieldUniform_DAK_Rolled_CFV
@@ -191,8 +191,8 @@ class SEP_B_GER_U_MixedUniform_DAK_Rolled_CFV : SEP_B_GER_U_FieldUniform_DAK_Rol
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_mix_02_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_mix_02_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 
@@ -214,9 +214,9 @@ class SEP_B_GER_U_MixedUniform_DAK_Shorts_CFV : SEP_B_GER_U_FieldUniform_DAK_Sho
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_alt_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_alt_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 
@@ -237,8 +237,8 @@ class SEP_B_GER_U_MixedUniform_DAK_NCO_CFV : SEP_B_GER_U_FieldUniform_DAK_CFV
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_mix_02_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_UNTEROFFIZIER_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_mix_02_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_UNTEROFFIZIER_CA.paa"
     };
 };
 
@@ -252,7 +252,7 @@ class SEP_B_GER_U_ShortUniform_DAK_CFV : B_Soldier_F
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_ShortUniform_DAK";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Tropshirt.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Tropshirt.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -261,9 +261,9 @@ class SEP_B_GER_U_ShortUniform_DAK_CFV : B_Soldier_F
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_ShortUniform_DAK_alt_CFV : SEP_B_GER_U_ShortUniform_DAK_CFV
@@ -278,9 +278,9 @@ class SEP_B_GER_U_ShortUniform_DAK_alt_CFV : SEP_B_GER_U_ShortUniform_DAK_CFV
     uniformClass="SEP_B_GER_U_ShortUniform_DAK_alt";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_alt_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_alt_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_alt_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_alt_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_ShortUniform_DAK_mix_01_CFV : SEP_B_GER_U_ShortUniform_DAK_CFV
@@ -295,9 +295,9 @@ class SEP_B_GER_U_ShortUniform_DAK_mix_01_CFV : SEP_B_GER_U_ShortUniform_DAK_CFV
     uniformClass="SEP_B_GER_U_ShortUniform_DAK_mix_01";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_alt_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_alt_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
     
@@ -311,7 +311,7 @@ class SEP_B_GER_U_ShortUniform_DAK_Rolled_CFV : B_Soldier_F
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_ShortUniform_DAK_Rolled";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Tropshirt_Roll.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Tropshirt_Roll.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -319,8 +319,8 @@ class SEP_B_GER_U_ShortUniform_DAK_Rolled_CFV : B_Soldier_F
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 
@@ -336,8 +336,8 @@ class SEP_B_GER_U_ShortUniform_DAK_Rolled_alt_CFV : SEP_B_GER_U_ShortUniform_DAK
     uniformClass="SEP_B_GER_U_ShortUniform_DAK_Rolled_alt";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_alt_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_alt_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_CA.paa"
     };
 };
 
@@ -353,8 +353,8 @@ class SEP_B_GER_U_ShortUniform_DAK_Rolled_NCO_CFV : SEP_B_GER_U_ShortUniform_DAK
     uniformClass="SEP_B_GER_U_ShortUniform_DAK_Rolled_NCO";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_mix_01_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_UNTEROFFIZIER_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_Short_dak_mix_01_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_UNTEROFFIZIER_CA.paa"
     };
 };
 
@@ -375,8 +375,8 @@ class SEP_B_GER_U_Officer_DAK_CFV : SPE_GER_hauptmann
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Officer_DAK_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_HAUPTMANN_MC.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Officer_DAK_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_HAUPTMANN_MC.paa"
     };
 };
 
@@ -397,8 +397,8 @@ class SEP_B_GER_U_FieldUniform_DAK_ART_CFV : SEP_B_GER_U_FieldUniform_DAK_CFV
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_alt_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_ART_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_alt_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SCHUTZE_ART_CA.paa"
     };
 };
 
@@ -419,8 +419,8 @@ class SEP_B_GER_U_FieldUniform_DAK_ART_NCO_CFV : SEP_B_GER_U_FieldUniform_DAK_CF
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_alt_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_UNTEROFFIZIER_ART_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_DAK_Tropbluse_dak_alt_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_UNTEROFFIZIER_ART_CA.paa"
     };
 };
 
@@ -441,7 +441,7 @@ class SEP_B_GER_U_Officer_DAK_Art_CFV : SPE_GER_hauptmann
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Officer_DAK_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_LEUTNANT_ART_MC.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Officer_DAK_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_LEUTNANT_ART_MC.paa"
     };
 };

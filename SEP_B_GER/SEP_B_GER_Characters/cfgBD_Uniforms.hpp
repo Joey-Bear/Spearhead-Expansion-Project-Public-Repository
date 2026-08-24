@@ -17,7 +17,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
@@ -41,7 +41,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
@@ -65,7 +65,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_GEFREITER_mc.paa"
 		};
@@ -89,7 +89,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_UNTEROFFIZIER_mc.paa"
 		};
@@ -115,8 +115,8 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
 	};
@@ -139,7 +139,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_m40_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
@@ -163,7 +163,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_m40_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
@@ -187,7 +187,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_m40_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
@@ -211,8 +211,8 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_GEFREITER_mc.paa",
 			""
 		};
@@ -236,7 +236,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_m40_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_GEFREITER_mc.paa",
 			""
@@ -261,8 +261,8 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
 	};
@@ -285,8 +285,8 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
 	};
@@ -309,8 +309,8 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_UNTEROFFIZIER_mc.paa",
 			""
 		};
@@ -334,7 +334,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_m40_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_UNTEROFFIZIER_mc.paa",
 			""
@@ -359,7 +359,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_m40_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
@@ -383,7 +383,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_Medic_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1940_BD_Medic_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_m40_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
@@ -408,8 +408,8 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
 	};
@@ -432,7 +432,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
@@ -456,7 +456,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_2_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
@@ -480,7 +480,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_2_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
@@ -504,7 +504,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_GEFREITER_mc.paa"
 		};
@@ -528,8 +528,8 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_OBERSCHUTZE_mc.paa"
 		};
 	};
@@ -552,8 +552,8 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
 	};
@@ -576,8 +576,8 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
 	};
@@ -600,7 +600,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_GEFREITER_mc.paa"
 		};
@@ -624,8 +624,8 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_Medic_co.paa",
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_Medic_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_Medic_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_Medic_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
 	};
@@ -648,7 +648,7 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\Feldbluse_Panties_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_SCHUTZE_mc.paa"
 		};
@@ -672,8 +672,8 @@
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_FieldUniform_1943_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_UNTEROFFIZIER_mc.paa"
 		};
 	};
@@ -690,7 +690,7 @@
 		uniformClass="SEP_B_GER_U_Leutnant_BD";
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Officer_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Officer_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_LEUTNANT_mc.paa"
 		};
 	};
@@ -707,7 +707,7 @@
 		uniformClass="SEP_B_GER_U_Oberleutnant_BD";
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Officer_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Officer_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_OBERLEUTNANT_mc.paa"
 		};
 	};
@@ -724,7 +724,7 @@
 		uniformClass="SEP_B_GER_U_Hauptmann_BD";
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Officer_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Officer_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_HAUPTMANN_mc.paa"
 		};
 	};
@@ -741,7 +741,7 @@
 		uniformClass="SEP_B_GER_U_Oberst_BD";
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Officer_Senior_BD_co.paa",
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Officer_Senior_BD_co.paa",
 			"\WW2\SPE_Assets_t\Characters\Germans_t\Badges\SPE_WH_OBERST_mc.paa"
 		};
 	};

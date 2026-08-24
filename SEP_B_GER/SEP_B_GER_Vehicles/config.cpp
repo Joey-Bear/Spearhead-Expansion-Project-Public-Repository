@@ -2,11 +2,12 @@ class CfgPatches
 {
 	class SEP_B_GER_Vehicles
 	{
-        units[] = {
-			 //Air//
+        units[] = 
+		{
+			 /* Air */
 			 "SEP_B_GER_DAK_FW190F8",
 			 "SEP_B_GER_WIN_FW190F8",
-			 //Statics//
+			 /* Statics */
 			 "SEP_B_GER_DAK_leFH18",
 			 "SEP_B_GER_DAK_leFH18_AT",
 			 "SEP_B_GER_DAK_GrW278_1",
@@ -99,7 +100,7 @@ class CfgPatches
 			 "SEP_B_GER_Sturm_WIN_StuG_III_G_Late",
 			 "SEP_B_GER_Sturm_WIN_StuG_III_G_SKB",
 			 "SEP_B_GER_Sturm_WIN_StuH_42",				 
-			 //Wheeled//
+			 /* Wheeled */
 			 "SEP_B_GER_DAK_R200_Unarmed",
 			 "SEP_B_GER_DAK_R200_Hood",
 			 "SEP_B_GER_DAK_R200_MG34",
@@ -129,7 +130,7 @@ class CfgPatches
 			 "SEP_B_GER_Sturm_WIN_OpelBlitz_Ammo",
 			 "SEP_B_GER_Sturm_WIN_OpelBlitz_Fuel",
 			 "SEP_B_GER_Sturm_WIN_OpelBlitz_Repair",
-			 "SEP_B_GER_Sturm_WIN_OpelBlitz_Flak38",			 
+			 "SEP_B_GER_Sturm_WIN_OpelBlitz_Flak38"			 
         };
 		weapons[]={};
 		requiredAddons[]=
@@ -150,7 +151,7 @@ class CfgPatches
 	};
 };
 
-	#include "cfgGER_CfgGroups.hpp"
+#include "cfgGER_CfgGroups.hpp"
 
 class EventHandlers;
 class TextureSources;
@@ -193,21 +194,15 @@ class SPE_Tank_base;
 class CfgVehicles 
 {
 
-//===================================
-//AIR
-//===================================
+/* AIR */
 
     #include "cfgGER_Vehicles_FW190F8.hpp"
 	
-//===================================
-//STATICS
-//===================================
+/* STATICS */
 
 	#include "cfgGER_Vehicles_Statics.hpp"
 
-//===================================
-//TRACKED
-//===================================
+/* TRACKED */
 	
 	#include "cfgGER_Vehicles_PzKpfw_III.hpp"
 	#include "cfgGER_Vehicles_PzKpfw_IV.hpp"
@@ -218,9 +213,7 @@ class CfgVehicles
 	#include "cfgGER_Vehicles_SdKfz173.hpp"
 	#include "cfgGER_Vehicles_SdKfz1421.hpp"
 		
-//===================================
-//WHEELED
-//===================================
+/* WHEELED */
 
 	#include "cfgGER_Vehicles_PkwKfz_R200.hpp"
 	#include "cfgGER_Vehicles_SdKfz_305.hpp"

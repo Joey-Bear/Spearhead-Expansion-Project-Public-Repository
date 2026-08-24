@@ -58,7 +58,7 @@ class CfgWeapons
 		SPE_AttachmentType = "SPE_fixedBayonet";
 		SPE_bayonetLength = 65;
 		weaponInfoType = "SPE_Rsc_Bayonet_Zeroing";
-		model = "\SEP_WP\SEP_WP_Gewehr98\Seitengewehr98.p3d";
+		model = "\SEP\SEP_WP\SEP_WP_Gewehr98\Seitengewehr98.p3d";
 		picture = "\WW2\SPE_Assets_t\Weapons\Equipment_t\Weapons\MuzzleItem\Gear_ACC_K98_Bayo_ca.paa";
 		scope = 2;
 	};
@@ -70,7 +70,7 @@ class CfgWeapons
 		SPE_AttachmentType = "SPE_fixedBayonet";
 		SPE_bayonetLength = 35;
 		weaponInfoType = "SPE_Rsc_Bayonet_Zeroing";
-		model = "\SEP_WP\SEP_WP_Gewehr98\Seitengewehr9805.p3d";
+		model = "\SEP\SEP_WP\SEP_WP_Gewehr98\Seitengewehr9805.p3d";
 		picture = "\WW2\SPE_Assets_t\Weapons\Equipment_t\Weapons\MuzzleItem\Gear_ACC_K98_Bayo_ca.paa";
 		scope = 2;
 	};
@@ -81,20 +81,20 @@ class CfgWeapons
 		author="OokamiJamie and Joe";
 		scope=2;
 		displayName="Gew 98";
-		picture = "\SEP_WP\SEP_WP_Gewehr98\data\icons\SEP_WP_Gewehr98_ca.paa";
+		picture = "\SEP\SEP_WP\SEP_WP_Gewehr98\data\icons\SEP_WP_Gewehr98_ca.paa";
 		UiPicture = "\WW2\SPE_Assets_t\Weapons\UiPicture_t\Icon_Regular_ca.paa";
 		hiddenSelections[] = {"camo","camo1","camo3"};
-		model="\SEP_WP\SEP_WP_Gewehr98\SEP_WP_Gewehr98.p3d";
+		model="\SEP\SEP_WP\SEP_WP_Gewehr98\SEP_WP_Gewehr98.p3d";
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_WP\SEP_WP_Gewehr98\Data\gewehr_98_01_CO.paa",
-			"\SEP_WP\SEP_WP_Gewehr98\Data\gewehr_98_02_CO.paa",
-			"\SEP_WP\SEP_WP_Gewehr98\Data\gewehr_98_03_CO.paa"
+			"\SEP\SEP_WP\SEP_WP_Gewehr98\Data\gewehr_98_01_CO.paa",
+			"\SEP\SEP_WP\SEP_WP_Gewehr98\Data\gewehr_98_02_CO.paa",
+			"\SEP\SEP_WP\SEP_WP_Gewehr98\Data\gewehr_98_03_CO.paa"
 		};
 		handAnim[]=
 		{
 			"OFP2_ManSkeleton",
-			"\SEP_WP\SEP_WP_Gewehr98\Data\anim\Gewehr98.rtm"
+			"\SEP\SEP_WP\SEP_WP_Gewehr98\Data\anim\Gewehr98.rtm"
 		};
 		reloadAction = "SPE_GestureReload_Common_1clip";
 		magazines[] = {"SPE_5Rnd_792x57"};
@@ -357,20 +357,20 @@ class CfgWeapons
 		author="OokamiJamie";
 		scope=2;
 		displayName="Gew 98 (Luxor 3x)";
-		picture = "\SEP_WP\SEP_WP_Gewehr98\data\icons\SEP_WP_Gewehr98_Sniper_ca.paa";
+		picture = "\SEP\SEP_WP\SEP_WP_Gewehr98\data\icons\SEP_WP_Gewehr98_Sniper_ca.paa";
 		UiPicture = "\WW2\SPE_Assets_t\Weapons\UiPicture_t\Icon_Sniper_ca.paa";
 		hiddenSelections[] = {"camo","camo1","camo3"};
-		model="\SEP_WP\SEP_WP_Gewehr98\SEP_WP_Gewehr98_Sniper.p3d";
+		model="\SEP\SEP_WP\SEP_WP_Gewehr98\SEP_WP_Gewehr98_Sniper.p3d";
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_WP\SEP_WP_Gewehr98\Data\gewehr_98_01_CO.paa",
-			"\SEP_WP\SEP_WP_Gewehr98\Data\gewehr_98_02_CO.paa",
-			"\SEP_WP\SEP_WP_Gewehr98\Data\gewehr_98_04_CO.paa"
+			"\SEP\SEP_WP\SEP_WP_Gewehr98\Data\gewehr_98_01_CO.paa",
+			"\SEP\SEP_WP\SEP_WP_Gewehr98\Data\gewehr_98_02_CO.paa",
+			"\SEP\SEP_WP\SEP_WP_Gewehr98\Data\gewehr_98_04_CO.paa"
 		};
 		handAnim[]=
 		{
 			"OFP2_ManSkeleton",
-			"\SEP_WP\SEP_WP_Gewehr98\Data\anim\Gewehr98.rtm"
+			"\SEP\SEP_WP\SEP_WP_Gewehr98\Data\anim\Gewehr98.rtm"
 		};
 		ACE_barrelLength = 600;
 		ACE_barrelTwist = 240;

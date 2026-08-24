@@ -1,5 +1,4 @@
 // Headgear (CfgWeapons)
-
 class SEP_B_GER_H_Stahlhelm_WIN_1 : H_SPE_GER_Helmet
 {
     author = "OokamiJamie";
@@ -7,10 +6,10 @@ class SEP_B_GER_H_Stahlhelm_WIN_1 : H_SPE_GER_Helmet
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1942 (Winter)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_1_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_1_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_1_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_1_co.paa"
     };
 };
 class SEP_B_GER_H_Stahlhelm_WIN_1_ns : H_SPE_GER_Helmet_ns
@@ -20,10 +19,10 @@ class SEP_B_GER_H_Stahlhelm_WIN_1_ns : H_SPE_GER_Helmet_ns
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1942 (Winter, Opened)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_1_ns_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_1_ns_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_1_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_1_co.paa"
     };
 };
 class SEP_B_GER_H_Stahlhelm_WIN_1_utility : H_SPE_GER_HelmetUtility
@@ -33,10 +32,10 @@ class SEP_B_GER_H_Stahlhelm_WIN_1_utility : H_SPE_GER_HelmetUtility
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1942 (Winter, Strap)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_1_utility_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_1_utility_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_1_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_1_co.paa",
         "WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\H_Utilitystrap_co.paa"
     };
 };
@@ -47,10 +46,10 @@ class SEP_B_GER_H_Stahlhelm_WIN_1_utility_ns : H_SPE_GER_HelmetUtility_OS
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1942 (Winter, Strap/Opened)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_1_utility_ns_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_1_utility_ns_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_1_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_1_co.paa",
         "WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\H_Utilitystrap_co.paa"
     };
 };
@@ -61,10 +60,10 @@ class SEP_B_GER_H_Stahlhelm_WIN_2 : H_SPE_GER_Helmet
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1942 (Chalk)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_2_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_2_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_2_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_2_co.paa"
     };
 };
 class SEP_B_GER_H_Stahlhelm_WIN_2_ns : H_SPE_GER_Helmet_ns
@@ -74,10 +73,10 @@ class SEP_B_GER_H_Stahlhelm_WIN_2_ns : H_SPE_GER_Helmet_ns
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1942 (Chalk, Opened)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_2_ns_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_2_ns_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_2_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_2_co.paa"
     };
 };
 class SEP_B_GER_H_Stahlhelm_WIN_2_utility : H_SPE_GER_HelmetUtility
@@ -87,10 +86,10 @@ class SEP_B_GER_H_Stahlhelm_WIN_2_utility : H_SPE_GER_HelmetUtility
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1942 (Chalk, Strap)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_2_utility_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_2_utility_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_2_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_2_co.paa",
         "WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\H_Utilitystrap_co.paa"
     };
 };
@@ -101,10 +100,10 @@ class SEP_B_GER_H_Stahlhelm_WIN_2_utility_ns : H_SPE_GER_HelmetUtility_OS
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1942 (Chalk, Strap/Opened)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_2_utility_ns_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_WIN_2_utility_ns_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_2_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Winter_2_co.paa",
         "WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\H_Utilitystrap_co.paa"
     };
 };
@@ -116,10 +115,10 @@ class SEP_B_GER_H_StahlhelmM40_WIN_1 : H_SPE_GER_Helmet_M40
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1940 (Winter)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa"
     };
 };
 class SEP_B_GER_H_StahlhelmM40_WIN_1_ns : H_SPE_GER_Helmet_M40_ns
@@ -129,10 +128,10 @@ class SEP_B_GER_H_StahlhelmM40_WIN_1_ns : H_SPE_GER_Helmet_M40_ns
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1940 (Winter, Opened)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_ns_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_ns_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa"
     };
 };
 class SEP_B_GER_H_StahlhelmM40_WIN_1_utility : H_SPE_GER_Helmet_M40Utility
@@ -142,10 +141,10 @@ class SEP_B_GER_H_StahlhelmM40_WIN_1_utility : H_SPE_GER_Helmet_M40Utility
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1940 (Winter, Strap)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_utility_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_utility_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa",
         ""
     };
 };
@@ -156,10 +155,10 @@ class SEP_B_GER_H_StahlhelmM40_WIN_1_utility_ns : H_SPE_GER_Helmet_M40Utility_OS
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1940 (Winter, Strap/Opened)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_utility_ns_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_utility_ns_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa",
         ""
     };
 };
@@ -170,10 +169,10 @@ class SEP_B_GER_H_StahlhelmM40_WIN_1_net : H_SPE_GER_Helmet_M40_net
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1940 (Winter, Net)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_net_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_net_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa"
     };
 };
 class SEP_B_GER_H_StahlhelmM40_WIN_1_net_ns : H_SPE_GER_Helmet_M40_ns_net
@@ -183,10 +182,10 @@ class SEP_B_GER_H_StahlhelmM40_WIN_1_net_ns : H_SPE_GER_Helmet_M40_ns_net
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1940 (Winter, Net/Opened)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_net_ns_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_net_ns_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa"
     };
 };
 class SEP_B_GER_H_StahlhelmM40_WIN_1_wire : H_SPE_GER_Helmet_M40_wire
@@ -196,10 +195,10 @@ class SEP_B_GER_H_StahlhelmM40_WIN_1_wire : H_SPE_GER_Helmet_M40_wire
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1940 (Winter, Wire)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_wire_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_wire_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa"
     };
 };
 class SEP_B_GER_H_StahlhelmM40_WIN_1_wire_ns : H_SPE_GER_Helmet_M40_ns_wire
@@ -209,10 +208,10 @@ class SEP_B_GER_H_StahlhelmM40_WIN_1_wire_ns : H_SPE_GER_Helmet_M40_ns_wire
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm 1940 (Winter, Wire/Opened)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_wire_ns_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmM40_WIN_1_wire_ns_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M40_Winter_1_co.paa"
     };
 };
 /* Hidden
@@ -223,11 +222,11 @@ class SEP_B_GER_H_StahlhelmCover_win : H_SPE_GER_HelmetCamo
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm (Winter Cover)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmCover_win_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmCover_win_ca.paa";
     hiddenSelectionsTextures[] = 
     {
         "\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\M42_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Cover_Winter_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Cover_Winter_co.paa"
     };
 };
 class SEP_B_GER_H_StahlhelmCover_win_ns : H_SPE_GER_HelmetCamo2
@@ -237,11 +236,11 @@ class SEP_B_GER_H_StahlhelmCover_win_ns : H_SPE_GER_HelmetCamo2
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm (Winter Cover, Opened)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmCover_win_ns_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmCover_win_ns_ca.paa";
     hiddenSelectionsTextures[] = 
     {
         "\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\M42_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Cover_Winter_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Cover_Winter_co.paa"
     };
 };
 */
@@ -252,11 +251,11 @@ class SEP_B_GER_H_StahlhelmCover_maus : H_SPE_GER_HelmetCamo
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm (Mausgrau Cover)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmCover_maus_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmCover_maus_ca.paa";
     hiddenSelectionsTextures[] = 
     {
         "\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\M42_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Cover_maus_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Cover_maus_co.paa"
     };
 };
 class SEP_B_GER_H_StahlhelmCover_maus_ns : H_SPE_GER_HelmetCamo2
@@ -266,11 +265,11 @@ class SEP_B_GER_H_StahlhelmCover_maus_ns : H_SPE_GER_HelmetCamo2
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm (Mausgrau Cover, Opened)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmCover_maus_ns_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_StahlhelmCover_maus_ns_ca.paa";
     hiddenSelectionsTextures[] = 
     {
         "\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\M42_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Cover_maus_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_Cover_maus_co.paa"
     };
 };
 class SEP_B_GER_H_FSJ_M38_Helmet_WIN : H_SPE_GER_FSJ_M38_Helmet
@@ -280,10 +279,10 @@ class SEP_B_GER_H_FSJ_M38_Helmet_WIN : H_SPE_GER_FSJ_M38_Helmet
     weaponPoolAvailable = 1;
     displayName = "GER FSJ Stahlhelm 1938 (Painted, Winter)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FSJ_M38_Helmet_WIN_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FSJ_M38_Helmet_WIN_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_FSJ_M38_Helmet_WIN_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_FSJ_M38_Helmet_WIN_co.paa"
     };
 };
 class SEP_B_GER_H_FSJ_M38_Helmet_Burlap_WIN : H_SPE_GER_FSJ_M38_Helmet_kentang
@@ -293,10 +292,10 @@ class SEP_B_GER_H_FSJ_M38_Helmet_Burlap_WIN : H_SPE_GER_FSJ_M38_Helmet_kentang
     weaponPoolAvailable = 1;
     displayName = "GER FSJ Stahlhelm 1938 (Burlap, Winter)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FSJ_M38_Helmet_Burlap_WIN_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FSJ_M38_Helmet_Burlap_WIN_ca.paa";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_M40_BurlapFSJ_Winter_co.paa"
+		"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_M40_BurlapFSJ_Winter_co.paa"
 	};
 };
 class SEP_B_GER_H_M40_BurlapBand_WIN : H_SPE_GER_Helmet_M40_burlap_band
@@ -306,11 +305,11 @@ class SEP_B_GER_H_M40_BurlapBand_WIN : H_SPE_GER_Helmet_M40_burlap_band
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm (Burlap Cover Band, Winter)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_M40_BurlapBand_WIN_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_M40_BurlapBand_WIN_ca.paa";
 	hiddenSelectionsTextures[] = 
 	{
 		"\WW2\SPE_Assets_t\Characters\Germans_U1_t\GER_Wehrmacht\M35_late_co.paa",
-		"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_M40_BurlapBand_Winter_co.paa"
+		"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_M40_BurlapBand_Winter_co.paa"
 	};
 };
 class SEP_B_GER_H_M40_BurlapBand_NS_WIN : H_SPE_GER_Helmet_M40_burlap_band_ns
@@ -320,11 +319,11 @@ class SEP_B_GER_H_M40_BurlapBand_NS_WIN : H_SPE_GER_Helmet_M40_burlap_band_ns
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm (Burlap Cover Band, Opened, Winter)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_M40_BurlapBand_WIN_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_M40_BurlapBand_WIN_ca.paa";
 	hiddenSelectionsTextures[] = 
 	{
 		"\WW2\SPE_Assets_t\Characters\Germans_U1_t\GER_Wehrmacht\M35_late_co.paa",
-		"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_M40_BurlapBand_Winter_co.paa"
+		"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_M40_BurlapBand_Winter_co.paa"
 	};
 };
 class SEP_B_GER_H_M40_Burlap_WIN : H_SPE_GER_HelmetCamo3
@@ -334,11 +333,11 @@ class SEP_B_GER_H_M40_Burlap_WIN : H_SPE_GER_HelmetCamo3
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm (Burlap Cover, Winter)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_M40_Burlap_WIN_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_M40_Burlap_WIN_ca.paa";
 	hiddenSelectionsTextures[] = 
 	{
 		"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\M42_co.paa",
-		"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_M40_Burlap_Winter_co.paa"
+		"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_M40_Burlap_Winter_co.paa"
 	};
 };
 class SEP_B_GER_H_M40_Burlap_NS_WIN : H_SPE_GER_HelmetCamo3_OS
@@ -348,11 +347,11 @@ class SEP_B_GER_H_M40_Burlap_NS_WIN : H_SPE_GER_HelmetCamo3_OS
     weaponPoolAvailable = 1;
     displayName = "GER Stahlhelm (Burlap Cover, Opened, Winter)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_M40_Burlap_WIN_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_M40_Burlap_WIN_ca.paa";
 	hiddenSelectionsTextures[] = 
 	{
 		"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\M42_co.paa",
-		"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_M40_Burlap_Winter_co.paa"
+		"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_M40_Burlap_Winter_co.paa"
 	};
 };
 
@@ -363,7 +362,7 @@ class SEP_B_GER_H_FieldCap_Gry : H_SPE_GER_Cap
 	weaponPoolAvailable = 1;
 	displayName = "GER Field Cap 1943, Grey";
 	descriptionShort = "No Armor";
-	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FieldCap_Gry_ca.paa";
+	picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FieldCap_Gry_ca.paa";
 	hiddenSelectionsTextures[] = 
 	{
 		"\WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\M43_Cap_co.paa",
@@ -378,10 +377,10 @@ class SEP_B_GER_H_FieldCap_Brn : H_SPE_GER_Cap
 	weaponPoolAvailable = 1;
 	displayName = "GER Field Cap 1943, Brown";
 	descriptionShort = "No Armor";
-	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FieldCap_Brn_ca.paa";
+	picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FieldCap_Brn_ca.paa";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_FieldCap_Brn_co.paa",
+		"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_FieldCap_Brn_co.paa",
 		""
 	};
 };
@@ -390,16 +389,16 @@ class SEP_B_GER_H_Stahlhelm_M16: H_HelmetB
 {
 	author = "OokamiJamie";
 	displayName = "GER Stahlhelm 1916 (Grau)";
-	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M16_ca.paa";
+	picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M16_ca.paa";
 	scope = 2;
-	model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_Stahlhelm_M16.p3d";
+	model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_Stahlhelm_M16.p3d";
 	hiddenSelections[] = 
 	{
 		"camo"
 	};
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_Stahlhelm_M16_gry_CO.paa"
+		"SEP\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_Stahlhelm_M16_gry_CO.paa"
 	};
 	class ItemInfo: ItemInfo
 	{
@@ -410,9 +409,9 @@ class SEP_B_GER_H_Stahlhelm_M16: H_HelmetB
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_Stahlhelm_M16_gry_CO.paa"
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_Stahlhelm_M16_gry_CO.paa"
 		};
-		uniformModel = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_Stahlhelm_M16.p3d";
+		uniformModel = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_Stahlhelm_M16.p3d";
 		class HitpointsProtectionInfo
 		{
 			class Head
@@ -429,11 +428,11 @@ class SEP_B_GER_H_Stahlhelm_M16_grn: SEP_B_GER_H_Stahlhelm_M16
 {
 	author = "OokamiJamie";
 	displayName = "GER Stahlhelm 1916";
-	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M16_grn_ca.paa";
+	picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M16_grn_ca.paa";
 	scope = 2;
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_Stahlhelm_M16_grn_CO.paa"
+		"SEP\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_Stahlhelm_M16_grn_CO.paa"
 	};
 };
 
@@ -444,10 +443,10 @@ class SEP_B_GER_H_Stahlhelm_M35_gry : H_SPE_GER_Helmet_M35
 	weaponPoolAvailable = 1;
 	displayName = "GER Stahlhelm 1935 (Grau)";
 	descriptionShort = "Armor Level I";
-	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_gry_ca.paa";
+	picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_gry_ca.paa";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_gry_co.paa"
+		"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_gry_co.paa"
 	};
 };
 
@@ -458,33 +457,73 @@ class SEP_B_GER_H_Stahlhelm_M35_ns_gry : H_SPE_GER_Helmet_M35_ns
 	weaponPoolAvailable = 1;
 	displayName = "GER Stahlhelm 1935 (Grau, Opened)";
 	descriptionShort = "Armor Level I";
-	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_ns_gry_ca.paa";
+	picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_ns_gry_ca.paa";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_gry_co.paa"
+		"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_gry_co.paa"
 	};
 };
 
-// Uniforms (NVGs)
-
+//NVGs (CfgWeapons)
 class SEP_B_GER_N_Feld_Gorget: NVGoggles
 {
 	author = "Lukinator";
 	scope = 2;
 	scopeArsenal = 2;
 	displayName = "GER Feldgendarmerie Gorget";
-	model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
-	picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_F_Feld_Gorget_ca.paa";
+	model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
+	picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_F_Feld_Gorget_ca.paa";
 	modelOptics = "\A3\Weapons_F\Reticle\optics_empty.p3d";
 	visionMode[] = {Normal};
 	class ItemInfo: ItemInfo
 	{
-		uniformModel = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
-		modelOff = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
+		uniformModel = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
+		modelOff = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
 		mass = 6;
 	};
 };
 
+//Vests (CfgWeapons)
+class SEP_B_GER_V_SMG_Light: V_SPE_Vest_Camo_Base
+{
+	author = "Lukinator";
+	scope = 2;
+	scopeArsenal = 2;
+	displayName = "EHM 6-cell SMG Pouch";
+	picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_V_SMG_Light_ca.paa";
+	model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_V_SMG_Light.p3d";
+	hiddenSelections[] = 
+	{
+		"camo"
+	};
+	hiddenSelectionsTextures[] = 
+	{
+		"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_V_SMG_Light_co.paa"
+	};
+	class ItemInfo : VestItem
+	{
+		uniformModel = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_V_SMG_Light.p3d";
+		hiddenSelections[] = 
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[] = 
+		{
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_V_SMG_Light_co.paa"
+		};
+		containerClass = "Supply100";
+		mass=20;
+		class HitpointsProtectionInfo
+		{
+			class Body
+			{
+				armor = 0;
+				hitpointName = "HitBody";
+				passThrough = 1;
+			};
+		};
+	};
+};
 
 
 // Uniforms (CfgWeapons)
@@ -497,7 +536,7 @@ class SEP_B_GER_U_Parka_grau : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_grau_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_grau_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -515,7 +554,7 @@ class SEP_B_GER_U_Parka_grau_mix : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_grau_mix_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_grau_mix_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -533,7 +572,7 @@ class SEP_B_GER_U_Parka_wht : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_wht_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_wht_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -551,7 +590,7 @@ class SEP_B_GER_U_Parka_wht_mix : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_wht_mix_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_wht_mix_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -569,7 +608,7 @@ class SEP_B_GER_U_Parka_grau_mix_uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_grau_mix_uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_grau_mix_uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -587,7 +626,7 @@ class SEP_B_GER_U_Parka_sumpf : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_sumpf_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Parka_sumpf_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -606,7 +645,7 @@ class SEP_B_GER_U_FieldUniform_M44 : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -625,7 +664,7 @@ class SEP_B_GER_U_FieldUniform_M44_Open : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Open_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Open_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -644,7 +683,7 @@ class SEP_B_GER_U_FieldUniform_M44_Open_Gref : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Open_Gref_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Open_Gref_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -663,7 +702,7 @@ class SEP_B_GER_U_FieldUniform_M44_Roll : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Roll_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Roll_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -682,7 +721,7 @@ class SEP_B_GER_U_FieldUniform_M44_Unbloused : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Unbloused_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Unbloused_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -701,7 +740,7 @@ class SEP_B_GER_U_FieldUniform_M44_Uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -720,7 +759,7 @@ class SEP_B_GER_U_FieldUniform_M44_Open_Uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Open_Uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Open_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -739,7 +778,7 @@ class SEP_B_GER_U_FieldUniform_M44_Roll_Uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Roll_Uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Roll_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -758,7 +797,7 @@ class SEP_B_GER_U_FieldUniform_M44_Ober : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Ober_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Ober_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -777,7 +816,7 @@ class SEP_B_GER_U_FieldUniform_M44_Roll_Gref : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Roll_Gref_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_M44_Roll_Gref_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -796,7 +835,7 @@ class SEP_B_GER_U_Mantel_M36 : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M36_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M36_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -815,7 +854,7 @@ class SEP_B_GER_U_Mantel_M36_Gaiters : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M36_Gaiters_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M36_Gaiters_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -834,7 +873,7 @@ class SEP_B_GER_U_Mantel_M36_Uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M36_Uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M36_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -853,7 +892,7 @@ class SEP_B_GER_U_Mantel_M40 : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -872,7 +911,7 @@ class SEP_B_GER_U_Mantel_M40_Gaiters : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_Gaiters_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_Gaiters_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -891,7 +930,7 @@ class SEP_B_GER_U_Mantel_M40_Unbloused : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_Unbloused_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_Unbloused_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -910,7 +949,7 @@ class SEP_B_GER_U_Mantel_M40_Uffz : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_Uffz_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_Uffz_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -929,7 +968,7 @@ class SEP_B_GER_U_Mantel_M40_Lehr : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_Lehr_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Mantel_M40_Lehr_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";

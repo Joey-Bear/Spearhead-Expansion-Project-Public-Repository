@@ -69,6 +69,16 @@ class CfgHints
 			weapon = "SEP_WP_MP28";
 			logicalOrder = 205;
 		};
+
+		class SEP_WP_MP38
+		{
+			arguments[] = {{"STR_SEP_WP_MP38_displayName"},{"STR_SEP_WP_MP38_description"}};
+			displayName = "%11";
+			description = "%12";			
+			image = "\WW2\SPE_Core_t\Data_t\FieldManual\icons\SPE_SMG_ca.paa";
+			weapon = "SEP_WP_MP38";
+			logicalOrder = 206;
+		};
 		
 		class SEP_WP_MP507
 		{
@@ -77,7 +87,7 @@ class CfgHints
 			description = "%12";			
 			image = "\WW2\SPE_Core_t\Data_t\FieldManual\icons\SPE_SelfLoadingRifle_ca.paa";
 			weapon = "SEP_WP_MP507";
-			logicalOrder = 206;
+			logicalOrder = 207;
 		};
     };
 	
@@ -140,7 +150,7 @@ class CfgHints
 			arguments[] = {{"STR_SEP_B_GER_VOLKSSTURM_displayName"},{"STR_SEP_B_GER_VOLKSSTURM_description"}};
 			displayName = "%11";
 			description = "%12";
-			image = "\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_GER_ca.paa";
+			image = "\SEP\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_GER_ca.paa";
 			logicalOrder = 251;
 		};
     };
@@ -173,7 +183,7 @@ class CfgHints
 			arguments[] = {{"STR_SEP_I_FEB_displayName"},{"STR_SEP_I_FEB_description"}};
 			displayName = "%11";
 			description = "%12";
-			image = "\SEP_I_FEB\SEP_I_FEB_Core\data\cfgFactionClasses_FEB_ca.paa";
+			image = "\SEP\SEP_I_FEB\SEP_I_FEB_Core\data\cfgFactionClasses_FEB_ca.paa";
 			logicalOrder = 300;
 		};
 		
@@ -182,7 +192,7 @@ class CfgHints
 			arguments[] = {{"STR_SEP_I_IR_displayName"},{"STR_SEP_I_IR_description"}};
 			displayName = "%11";
 			description = "%12";			
-			image = "\SEP_I_IR\SEP_I_IR_Core\data\cfgFactionClasses_IR_ca.paa";
+			image = "\SEP\SEP_I_IR\SEP_I_IR_Core\data\cfgFactionClasses_IR_ca.paa";
 			logicalOrder = 301;
 		};
 		
@@ -191,7 +201,7 @@ class CfgHints
 			arguments[] = {{"STR_SEP_I_AK_displayName"},{"STR_SEP_I_AK_description"}};
 			displayName = "%11";
 			description = "%12";
-			image = "\SEP_I_AK\SEP_I_AK_Core\data\cfgFactionClasses_AK_ca.paa";
+			image = "\SEP\SEP_I_AK\SEP_I_AK_Core\data\cfgFactionClasses_AK_ca.paa";
 			logicalOrder = 302;
 		};
     };

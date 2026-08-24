@@ -12,7 +12,7 @@ class SEP_I_AK_Rflmn_K98 : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_K98.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_K98.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -45,7 +45,7 @@ class SEP_I_AK_Rflmn_Sten : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_Sten.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_Sten.jpg";
 	icon = "iconManSMG";
 	role = "Assault";
 	
@@ -78,7 +78,7 @@ class SEP_I_AK_Rflmn_MP40 : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_MP40.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_MP40.jpg";
 	icon = "iconManSMG";
 	role = "Assault";
 	
@@ -111,7 +111,7 @@ class SEP_I_AK_Rflmn_Flame : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_Flame.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_Flame.jpg";
 	icon = "iconMan";
 	role = "Flamethrower";
 	
@@ -144,7 +144,7 @@ class SEP_I_AK_Rflmn_Lite : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_Lite.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_Lite.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -177,7 +177,7 @@ class SEP_I_AK_Rflmn_Unr : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_Unr.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Rflmn_Unr.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -210,7 +210,7 @@ class SEP_I_AK_Gren : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Gren.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Gren.jpg";
 	icon = "iconManGrenadier";
 	role = "Grenadier";
 
@@ -243,7 +243,7 @@ class SEP_I_AK_MG_MG34 : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_MG_MG34.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_MG_MG34.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -276,7 +276,7 @@ class SEP_I_AK_AMG : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_AMG.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_AMG.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -309,7 +309,7 @@ class SEP_I_AK_SL : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_SL.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_SL.jpg";
 	icon = "iconManOfficer";
 	role = "SquadLeader";
 
@@ -342,7 +342,7 @@ class SEP_I_AK_ASL: SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_ASL.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_ASL.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -375,7 +375,7 @@ class SEP_I_AK_Sniper : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Sniper.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Sniper.jpg";
 	icon = "iconManRecon";
 	role = "Marksman";
 
@@ -408,7 +408,7 @@ class SEP_I_AK_AT_PZ30 : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_AT_PZ30.jpg";   
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_AT_PZ30.jpg";   
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -441,7 +441,7 @@ class SEP_I_AK_AT_PZ60 : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_AT_PZ60.jpg";  
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_AT_PZ60.jpg";  
 	icon = "iconManAT";		
 	role = "MissileSpecialist";
 
@@ -474,7 +474,7 @@ class SEP_I_AK_Medic : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Medic.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Medic.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 
@@ -507,7 +507,7 @@ class SEP_I_AK_Sabo : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Sabo.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Sabo.jpg";
 	icon = "iconManExplosive";
 	role = "SpecialOperative";
 
@@ -540,7 +540,7 @@ class SEP_I_AK_Ofcr : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Ofcr.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Ofcr.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -570,7 +570,7 @@ class SEP_I_AK_Mortar_Gunner : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Mortar_Gunner.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Mortar_Gunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -603,7 +603,7 @@ class SEP_I_AK_Mortar_AGunner : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Mortar_AGunner.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Mortar_AGunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -636,7 +636,7 @@ class SEP_I_AK_Mortar_AmmoBearer : SEP_I_AK_Soldier_Base
 	side = 2;
 	faction = "SEP_I_AK_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Mortar_AmmoBearer.jpg";
+	editorPreview="\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\editorPreviews\SEP_I_AK_Mortar_AmmoBearer.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 

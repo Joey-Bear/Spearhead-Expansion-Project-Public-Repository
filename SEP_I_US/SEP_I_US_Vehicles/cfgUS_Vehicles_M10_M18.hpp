@@ -7,7 +7,7 @@ class SEP_I_US_WIN_M10 : SPE_M10
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M10 Tank Destroyer";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M10.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M10.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -79,7 +79,7 @@ class SEP_I_US_WIN_M18_Hellcat : SPE_M18_Hellcat
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M18 Hellcat";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M18_Hellcat.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M18_Hellcat.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";

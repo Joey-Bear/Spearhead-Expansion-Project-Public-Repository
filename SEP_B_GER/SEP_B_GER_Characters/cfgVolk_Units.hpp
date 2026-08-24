@@ -7,7 +7,7 @@ class SEP_B_GER_Volk_Rflmn : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Rflmn.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Rflmn.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -40,7 +40,7 @@ class SEP_B_GER_Volk_Rflmn_MP507 : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Rflmn_MP507.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Rflmn_MP507.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -73,7 +73,7 @@ class SEP_B_GER_Volk_Rflmn_Unr : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Rflmn_Unr.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Rflmn_Unr.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -106,7 +106,7 @@ class SEP_B_GER_Volk_Militia_K98 : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Militia_K98.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Militia_K98.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -139,7 +139,7 @@ class SEP_B_GER_Volk_Militia_G98 : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Militia_G98.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Militia_G98.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -172,7 +172,7 @@ class SEP_B_GER_Volk_Militia_MP507 : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Militia_MP507.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Militia_MP507.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -204,7 +204,7 @@ class SEP_B_GER_Volk_Militia_Unr : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Militia_Unr.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Militia_Unr.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -237,7 +237,7 @@ class SEP_B_GER_Volk_Gren : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Gren.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Gren.jpg";
 	icon = "iconManGrenadier";
 	role = "Grenadier";
 
@@ -270,7 +270,7 @@ class SEP_B_GER_Volk_MG_MG34 : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_MG_MG34.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_MG_MG34.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -303,7 +303,7 @@ class SEP_B_GER_Volk_AMG : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_AMG.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_AMG.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -336,7 +336,7 @@ class SEP_B_GER_Volk_SL : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_SL.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_SL.jpg";
 	icon = "iconManOfficer";
 	role = "SquadLeader";
 
@@ -369,7 +369,7 @@ class SEP_B_GER_Volk_ASL : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_SL.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_SL.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -402,7 +402,7 @@ class SEP_B_GER_Volk_Sniper : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Sniper.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Sniper.jpg";
 	icon = "iconManRecon";
 	role = "Marksman";
 
@@ -434,7 +434,7 @@ class SEP_B_GER_Volk_AT_Grenadier : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Rflmn.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Rflmn.jpg";
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 	
@@ -467,7 +467,7 @@ class SEP_B_GER_Volk_AT_PZ30 : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_AT_PZ30.jpg";   
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_AT_PZ30.jpg";   
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -500,7 +500,7 @@ class SEP_B_GER_Volk_AT_PZ60 : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_AT_PZ60.jpg";   
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_AT_PZ60.jpg";   
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -533,7 +533,7 @@ class SEP_B_GER_Volk_AT_Soldier : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_AT_Soldier.jpg";  
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_AT_Soldier.jpg";  
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -566,7 +566,7 @@ class SEP_B_GER_Volk_AT_Soldier_Assistant : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_AT_Soldier_Assistant.jpg";   
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_AT_Soldier_Assistant.jpg";   
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -599,7 +599,7 @@ class SEP_B_GER_Volk_Medic : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Medic.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Medic.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 
@@ -632,7 +632,7 @@ class SEP_B_GER_Volk_Sapper_Gefr : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Sapper_Gefr.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Sapper_Gefr.jpg";
 	icon = "iconManExplosive";
 	role = "Sapper";
 
@@ -665,7 +665,7 @@ class SEP_B_GER_Volk_Sapper : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Sapper.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Sapper.jpg";
 	icon = "iconManExplosive";
 	role = "Sapper";
 
@@ -698,7 +698,7 @@ class SEP_B_GER_Volk_Ofcr : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Ofcr.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Ofcr.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -727,7 +727,7 @@ class SEP_B_GER_Volk_Sentry_G98 : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Sentry_G98.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Sentry_G98.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -760,7 +760,7 @@ class SEP_B_GER_Volk_Sentry_Shotgun : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SEP_B_GER_Volk_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Sentry_Shotgun.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Volk_Sentry_Shotgun.jpg";
 	icon = "iconManSemiauto";
 	role = "Rifleman";
 	

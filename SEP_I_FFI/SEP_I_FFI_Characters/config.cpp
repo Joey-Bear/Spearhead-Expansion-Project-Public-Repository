@@ -15,7 +15,19 @@ class CfgPatches
 			//Vests//
 			//Backpacks//
 		};
-		requiredAddons[]={};
+		requiredAddons[]=
+		{
+			"A3_Characters_F",
+			"A3_Characters_F_Heads",
+			"A3_Characters_F_Mark",
+			"A3_Characters_F_Tacops",
+			"A3_Characters_F_Orange_Facewear",
+			"A3_Characters_F_Enoch_Facewear",
+			"A3_Characters_F_Tank_Uniforms",
+			"A3_Weapons_F",
+			"A3_Weapons_F_Items",
+			"WW2_SPE_Core_c_Core_c"
+		};
 	};
 };
 
@@ -107,7 +119,7 @@ class CfgVehicles
         side = 2;
         faction = "SPE_FFI";
 		editorSubcategory = "EdSubcat_Personnel";
-		editorPreview="\SEP_I_FFI\SEP_I_FFI_Characters\data\editorPreviews\SEP_I_FFI_Fighter_MAS38.jpg";
+		editorPreview="\SEP\SEP_I_FFI\SEP_I_FFI_Characters\data\editorPreviews\SEP_I_FFI_Fighter_MAS38.jpg";
 		icon = "iconManSMG";
 		role = "Rifleman";
 		

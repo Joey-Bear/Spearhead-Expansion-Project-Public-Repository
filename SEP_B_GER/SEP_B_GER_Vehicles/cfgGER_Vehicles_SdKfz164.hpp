@@ -6,16 +6,16 @@ class SEP_B_GER_WIN_Nashorn : SPE_Nashorn
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "Sd.Kfz. 164 Nashorn";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_Nashorn.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_Nashorn.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	crew = "SEP_B_GER_WIN_SPG Crew";
 	hiddenSelectionsTextures[]= 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Tanks_t\Nashorn\Balkenkreuz_ca.paa"
 	};
 	
@@ -27,10 +27,10 @@ class SEP_B_GER_WIN_Nashorn : SPE_Nashorn
 			author = "Hyena";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz164_win_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Tanks_t\Nashorn\Balkenkreuz_ca.paa"
 			};
 		};

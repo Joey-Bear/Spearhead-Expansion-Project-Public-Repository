@@ -9,8 +9,8 @@ class SPE_PzKpfwV_base: SPE_Tank_base
 			author = "Jamie";
 			textures[] =
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_01_dunkel_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_02_dunkel_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_01_dunkel_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_02_dunkel_win_CO.paa",
 				"WW2\SPE_Assets_t\Vehicles\Tanks_U1_t\Panther\Panther_G_wheels_co.paa"
 			};
 			factions[] = {};
@@ -21,8 +21,8 @@ class SPE_PzKpfwV_base: SPE_Tank_base
 			author = "Jamie";
 			textures[] =
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_01_ambush_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_02_ambush_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_01_ambush_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_02_ambush_win_CO.paa",
 				"WW2\SPE_Assets_t\Vehicles\Tanks_U1_t\Panther\Panther_G_wheels_co.paa"
 			};
 			factions[] = {};
@@ -33,8 +33,8 @@ class SPE_PzKpfwV_base: SPE_Tank_base
 			author = "Jamie";
 			textures[] =
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_01_camo_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_02_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_01_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_02_camo_win_CO.paa",
 				"WW2\SPE_Assets_t\Vehicles\Tanks_U1_t\Panther\Panther_G_wheels_co.paa"
 			};
 			factions[] = {};
@@ -49,14 +49,14 @@ class SEP_B_GER_WIN_PzKpfw_V_G : SPE_PzKpfwV_G
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "PzKpfw V Ausf.G Panther";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_PzKpfw_V_G.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_PzKpfw_V_G.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	crew = "SEP_B_GER_WIN_Tank_Crew";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_01_ambush_win_CO.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_02_ambush_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_01_ambush_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_02_ambush_win_CO.paa",
 		"WW2\SPE_Assets_t\Vehicles\Tanks_U1_t\Panther\Panther_G_wheels_co.paa"
 	};
 	class Turrets : Turrets
@@ -89,14 +89,14 @@ class SEP_B_GER_Sturm_WIN_PzKpfw_V_G : SPE_PzKpfwV_G
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "PzKpfw V Ausf.G Panther";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_PzKpfw_V_G.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_PzKpfw_V_G.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Sturm_Winter_Units";
 	crew = "SEP_B_GER_Sturm_WIN_Tank_Crew";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_01_ambush_win_CO.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_02_ambush_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_01_ambush_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw5_02_ambush_win_CO.paa",
 		"WW2\SPE_Assets_t\Vehicles\Tanks_U1_t\Panther\Panther_G_wheels_co.paa"
 	};
 	class Turrets : Turrets

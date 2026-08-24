@@ -15,6 +15,10 @@ class CfgPatches
 		ammo[]={};
 		// Requirements
 		requiredVersion=1.0;
+		requiredAddons[]=
+		{
+			"A3_Structures_F_Mil_Flags"
+		};
 	};
 };
 
@@ -46,7 +50,7 @@ class CfgVehicles
 		editorSubcategory="SEP_Misc_Flags";
 		class EventHandlers
 		{
-			init = "(_this select 0) setFlagTexture '\SEP_MISC\data\SEP_Flag_FrenchTanoa_co.paa'";
+			init = "(_this select 0) setFlagTexture 'SEP\SEP_MISC\data\SEP_Flag_FrenchTanoa_co.paa'";
 		};
 	};
 	class SEP_Flag_EHM: SEP_Flag_FrenchTanoa
@@ -57,7 +61,7 @@ class CfgVehicles
 		displayName="Everon Homeland Militia";
 		class EventHandlers
 		{
-			init = "(_this select 0) setFlagTexture '\SEP_MISC\data\SEP_Flag_EHM_co'";
+			init = "(_this select 0) setFlagTexture 'SEP\SEP_MISC\data\SEP_Flag_EHM_co'";
 		};
 	};
 };
@@ -68,7 +72,7 @@ class CfgUnitInsignia
 	{
 		author="Joe";
 		displayName="Spearhead Expansion Project";
-		texture="SEP_MISC\data\unitinsignia\SEP_Badge_ca.paa";
+		texture="SEP\SEP_MISC\data\unitinsignia\SEP_Badge_ca.paa";
 		material = "\A3\UI_F\Data\GUI\Cfg\UnitInsignia\default_insignia.rvmat";
 	};
 };

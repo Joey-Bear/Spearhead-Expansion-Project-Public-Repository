@@ -59,16 +59,16 @@ class cfgWeapons
 	{
 		author = "OokamiJamie";
 		displayName = "FR Adrian Mle. 1915";
-		picture = "\SEP_I_FRE\SEP_I_FRE_Characters\data\icons\SEP_I_FRE_H_AdrianMle15_brn_ca.paa";
+		picture = "\SEP\SEP_I_FRE\SEP_I_FRE_Characters\data\icons\SEP_I_FRE_H_AdrianMle15_brn_ca.paa";
 		scope = 2;
-		model = "\SEP_I_FRE\SEP_I_FRE_Characters\SEP_FRE_H_AdrianMle15.p3d";
+		model = "\SEP\SEP_I_FRE\SEP_I_FRE_Characters\SEP_FRE_H_AdrianMle15.p3d";
 		hiddenSelections[] = 
 		{
 			"camo"
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_I_FRE\SEP_I_FRE_Characters\Data\SEP_I_FRE_H_AdrianMle15_CO.paa"
+			"\SEP\SEP_I_FRE\SEP_I_FRE_Characters\Data\SEP_I_FRE_H_AdrianMle15_CO.paa"
 		};
 		class ItemInfo: ItemInfo
 		{
@@ -79,9 +79,9 @@ class cfgWeapons
 			};
 			hiddenSelectionsTextures[] = 
 			{
-				"\SEP_I_FRE\SEP_I_FRE_Characters\Data\SEP_I_FRE_H_AdrianMle15_CO.paa"
+				"\SEP\SEP_I_FRE\SEP_I_FRE_Characters\Data\SEP_I_FRE_H_AdrianMle15_CO.paa"
 			};
-			uniformModel = "\SEP_I_FRE\SEP_I_FRE_Characters\SEP_FRE_H_AdrianMle15.p3d";
+			uniformModel = "\SEP\SEP_I_FRE\SEP_I_FRE_Characters\SEP_FRE_H_AdrianMle15.p3d";
 			class HitpointsProtectionInfo
 			{
 				class Head
@@ -98,16 +98,16 @@ class cfgWeapons
 	{
 		author = "OokamiJamie";
 		displayName = "FR Adrian Mle. 1915 (Folded)";
-		picture = "\SEP_I_FRE\SEP_I_FRE_Characters\data\icons\SEP_I_FRE_H_AdrianMle15_ns_brn_ca.paa";
+		picture = "\SEP\SEP_I_FRE\SEP_I_FRE_Characters\data\icons\SEP_I_FRE_H_AdrianMle15_ns_brn_ca.paa";
 		scope = 2;
-		model = "\SEP_I_FRE\SEP_I_FRE_Characters\SEP_FRE_H_AdrianMle15_up.p3d";
+		model = "\SEP\SEP_I_FRE\SEP_I_FRE_Characters\SEP_FRE_H_AdrianMle15_up.p3d";
 		hiddenSelections[] = 
 		{
 			"camo"
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_I_FRE\SEP_I_FRE_Characters\Data\SEP_I_FRE_H_AdrianMle15_CO.paa"
+			"\SEP\SEP_I_FRE\SEP_I_FRE_Characters\Data\SEP_I_FRE_H_AdrianMle15_CO.paa"
 		};
 		class ItemInfo: ItemInfo
 		{
@@ -118,9 +118,9 @@ class cfgWeapons
 			};
 			hiddenSelectionsTextures[] = 
 			{
-				"\SEP_I_FRE\SEP_I_FRE_Characters\Data\SEP_I_FRE_H_AdrianMle15_CO.paa"
+				"\SEP\SEP_I_FRE\SEP_I_FRE_Characters\Data\SEP_I_FRE_H_AdrianMle15_CO.paa"
 			};
-			uniformModel = "\SEP_I_FRE\SEP_I_FRE_Characters\SEP_FRE_H_AdrianMle15_up.p3d";
+			uniformModel = "\SEP\SEP_I_FRE\SEP_I_FRE_Characters\SEP_FRE_H_AdrianMle15_up.p3d";
 			class HitpointsProtectionInfo
 			{
 				class Head

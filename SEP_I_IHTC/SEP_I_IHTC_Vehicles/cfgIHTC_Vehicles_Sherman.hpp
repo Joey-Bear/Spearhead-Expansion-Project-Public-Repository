@@ -6,7 +6,7 @@ class SEP_I_IHTC_M4A1_75 : SPE_M4A1_75
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4A1 Sherman";
-	editorPreview = "\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\editorPreviews\SEP_I_IHTC_M4A1_75.jpg";
+	editorPreview = "\SEP\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\editorPreviews\SEP_I_IHTC_M4A1_75.jpg";
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	crew = "SEP_I_IHTC_Tank_Crew";
@@ -15,7 +15,7 @@ class SEP_I_IHTC_M4A1_75 : SPE_M4A1_75
 		"\WW2\SPE_Assets_t\Vehicles\Tanks_2_t\M4A1\M4A1_E_Hull_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Tanks_U1_t\M4A0\M4A0_E_Turret_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Tanks_2_t\M4A1\M4A1_Wheels_co.paa",
-		"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M4A1_75_d_ca.paa",
+		"\SEP\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M4A1_75_d_ca.paa",
 		"",
 		"\a3\data_f\clear_empty.paa"
 	};
@@ -41,7 +41,7 @@ class SEP_I_IHTC_M4A1_75 : SPE_M4A1_75
 				"\WW2\SPE_Assets_t\Vehicles\Tanks_2_t\M4A1\M4A1_E_Hull_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Tanks_U1_t\M4A0\M4A0_E_Turret_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Tanks_2_t\M4A1\M4A1_Wheels_co.paa",
-				"\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M4A1_75_d_ca.paa",
+				"\SEP\SEP_I_IHTC\SEP_I_IHTC_Vehicles\data\SEP_I_IHTC_M4A1_75_d_ca.paa",
 				"",
 				"\a3\data_f\clear_empty.paa"
 			};

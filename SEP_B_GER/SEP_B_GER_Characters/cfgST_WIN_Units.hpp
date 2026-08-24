@@ -12,7 +12,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Rflmn_K98.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Rflmn_K98.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 		
@@ -45,7 +45,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Rflmn_Lite.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Rflmn_Lite.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 		
@@ -78,7 +78,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Rflmn_Pvt.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Rflmn_Pvt.jpg";
 		icon = "iconManSemiauto";
 		role = "Rifleman";
 		
@@ -111,7 +111,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Rflmn_STG.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Rflmn_STG.jpg";
 		icon = "iconManSMG";
 		role = "Assault";
 		
@@ -144,7 +144,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AmmoBearer.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AmmoBearer.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 		
@@ -177,7 +177,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AmmoBearer_HMG.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AmmoBearer_HMG.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 		
@@ -210,7 +210,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AmmoBearer_Panzerschreck.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AmmoBearer_Panzerschreck.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 		
@@ -243,7 +243,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_ASL.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_ASL.jpg";
 		icon = "iconManLeader";
 		role = "SquadLeader";
 		
@@ -276,7 +276,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Mortar_AGunner.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Mortar_AGunner.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 		
@@ -309,7 +309,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AHMGunner.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AHMGunner.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 		
@@ -342,7 +342,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AT_Grenadier.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AT_Grenadier.jpg";
 		icon = "iconManAT";
 		role = "MissileSpecialist";
 		
@@ -375,7 +375,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_LAT_Klein_Rifleman.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_LAT_Klein_Rifleman.jpg";
 		icon = "iconManAT";
 		role = "MissileSpecialist";
 		
@@ -408,7 +408,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_LAT_30m_Rifleman.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_LAT_30m_Rifleman.jpg";
 		icon = "iconManAT";
 		role = "MissileSpecialist";
 		
@@ -441,7 +441,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_LAT_Rifleman.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_LAT_Rifleman.jpg";
 		icon = "iconManAT";
 		role = "MissileSpecialist";
 		
@@ -474,7 +474,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AT_Soldier.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AT_Soldier.jpg";
 		icon = "iconManAT";
 		role = "MissileSpecialist";
 		
@@ -507,7 +507,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Hauptsturmfuhrer.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Hauptsturmfuhrer.jpg";
 		icon = "iconManCommander";
 		role = "SquadLeader";
 		
@@ -540,7 +540,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Standartenfuhrer.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Standartenfuhrer.jpg";
 		icon = "iconManCommander";
 		role = "SquadLeader";
 		
@@ -573,7 +573,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Driver.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Driver.jpg";
 		icon = "iconManRifleman";
 		role = "Crewman";
 		
@@ -606,7 +606,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Driver_Lite.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Driver_Lite.jpg";
 		icon = "iconManRifleman";
 		role = "Crewman";
 		
@@ -639,7 +639,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Obersturmfuhrer.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Obersturmfuhrer.jpg";
 		icon = "iconManCommander";
 		role = "SquadLeader";
 		
@@ -672,7 +672,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Flamethrower_Operator.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Flamethrower_Operator.jpg";
 		icon = "iconMan";
 		role = "Flamethrower";
 		
@@ -705,7 +705,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Ober_Grenadier.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Ober_Grenadier.jpg";
 		icon = "iconManGrenadier";
 		role = "Grenadier";
 		
@@ -738,7 +738,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Mortar_Gunner.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Mortar_Gunner.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 		
@@ -771,7 +771,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_HMGunner2.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_HMGunner2.jpg";
 		icon = "iconManMG";
 		role = "MachineGunner";
 		
@@ -804,7 +804,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_HMGunner.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_HMGunner.jpg";
 		icon = "iconManMG";
 		role = "MachineGunner";
 		
@@ -837,7 +837,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Halftrack_Driver.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Halftrack_Driver.jpg";
 		icon = "iconManSMG";
 		role = "Crewman";
 		
@@ -870,7 +870,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AMGunner.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AMGunner.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 		
@@ -903,7 +903,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_MGunner.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_MGunner.jpg";
 		icon = "iconManMG";
 		role = "MachineGunner";
 		
@@ -936,7 +936,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_MGunner2.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_MGunner2.jpg";
 		icon = "iconManMG";
 		role = "MachineGunner";
 		
@@ -969,7 +969,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Medic.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Medic.jpg";
 		icon = "iconManMedic";
 		role = "CombatLifeSaver";
 		
@@ -1002,7 +1002,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Radioman.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Radioman.jpg";
 		icon = "iconManRTO";
 		role = "RadioOperator";
 		
@@ -1035,7 +1035,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Sapper.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Sapper.jpg";
 		icon = "iconManExplosive";
 		role = "Sapper";
 		
@@ -1068,7 +1068,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Sapper_Gefr.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Sapper_Gefr.jpg";
 		icon = "iconManExplosive";
 		role = "Sapper";
 		
@@ -1101,7 +1101,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Untersturmfuhrer.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Untersturmfuhrer.jpg";
 		icon = "iconManCommander";
 		role = "SquadLeader";
 		
@@ -1134,7 +1134,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Sentry_K98k.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Sentry_K98k.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 		
@@ -1167,7 +1167,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Sentry_MP35.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Sentry_MP35.jpg";
 		icon = "iconManSMG";
 		role = "Rifleman";
 		
@@ -1200,7 +1200,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Sentry_MP40.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Sentry_MP40.jpg";
 		icon = "iconManSMG";
 		role = "Rifleman";
 		
@@ -1233,7 +1233,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Sniper.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Sniper.jpg";
 		icon = "iconManRecon";
 		role = "Marksman";
 		
@@ -1266,7 +1266,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_SL.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_SL.jpg";
 		icon = "iconManOfficer";
 		role = "SquadLeader";
 		
@@ -1299,7 +1299,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AT_Soldier_SL.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_AT_Soldier_SL.jpg";
 		icon = "iconManOfficer";
 		role = "SquadLeader";
 		
@@ -1337,7 +1337,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "SPE_EdSubcat_GER_TankCrew";
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_SPG_Crew.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_SPG_Crew.jpg";
 		icon = "iconManTankcrew";
 		role = "Crewman";
 		
@@ -1370,7 +1370,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "SPE_EdSubcat_GER_TankCrew";
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_SPG_Unterofficer.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_SPG_Unterofficer.jpg";
 		icon = "iconManTankcrew";
 		role = "Crewman";
 		
@@ -1403,7 +1403,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "SPE_EdSubcat_GER_TankCrew";
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_SPG_Lieutenant.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_SPG_Lieutenant.jpg";
 		icon = "iconManTankcrew";
 		role = "Crewman";
 		
@@ -1436,7 +1436,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "SPE_EdSubcat_GER_TankCrew";
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Tank_Crew.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Tank_Crew.jpg";
 		icon = "iconManTankcrew";
 		role = "Crewman";
 		
@@ -1469,7 +1469,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "SPE_EdSubcat_GER_TankCrew";
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Tank_Unterofficer.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Tank_Unterofficer.jpg";
 		icon = "iconManTankcrew";
 		role = "Crewman";
 		
@@ -1502,7 +1502,7 @@
 		side = 1;
 		faction = "SEP_B_GER_Sturm_Winter_Units";
 		editorSubcategory = "SPE_EdSubcat_GER_TankCrew";
-		editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Tank_Lieutenant.jpg";
+		editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_WIN_Tank_Lieutenant.jpg";
 		icon = "iconManTankcrew";
 		role = "Crewman";
 		

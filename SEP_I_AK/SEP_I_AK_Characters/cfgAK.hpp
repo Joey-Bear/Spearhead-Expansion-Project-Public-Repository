@@ -7,10 +7,10 @@ class SEP_I_AK_H_Stahlhelm_Flg : H_SPE_GER_Helmet
 	weaponPoolAvailable = 1;
 	displayName = "PR Stahlhelm 1942 (Flag)";
 	descriptionShort = "Armor Level I";
-	picture = "\SEP_I_AK\SEP_I_AK_Characters\data\ui\icons\SEP_I_AK_H_Stahlhelm_Flg_ca.paa";
+	picture = "\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\icons\SEP_I_AK_H_Stahlhelm_Flg_ca.paa";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_AK\SEP_I_AK_Characters\data\SEP_I_AK_H_Stahlhelm_Flg_co.paa"
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\SEP_I_AK_H_Stahlhelm_Flg_co.paa"
 	};
 };
 
@@ -748,7 +748,7 @@ class SEP_I_AK_U_FieldUniform_Sumpf : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-	picture = "\SEP_I_AK\SEP_I_AK_Characters\data\ui\icons\SEP_I_AK_U_FieldUniform_Sumpf_ca.paa";
+	picture = "\SEP\SEP_I_AK\SEP_I_AK_Characters\data\ui\icons\SEP_I_AK_U_FieldUniform_Sumpf_ca.paa";
 	class ItemInfo: UniformItem
 	{
 		uniformModel= "-";

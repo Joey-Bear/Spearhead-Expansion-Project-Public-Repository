@@ -79,15 +79,15 @@ class CfgWeapons
         _generalMacro="SEP_WP_MP507";
         baseWeapon="SEP_WP_MP507";
 		displayName="MP 507";
-		model="SEP_WP\SEP_WP_MP507\SEP_WP_MP507.p3d";
-		picture = "\SEP_WP\SEP_WP_MP507\data\icons\SEP_WP_MP507_ca.paa";
+		model="\SEP\SEP_WP\SEP_WP_MP507\SEP_WP_MP507.p3d";
+		picture = "\SEP\SEP_WP\SEP_WP_MP507\data\icons\SEP_WP_MP507_ca.paa";
 		scope = 2;
 		scopeCurator = 2;
 		scopeArsenal = 2;
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_WP\SEP_WP_MP507\data\vg15_co.paa",
-			"\SEP_WP\SEP_WP_MP507\data\inside_co.paa"
+			"\SEP\SEP_WP\SEP_WP_MP507\data\vg15_co.paa",
+			"\SEP\SEP_WP\SEP_WP_MP507\data\inside_co.paa"
 		};
 		reloadAction="SPE_GestureReload_stg44";//"SPE_GestureReload_stg44";
 		handAnim[]=

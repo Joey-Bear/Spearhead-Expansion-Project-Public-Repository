@@ -9,7 +9,7 @@ class SEP_I_IHTC_H_SafariHat : H_Hat_Safari_sand_F
 	picture = "\A3\Characters_F_Orange\Headgear\Data\UI\icon_H_Hat_Safari_sand_CA.paa";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_IHTC\SEP_I_IHTC_Characters\data\SEP_I_IHTC_H_SafariHat_co.paa"
+		"\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\SEP_I_IHTC_H_SafariHat_co.paa"
 	};
 };
 
@@ -17,16 +17,16 @@ class SEP_I_IHTC_H_CoconutHelmet : H_HelmetB
 {
 	author = "OokamiJamie";
 	displayName = "HI Coconut Pith";
-	picture = "\SEP_I_IHTC\SEP_I_IHTC_Characters\data\icons\SEP_I_IHTC_H_CoconutHelmet_ca.paa";
+	picture = "\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\icons\SEP_I_IHTC_H_CoconutHelmet_ca.paa";
 	scope = 2;
-	model = "\SEP_I_IHTC\SEP_I_IHTC_Characters\SEP_IHTC_H_CoconutHelmet.p3d";
+	model = "\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\SEP_IHTC_H_CoconutHelmet.p3d";
 	hiddenSelections[] = 
 	{
 		"camo"
 	};
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_IHTC\SEP_I_IHTC_Characters\data\SEP_I_IHTC_H_CoconutHelmet_CO.paa"
+		"\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\SEP_I_IHTC_H_CoconutHelmet_CO.paa"
 	};
 	class ItemInfo: ItemInfo
 	{
@@ -37,9 +37,9 @@ class SEP_I_IHTC_H_CoconutHelmet : H_HelmetB
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_I_IHTC\SEP_I_IHTC_Characters\data\SEP_I_IHTC_H_CoconutHelmet_CO.paa"
+			"\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\SEP_I_IHTC_H_CoconutHelmet_CO.paa"
 		};
-		uniformModel = "\SEP_I_IHTC\SEP_I_IHTC_Characters\SEP_IHTC_H_CoconutHelmet.p3d";
+		uniformModel = "\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\SEP_IHTC_H_CoconutHelmet.p3d";
 		class HitpointsProtectionInfo
 		{
 			class Head
@@ -62,7 +62,7 @@ class SEP_I_IHTC_U_HBT_Khk : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Americans_t\suitpacks\suitpack_us_wool_hbt_co.paa"};
-	picture = "\SEP_I_IHTC\SEP_I_IHTC_Characters\data\icons\SEP_I_IHTC_U_HBT_Khk_ca.paa";
+	picture = "\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\icons\SEP_I_IHTC_U_HBT_Khk_ca.paa";
 	class ItemInfo: UniformItem
 	{
 		uniformModel= "-";
@@ -81,7 +81,7 @@ class SEP_I_IHTC_U_HBT_Rolled_Khk : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Americans_t\suitpacks\suitpack_us_wool_hbt_co.paa"};
-	picture = "\SEP_I_IHTC\SEP_I_IHTC_Characters\data\icons\SEP_I_IHTC_U_HBT_Rolled_Khk_ca.paa";
+	picture = "\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\icons\SEP_I_IHTC_U_HBT_Rolled_Khk_ca.paa";
 	class ItemInfo: UniformItem
 	{
 		uniformModel= "-";
@@ -100,7 +100,7 @@ class SEP_I_IHTC_U_HBT_Medic_Khk : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Americans_t\suitpacks\suitpack_us_wool_hbt_co.paa"};
-	picture = "\SEP_I_IHTC\SEP_I_IHTC_Characters\data\icons\SEP_I_IHTC_U_HBT_Medic_Khk_ca.paa";
+	picture = "\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\icons\SEP_I_IHTC_U_HBT_Medic_Khk_ca.paa";
 	class ItemInfo: UniformItem
 	{
 		uniformModel= "-";
@@ -119,7 +119,7 @@ class SEP_I_IHTC_U_HBT_Medic_Rolled_Khk : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Americans_t\suitpacks\suitpack_us_wool_hbt_co.paa"};
-	picture = "\SEP_I_IHTC\SEP_I_IHTC_Characters\data\icons\SEP_I_IHTC_U_HBT_Medic_Rolled_Khk_ca.paa";
+	picture = "\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\icons\SEP_I_IHTC_U_HBT_Medic_Rolled_Khk_ca.paa";
 	class ItemInfo: UniformItem
 	{
 		uniformModel= "-";

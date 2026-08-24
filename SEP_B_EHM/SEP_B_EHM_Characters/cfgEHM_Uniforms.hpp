@@ -16,9 +16,9 @@ class SEP_B_EHM_U_FieldUniform_CFV : SPE_LW_base
 	};
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Feldbluse_co.paa",
-		"\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Feldbluse_Pnts_co.paa",
-		"\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_Decals_ca.paa",
+		"SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Feldbluse_co.paa",
+		"SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Feldbluse_Pnts_co.paa",
+		"SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_Decals_ca.paa",
 		""
 	};
 };
@@ -41,9 +41,9 @@ class SEP_B_EHM_U_FieldUniform_Open_CFV : SPE_LW_op
 	};
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Feldbluse_co.paa",
-		"\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Feldbluse_Pnts_co.paa",
-		"\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_Decals_ca.paa",
+		"SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Feldbluse_co.paa",
+		"SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Feldbluse_Pnts_co.paa",
+		"SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_Decals_ca.paa",
 		""
 	};
 };
@@ -66,9 +66,9 @@ class SEP_B_EHM_U_FieldUniform_Rolled_CFV : SPE_LW_roll
 	};
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Feldbluse_co.paa",
-		"\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Feldbluse_Pnts_co.paa",
-		"\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_Decals_ca.paa",
+		"SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Feldbluse_co.paa",
+		"SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Feldbluse_Pnts_co.paa",
+		"SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_Decals_ca.paa",
 		""
 	};
 };
@@ -85,7 +85,7 @@ class SEP_B_EHM_U_Mantel_CFV : SEP_B_GER_U_Mantel_M36_CFV
 	uniformClass="SEP_B_EHM_U_Mantel";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Mantel_CO.paa",
+		"SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_U_Mantel_CO.paa",
 		"",
 		""
 	};

@@ -544,6 +544,9 @@ class CfgPatches
 			"SEP_B_GER_ST_H_FieldCap_Telo",
 			"SEP_B_GER_H_FSJ_M38_Helmet_Cover_Telo",
 			"SEP_B_GER_H_FSJ_M38_Helmet_Burlap_Telo",
+			"SEP_B_GER_H_Volk_M38_Helmet",
+			//Vests//
+			"SEP_B_GER_V_SMG_Light",
 			//Uniforms//
 			//Volkssturm
 			"SEP_B_GER_U_FieldUniform_Volk",
@@ -786,7 +789,19 @@ class CfgPatches
 			"_xx_SEP_B_GER_B_Early_Beltbag_Grenadier",
 			"_xx_SEP_B_GER_B_Early_Beltbag_AT"
 		};
-		requiredAddons[]={};
+		requiredAddons[]=
+		{
+			"A3_Characters_F",
+			"A3_Characters_F_Heads",
+			"A3_Characters_F_Mark",
+			"A3_Characters_F_Tacops",
+			"A3_Characters_F_Orange_Facewear",
+			"A3_Characters_F_Enoch_Facewear",
+			"A3_Characters_F_Tank_Uniforms",
+			"A3_Weapons_F",
+			"A3_Weapons_F_Items",
+			"WW2_SPE_Core_c_Core_c"
+		};
 	};
 };
 
@@ -801,15 +816,15 @@ class CfgGlasses
 		scope = 2;
 		scopeArsenal = 2;
 		displayName = "GER Feldgendarmerie Gorget";
-		model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
-		picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_F_Feld_Gorget_ca.paa";
+		model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_F_Gorget.p3d";
+		picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_F_Feld_Gorget_ca.paa";
 		hiddenSelections[] = 
 		{
 			"camo"
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_F_Feld_Gorget_co.paa"
+			"SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_F_Feld_Gorget_co.paa"
 		};
 		identityTypes[] = {NoGlasses,0};
 	};	
@@ -824,6 +839,7 @@ class cfgWeapons
 	class ItemCore;
 	class VestItem;
 	class Vest_Camo_Base;
+	class V_SPE_Vest_Camo_Base;
 	class UniformItem;
 	class Uniform_Base;
 	class HeadgearItem;
@@ -900,8 +916,7 @@ class cfgWeapons
 	class H_SPE_GER_TankPrivateCap;
 	
 	class H_SPE_GER_FSJ_M38_Helmet;
-	class H_SPE_GER_FSJ_M38_Helmet_kentang;
-	
+	class H_SPE_GER_FSJ_M38_Helmet_kentang;	
 	class H_SPE_GER_FSJ_M38_Helmet_Cover;
 	
 	class H_SPE_GER_Helmet_M40_burlap_band;

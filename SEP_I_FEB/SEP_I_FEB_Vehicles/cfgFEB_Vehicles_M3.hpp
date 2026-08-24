@@ -8,7 +8,7 @@ class SEP_I_FEB_M3_Halftrack : SPE_Halftrack_base
 	scopeCurator = 2;
 	displayName = "M3 Half-Track (Unarmed)";
 	side = 2;
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3_Halftrack.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3_Halftrack.jpg";
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Rflmn_Carb";
 	hiddenSelectionsTextures[] = 
@@ -19,7 +19,7 @@ class SEP_I_FEB_M3_Halftrack : SPE_Halftrack_base
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -38,7 +38,7 @@ class SEP_I_FEB_M3_Halftrack : SPE_Halftrack_base
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -53,7 +53,7 @@ class SEP_I_FEB_M3_Halftrack_Open : SPE_US_M3_Halftrack_Unarmed_Open
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M3 Half-Track (Unarmed, Open)";
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3_Halftrack_Open.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3_Halftrack_Open.jpg";
 	side = 2;
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Rflmn_Carb";
@@ -72,7 +72,7 @@ class SEP_I_FEB_M3_Halftrack_Open : SPE_US_M3_Halftrack_Unarmed_Open
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
 		"\a3\data_f\clear_empty.paa"
 	};	
 	class TextureSources
@@ -91,7 +91,7 @@ class SEP_I_FEB_M3_Halftrack_Open : SPE_US_M3_Halftrack_Unarmed_Open
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -106,7 +106,7 @@ class SEP_I_FEB_M3A1_Halftrack : SPE_M3A1_Halftrack_base
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M3A1 Half-Track";
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3A1_Halftrack.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3A1_Halftrack.jpg";
 	side = 2;
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Rflmn_Carb";
@@ -119,7 +119,7 @@ class SEP_I_FEB_M3A1_Halftrack : SPE_M3A1_Halftrack_base
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_M2Mount_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
 		"\a3\data_f\clear_empty.paa"
 	};	
 	class Turrets : Turrets 
@@ -148,7 +148,7 @@ class SEP_I_FEB_M3A1_Halftrack : SPE_M3A1_Halftrack_base
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_M2Mount_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -163,7 +163,7 @@ class SEP_I_FEB_M3_Halftrack_Ambulance : SPE_US_M3_Halftrack_Ambulance
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M3 Half-Track (Ambulance)";
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3_Halftrack_Ambulance.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3_Halftrack_Ambulance.jpg";
 	side = 2;
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Medic";
@@ -209,7 +209,7 @@ class SEP_I_FEB_M3_Halftrack_Ammo : SPE_US_M3_Halftrack_Ammo
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M3 Half-Track (Ammo)";
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3_Halftrack_Ammo.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3_Halftrack_Ammo.jpg";
 	side = 2;
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Rflmn_Carb";
@@ -221,7 +221,7 @@ class SEP_I_FEB_M3_Halftrack_Ammo : SPE_US_M3_Halftrack_Ammo
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -240,7 +240,7 @@ class SEP_I_FEB_M3_Halftrack_Ammo : SPE_US_M3_Halftrack_Ammo
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -255,7 +255,7 @@ class SEP_I_FEB_M3_Halftrack_Fuel : SPE_US_M3_Halftrack_Fuel
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M3 Half-Track (Fuel)";
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3_Halftrack_Fuel.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3_Halftrack_Fuel.jpg";
 	side = 2;
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Rflmn_Carb";
@@ -267,7 +267,7 @@ class SEP_I_FEB_M3_Halftrack_Fuel : SPE_US_M3_Halftrack_Fuel
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -286,7 +286,7 @@ class SEP_I_FEB_M3_Halftrack_Fuel : SPE_US_M3_Halftrack_Fuel
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -301,7 +301,7 @@ class SEP_I_FEB_M3_Halftrack_Repair : SPE_US_M3_Halftrack_Repair
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M3 Half-Track (Repair)";
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3_Halftrack_Repair.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_M3_Halftrack_Repair.jpg";
 	side = 2;
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Engi";
@@ -313,7 +313,7 @@ class SEP_I_FEB_M3_Halftrack_Repair : SPE_US_M3_Halftrack_Repair
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -332,7 +332,7 @@ class SEP_I_FEB_M3_Halftrack_Repair : SPE_US_M3_Halftrack_Repair
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Wheels_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Winch_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\WheeledAPC_t\M3A1\M3A1_Tracks_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_M3_Halftrack_Decals_ca.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
 		};

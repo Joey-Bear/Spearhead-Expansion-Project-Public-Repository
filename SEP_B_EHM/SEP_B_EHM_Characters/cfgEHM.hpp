@@ -7,10 +7,10 @@
 		weaponPoolAvailable = 1;
 		displayName = "EHM Stahlhelm 1916";
 		descriptionShort = "Armor Level I";
-		picture = "\SEP_B_EHM\SEP_B_EHM_Characters\data\icons\SEP_B_EHM_H_Stahlhelm_M16_ca.paa";
+		picture = "\SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\icons\SEP_B_EHM_H_Stahlhelm_M16_ca.paa";
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_H_Stahlhelm_M16_co.paa"
+			"SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\SEP_B_EHM_H_Stahlhelm_M16_co.paa"
 		};
 	};
 		
@@ -25,7 +25,7 @@
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-		picture = "\SEP_B_EHM\SEP_B_EHM_Characters\data\icons\SEP_B_EHM_U_FieldUniform_ca.paa";
+		picture = "\SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\icons\SEP_B_EHM_U_FieldUniform_ca.paa";
 		class ItemInfo: UniformItem
 		{
 			uniformModel= "-";
@@ -44,7 +44,7 @@
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-		picture = "\SEP_B_EHM\SEP_B_EHM_Characters\data\icons\SEP_B_EHM_U_FieldUniform_ca.paa";
+		picture = "\SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\icons\SEP_B_EHM_U_FieldUniform_ca.paa";
 		class ItemInfo: UniformItem
 		{
 			uniformModel= "-";
@@ -63,7 +63,7 @@
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-		picture = "\SEP_B_EHM\SEP_B_EHM_Characters\data\icons\SEP_B_EHM_U_FieldUniform_Rolled_ca.paa";
+		picture = "\SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\icons\SEP_B_EHM_U_FieldUniform_Rolled_ca.paa";
 		class ItemInfo: UniformItem
 		{
 			uniformModel= "-";
@@ -82,7 +82,7 @@
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-		picture = "\SEP_B_EHM\SEP_B_EHM_Characters\data\icons\SEP_B_EHM_U_Mantel_ca.paa";
+		picture = "\SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\icons\SEP_B_EHM_U_Mantel_ca.paa";
 		class ItemInfo: UniformItem
 		{
 			uniformModel= "-";

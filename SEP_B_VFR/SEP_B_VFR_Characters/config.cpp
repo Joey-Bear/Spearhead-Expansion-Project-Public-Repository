@@ -16,7 +16,19 @@ class CfgPatches
 			//Vests//
 			//Backpacks//
 		};
-		requiredAddons[]={};
+		requiredAddons[]=
+		{
+			"A3_Characters_F",
+			"A3_Characters_F_Heads",
+			"A3_Characters_F_Mark",
+			"A3_Characters_F_Tacops",
+			"A3_Characters_F_Orange_Facewear",
+			"A3_Characters_F_Enoch_Facewear",
+			"A3_Characters_F_Tank_Uniforms",
+			"A3_Weapons_F",
+			"A3_Weapons_F_Items",
+			"WW2_SPE_Core_c_Core_c"
+		};
 	};
 };
 
@@ -105,7 +117,7 @@ class CfgVehicles
         side = 1;
         faction = "SPE_MILICE";
 		editorSubcategory = "EdSubcat_Personnel";
-		editorPreview="\SEP_B_VFR\SEP_B_VFR_Characters\data\editorPreviews\SEP_B_VFR_Sentry_MAS38.jpg";
+		editorPreview="\SEP\SEP_B_VFR\SEP_B_VFR_Characters\data\editorPreviews\SEP_B_VFR_Sentry_MAS38.jpg";
 		icon = "iconManSMG";
 		role = "Rifleman";
 		
@@ -142,7 +154,7 @@ class CfgVehicles
         side = 1;
         faction = "SPE_MILICE";
 		editorSubcategory = "SPE_EdSubcat_Milice_FG_NonPermanent";
-		editorPreview="\SEP_B_VFR\SEP_B_VFR_Characters\data\editorPreviews\SEP_B_VFR_NP_Sentry_MAS38.jpg";
+		editorPreview="\SEP\SEP_B_VFR\SEP_B_VFR_Characters\data\editorPreviews\SEP_B_VFR_NP_Sentry_MAS38.jpg";
 		icon = "iconManSMG";
 		role = "Rifleman";
 		

@@ -7,7 +7,7 @@ class SEP_B_EHM_Militia_G98 : SEP_B_EHM_Soldier_Base
 	side = 1;
 	faction = "SEP_B_EHM_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_Militia_G98.jpg";
+	editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_Militia_G98.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";		
 	
@@ -40,7 +40,7 @@ class SEP_B_EHM_Militia_Lite : SEP_B_EHM_Soldier_Base
 	side = 1;
 	faction = "SEP_B_EHM_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_Militia_Lite.jpg";
+	editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_Militia_Lite.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -73,7 +73,7 @@ class SEP_B_EHM_Militia_Unr : SEP_B_EHM_Soldier_Base
 	side = 1;
 	faction = "SEP_B_EHM_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_Militia_Unr.jpg";
+	editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_Militia_Unr.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -106,7 +106,7 @@ class SEP_B_EHM_MG_MG34 : SEP_B_EHM_Soldier_Base
 	side = 1;
 	faction = "SEP_B_EHM_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_MG_MG34.jpg";
+	editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_MG_MG34.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -139,7 +139,7 @@ class SEP_B_EHM_AMG : SEP_B_EHM_Soldier_Base
 	side = 1;
 	faction = "SEP_B_EHM_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_AMG.jpg";
+	editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_AMG.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -172,7 +172,7 @@ class SEP_B_EHM_HMGunner : SEP_B_EHM_Soldier_Base
 	side = 1;
 	faction = "SEP_B_EHM_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_HMGunner.jpg";
+	editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_HMGunner.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -205,7 +205,7 @@ class SEP_B_EHM_AHMGunner : SEP_B_EHM_Soldier_Base
 	side = 1;
 	faction = "SEP_B_EHM_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_AHMGunner.jpg";
+	editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_AHMGunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -238,7 +238,7 @@ class SEP_B_EHM_HMG_AmmoBearer : SEP_B_EHM_Soldier_Base
 	side = 1;
 	faction = "SEP_B_EHM_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_HMG_AmmoBearer.jpg";
+	editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_HMG_AmmoBearer.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -271,7 +271,7 @@ class SEP_B_EHM_SL : SEP_B_EHM_Soldier_Base
 	side = 1;
 	faction = "SEP_B_EHM_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_SL.jpg";
+	editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_SL.jpg";
 	icon = "iconManOfficer";
 	role = "SquadLeader";		
 
@@ -304,7 +304,7 @@ class SEP_B_EHM_ASL : SEP_B_EHM_Soldier_Base
 	side = 1;
 	faction = "SEP_B_EHM_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_ASL.jpg";
+	editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_ASL.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";	
 
@@ -337,7 +337,7 @@ class SEP_B_EHM_Medic : SEP_B_EHM_Soldier_Base
 	side = 1;
 	faction = "SEP_B_EHM_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_Medic.jpg";
+	editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_Medic.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 
@@ -370,7 +370,7 @@ class SEP_B_EHM_RTO : SEP_B_EHM_Soldier_Base
 	side = 1;
 	faction = "SEP_B_EHM_Units";
 	editorSubcategory = "EdSubcat_Personnel";
-	editorPreview="\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_RTO.jpg";
+	editorPreview="SEP\SEP_B_EHM\SEP_B_EHM_Characters\data\editorPreviews\SEP_B_EHM_RTO.jpg";
 	icon = "iconManRTO";
 	role = "RadioOperator";	
 	

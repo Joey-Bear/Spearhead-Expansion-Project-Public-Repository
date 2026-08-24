@@ -7,7 +7,7 @@ class SEP_B_GER_BD_Rflmn_K98 : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Rflmn_K98.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Rflmn_K98.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
     
@@ -40,7 +40,7 @@ class SEP_B_GER_BD_Rflmn_Lite : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Rflmn_Lite.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Rflmn_Lite.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
     
@@ -73,7 +73,7 @@ class SEP_B_GER_BD_Rflmn_Unr : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Rflmn_Unr.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Rflmn_Unr.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -107,7 +107,7 @@ class SEP_B_GER_BD_Rflmn_Flame : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Rflmn_Flame.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Flamethrower_Operator.jpg";
     
     identityTypes[] = {"LanguageGRE_F","Head_Hispanic","SPE_GER_Glasses"};
     genericNames = "HispanicMen";
@@ -138,7 +138,7 @@ class SEP_B_GER_BD_Driver : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Driver.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Driver.jpg";
 	icon = "iconManRifleman";
 	role = "Crewman";   
 	
@@ -171,7 +171,7 @@ class SEP_B_GER_BD_Driver_Lite : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Driver_Lite.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Driver_Lite.jpg";
 	icon = "iconManRifleman";
 	role = "Crewman";   
     
@@ -205,7 +205,7 @@ class SEP_B_GER_BD_Gren : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Gren.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Ober_Grenadier.jpg";
 
     identityTypes[] = {"LanguageGRE_F","Head_Hispanic","SPE_GER_Glasses"};
     genericNames = "HispanicMen";
@@ -236,7 +236,7 @@ class SEP_B_GER_BD_Ober_Grenadier : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Ober_Grenadier.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Ober_Grenadier.jpg";
 	icon = "iconManGrenadier";
 	role = "Grenadier";
 
@@ -270,7 +270,7 @@ class SEP_B_GER_BD_MG_MG34 : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_MG_MG34.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_MGunner2.jpg";
 
     identityTypes[] = {"LanguageGRE_F","Head_Hispanic","SPE_GER_Glasses"};
     genericNames = "HispanicMen";
@@ -302,7 +302,7 @@ class SEP_B_GER_BD_AMG : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AMG.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AMGunner.jpg";
 
     identityTypes[] = {"LanguageGRE_F","Head_Hispanic","SPE_GER_Glasses"};
     genericNames = "HispanicMen";
@@ -334,7 +334,7 @@ class SEP_B_GER_BD_MG_MG42 : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_MG_MG42.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_MGunner.jpg";
 
     identityTypes[] = {"LanguageGRE_F","Head_Hispanic","SPE_GER_Glasses"};
     genericNames = "HispanicMen";
@@ -365,7 +365,7 @@ class SEP_B_GER_BD_MGunner2 : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_MGunner2.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_MGunner2.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -399,7 +399,7 @@ class SEP_B_GER_BD_MGunner : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_MGunner.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_MGunner.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -432,7 +432,7 @@ class SEP_B_GER_BD_AMGunner : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AMGunner.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AMGunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -465,7 +465,7 @@ class SEP_B_GER_BD_SL : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_SL.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_SL.jpg";
 	icon = "iconManOfficer";
 	role = "SquadLeader";
 
@@ -498,7 +498,7 @@ class SEP_B_GER_BD_ASL : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_ASL.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_ASL.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -532,7 +532,7 @@ class SEP_B_GER_BD_Sniper : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Sniper.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Rflmn_K98.jpg";
 
     identityTypes[] = {"LanguageGRE_F","Head_Hispanic","SPE_GER_Glasses"};
     genericNames = "HispanicMen";
@@ -563,7 +563,7 @@ class SEP_B_GER_BD_AT_Grenadier : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AT_Grenadier.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AT_Grenadier.jpg";
 	icon = "iconManAT";
 	role = "MissileSpecialist";
     
@@ -597,7 +597,7 @@ class SEP_B_GER_BD_AT_Faust : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AT_Faust.jpg";   
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Rflmn_K98.jpg";
 
     identityTypes[] = {"LanguageGRE_F","Head_Hispanic","SPE_GER_Glasses"};
     genericNames = "HispanicMen";
@@ -629,7 +629,7 @@ class SEP_B_GER_BD_AT_PZ30 : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AT_PZ30.jpg";   
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Rflmn_K98.jpg";
 
     identityTypes[] = {"LanguageGRE_F","Head_Hispanic","SPE_GER_Glasses"};
     genericNames = "HispanicMen";
@@ -661,7 +661,7 @@ class SEP_B_GER_BD_AT_PZ60 : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AT_PZ60.jpg";   
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Rflmn_K98.jpg";
 
     identityTypes[] = {"LanguageGRE_F","Head_Hispanic","SPE_GER_Glasses"};
     genericNames = "HispanicMen";
@@ -693,7 +693,7 @@ class SEP_B_GER_BD_AT_PZShreck : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AT_PZ60.jpg";   
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Rflmn_K98.jpg";
 
     identityTypes[] = {"LanguageGRE_F","Head_Hispanic","SPE_GER_Glasses"};
     genericNames = "HispanicMen";
@@ -724,7 +724,7 @@ class SEP_B_GER_BD_Medic : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Medic.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Medic.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 
@@ -757,7 +757,7 @@ class SEP_B_GER_BD_Sapper_Gefr : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Sapper_Gefr.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Sapper_Gefr.jpg";
 	icon = "iconManExplosive";
 	role = "Sapper";
 
@@ -790,7 +790,7 @@ class SEP_B_GER_BD_Sapper : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Sapper.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Sapper.jpg";
 	icon = "iconManExplosive";
 	role = "Sapper";
 
@@ -824,7 +824,7 @@ class SEP_B_GER_BD_Ofcr : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Ofcr.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Hauptmann.jpg";
 
     identityTypes[] = {"LanguageGRE_F","Head_Hispanic","SPE_GER_Glasses"};
     genericNames = "HispanicMen";
@@ -854,7 +854,7 @@ class SEP_B_GER_BD_Hauptmann : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Hauptmann.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Hauptmann.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -887,7 +887,7 @@ class SEP_B_GER_BD_Oberst : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Oberst.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Oberst.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -920,7 +920,7 @@ class SEP_B_GER_BD_Radioman : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Radioman.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Radioman.jpg";
 	icon = "iconManRTO";
 	role = "RadioOperator";
     
@@ -953,7 +953,7 @@ class SEP_B_GER_BD_Mortar_Gunner : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Mortar_Gunner.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Mortar_Gunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
     
@@ -986,7 +986,7 @@ class SEP_B_GER_BD_Mortar_AGunner : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Mortar_AGunner.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Mortar_AGunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
     
@@ -1019,7 +1019,7 @@ class SEP_B_GER_BD_Mortar_AmmoBearer : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Mortar_AmmoBearer.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Mortar_AmmoBearer.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
     
@@ -1052,7 +1052,7 @@ class SEP_B_GER_BD_HMG_AmmoBearer : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_HMG_AmmoBearer.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_HMG_AmmoBearer.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
     
@@ -1085,7 +1085,7 @@ class SEP_B_GER_BD_AT_Soldier_Assistant : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AT_Soldier_Assistant.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AT_Soldier_Assistant.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
     
@@ -1118,7 +1118,7 @@ class SEP_B_GER_BD_AHMGunner : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AHMGunner.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_AHMGunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
     
@@ -1151,7 +1151,7 @@ class SEP_B_GER_BD_Ober_Lieutenant : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Ober_Lieutenant.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Ober_Lieutenant.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -1184,7 +1184,7 @@ class SEP_B_GER_BD_Flamethrower_Operator : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Flamethrower_Operator.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Flamethrower_Operator.jpg";
 	icon = "iconMan";
 	role = "Flamethrower";
     
@@ -1217,7 +1217,7 @@ class SEP_B_GER_BD_HMGunner2 : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SPE_WEHRMACHT";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Blue_Division";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_HMGunner2.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_HMGunner2.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 	
@@ -1250,7 +1250,7 @@ class SEP_B_GER_BD_HMGunner : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SPE_WEHRMACHT";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Blue_Division";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_HMGunner.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_HMGunner.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 	
@@ -1283,7 +1283,7 @@ class SEP_B_GER_BD_Lieutenant : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SPE_WEHRMACHT";
     editorSubcategory="SEP_B_GER_Units_Infantry_Blue_Division";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Lieutenant.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Lieutenant.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -1316,7 +1316,7 @@ class SEP_B_GER_BD_Sentry_K98k : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SPE_WEHRMACHT";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Blue_Division";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Sentry_K98k.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Sentry_K98k.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -1349,7 +1349,7 @@ class SEP_B_GER_BD_Sentry_MP40 : SEP_B_GER_Soldier_Base
 	side = 1;
 	faction = "SPE_WEHRMACHT";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Blue_Division";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Sentry_MP40.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_BD_Sentry_MP40.jpg";
 	icon = "iconManSMG";
 	role = "Rifleman";
 	

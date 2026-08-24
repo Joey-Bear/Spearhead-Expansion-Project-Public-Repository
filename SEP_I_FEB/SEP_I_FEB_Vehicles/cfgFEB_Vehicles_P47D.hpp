@@ -6,7 +6,7 @@ class SEP_I_FEB_P47D: SPE_P47
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "P-47D Thunderbolt";
-	editorPreview = "SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_P47D.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_P47D.jpg";
 	side = 2;
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Pilot";
@@ -21,8 +21,8 @@ class SEP_I_FEB_P47D: SPE_P47
 	};
 	hiddenSelectionsTextures[] = 
 	{
-		"SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_P47D_01_co.paa",
-		"SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_P47D_02_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_P47D_01_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_P47D_02_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Planes_t\P47\P47_Cockpit_1_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Planes_t\P47\P47_Cockpit_2_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Planes_t\P47\P47_Misc_co.paa",
@@ -48,8 +48,8 @@ class SEP_I_FEB_P47D: SPE_P47
 			};
 			textures[]=
 			{
-				"SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_P47D_01_co.paa",
-				"SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_P47D_02_co.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_P47D_01_co.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_P47D_02_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Planes_t\P47\P47_Cockpit_1_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Planes_t\P47\P47_Cockpit_2_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Planes_t\P47\P47_Misc_co.paa",

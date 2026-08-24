@@ -12,7 +12,7 @@ PixelShaderID="Super";
 VertexShaderID="Super";
 class Stage1
 {
-	texture="SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_NOHQ.paa";
+	texture="SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_NOHQ.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -48,7 +48,7 @@ class Stage3
 };
 class Stage4
 {
-	texture="SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_AS.paa";
+	texture="SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_AS.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -60,7 +60,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_SMDI.paa";
+	texture="SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_SMDI.paa";
 	uvSource="tex";
 	class uvTransform
 	{

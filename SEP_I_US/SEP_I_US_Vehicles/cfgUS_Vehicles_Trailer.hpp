@@ -57,4 +57,3 @@ class SEP_I_US_WIN_Trailer_Repair : SPEX_T3_Trailer_Repair
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Rflmn";
 };
-};

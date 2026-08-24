@@ -12,7 +12,7 @@ class SEP_I_IHTC_Rflmn_M1903 : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Rflmn_M1903.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Rflmn_M1903.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -45,7 +45,7 @@ class SEP_I_IHTC_Rflmn_Carb : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Rflmn_Carb.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Rflmn_Carb.jpg";
 	icon = "iconManSemiauto";
 	role = "Rifleman";
 	
@@ -78,7 +78,7 @@ class SEP_I_IHTC_Rflmn_Lite : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Rflmn_Lite.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Rflmn_Lite.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -111,7 +111,7 @@ class SEP_I_IHTC_Rflmn_Unr : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Rflmn_Unr.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Rflmn_Unr.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -144,7 +144,7 @@ class SEP_I_IHTC_Gren : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Gren.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Gren.jpg";
 	icon = "iconManGrenadier";
 	role = "Grenadier";
 	
@@ -177,7 +177,7 @@ class SEP_I_IHTC_AR : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_AR.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_AR.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -210,7 +210,7 @@ class SEP_I_IHTC_AAR : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_AAR.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_AAR.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";		
 
@@ -243,7 +243,7 @@ class SEP_I_IHTC_SL : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_SL.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_SL.jpg";
 	icon = "iconManOfficer";
 	role = "SquadLeader";
 
@@ -276,7 +276,7 @@ class SEP_I_IHTC_ASL : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_ASL.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_ASL.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -309,7 +309,7 @@ class SEP_I_IHTC_Sniper : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Sniper.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Sniper.jpg";
 	icon = "iconManRecon";
 	role = "Marksman";		
 
@@ -342,7 +342,7 @@ class SEP_I_IHTC_AT : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_AT.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_AT.jpg";
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -375,7 +375,7 @@ class SEP_I_IHTC_Medic : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Medic.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Medic.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 
@@ -408,7 +408,7 @@ class SEP_I_IHTC_Engi : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Engi.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Engi.jpg";
 	icon = "iconManEngineer";
 	role = "Sapper";
 
@@ -442,7 +442,7 @@ class SEP_I_IHTC_Engi_Expl : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Engi_Expl.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Engi_Expl.jpg";
 	icon = "iconManEngineer";
 
 	identityTypes[] = {"SPE_LanguageFRE","Head_African","NoGlasses"};
@@ -474,7 +474,7 @@ class SEP_I_IHTC_Cpt : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Cpt.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Cpt.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -504,7 +504,7 @@ class SEP_I_IHTC_Radio : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Radio.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Radio.jpg";
 	icon = "iconManRTO";
 	role = "RadioOperator";
 
@@ -534,7 +534,7 @@ class SEP_I_IHTC_Mortar_Gunner : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Mortar_Gunner.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Mortar_Gunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -564,7 +564,7 @@ class SEP_I_IHTC_Mortar_AGunner : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Mortar_AGunner.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Mortar_AGunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -594,7 +594,7 @@ class SEP_I_IHTC_Mortar_AmmoBearer : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Mortar_AmmoBearer.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Mortar_AmmoBearer.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -624,7 +624,7 @@ class SEP_I_IHTC_GunCrew : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="SEP_I_IHTC_Units_GunCrew";
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_GunCrew.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_GunCrew.jpg";
 	icon = "iconManTankcrew";
 	role = "Crewman";		
 
@@ -656,7 +656,7 @@ class SEP_I_IHTC_GunCrew_Srgt : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="SEP_I_IHTC_Units_GunCrew";
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_GunCrew_Srgt.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_GunCrew_Srgt.jpg";
 	icon = "iconManTankcrew";
 	role = "Crewman";
 
@@ -688,7 +688,7 @@ class SEP_I_IHTC_Tank_Crew : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="SEP_I_IHTC_Units_TankCrew";
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Tank_Crew.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Tank_Crew.jpg";
 	icon = "iconManTankcrew";
 	role = "Crewman";
 
@@ -720,7 +720,7 @@ class SEP_I_IHTC_Tank_Sergeant : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="SEP_I_IHTC_Units_TankCrew";
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Tank_Sergeant.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Tank_Sergeant.jpg";
 	icon = "iconManTankcrew";
 	role = "Crewman";
 
@@ -752,7 +752,7 @@ class SEP_I_IHTC_Tank_Second_Lieutenant : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="SEP_I_IHTC_Units_TankCrew";
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Tank_Second_Lieutenant.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Tank_Second_Lieutenant.jpg";
 	icon = "iconManTankcrew";
 	role = "Crewman";
 
@@ -784,7 +784,7 @@ class SEP_I_IHTC_Driver : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Driver.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Driver.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -816,7 +816,7 @@ class SEP_I_IHTC_Driver_Lite : SEP_I_IHTC_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IHTC_Units";
 	editorSubcategory="EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Driver_Lite.jpg";
+	editorPreview="\SEP\SEP_I_IHTC\SEP_I_IHTC_Characters\data\editorPreviews\SEP_I_IHTC_Driver_Lite.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	

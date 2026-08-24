@@ -8,7 +8,7 @@ class SEP_I_US_U_Coat_brn_CFV : I_Soldier_F
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_I_US_U_Coat_brn";
-    model = "\SEP_I_US\SEP_I_US_Characters\SEP_US_U_Coat.p3d";
+    model = "\SEP\SEP_I_US\SEP_I_US_Characters\SEP_US_U_Coat.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -16,8 +16,8 @@ class SEP_I_US_U_Coat_brn_CFV : I_Soldier_F
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_U_Coat_brn_CO.paa",
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_Boots_CO.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_U_Coat_brn_CO.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_Boots_CO.paa",
     };
 };
 class SEP_I_US_U_Coat_snow_CFV : SEP_I_US_U_Coat_brn_CFV
@@ -31,8 +31,8 @@ class SEP_I_US_U_Coat_snow_CFV : SEP_I_US_U_Coat_brn_CFV
     uniformClass="SEP_I_US_U_Coat_snow";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_U_Coat_snow_CO.paa",
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_Boots_CO.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_U_Coat_snow_CO.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_Boots_CO.paa",
     };
 };
 
@@ -47,8 +47,8 @@ class SEP_I_US_U_M43_snow_CFV : SPE_US_M43
     uniformClass="SEP_I_US_U_M43_snow";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_U_M43_win_co.paa",
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_U_PantsWool_win_co.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_U_M43_win_co.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_U_PantsWool_win_co.paa",
     };
 };
 
@@ -63,7 +63,7 @@ class SEP_I_US_U_M43_trop_snow_CFV : SPE_US_M43_trop
     uniformClass="SEP_I_US_U_M43_trop_snow";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_U_M43_win_co.paa",
-        "\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_U_PantsWool_win_co.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_U_M43_win_co.paa",
+        "\SEP\SEP_I_US\SEP_I_US_Characters\data\SEP_I_US_U_PantsWool_win_co.paa",
     };
 };

@@ -6,7 +6,7 @@ class SEP_B_GER_WIN_Jagdpanther_G1 : SPE_Jagdpanther_G1
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "Sd.Kfz. 173 Jagdpanther";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_Jagdpanther_G1.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_Jagdpanther_G1.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	crew = "SEP_B_GER_WIN_SPG_Crew";
@@ -26,7 +26,7 @@ class SEP_B_GER_Sturm_WIN_Jagdpanther_G1 : SPE_Jagdpanther_G1
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "Sd.Kfz. 173 Jagdpanther";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_Jagdpanther_G1.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_Jagdpanther_G1.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Sturm_Winter_Units";
 	crew = "SEP_B_GER_Sturm_WIN_SPG_Crew";

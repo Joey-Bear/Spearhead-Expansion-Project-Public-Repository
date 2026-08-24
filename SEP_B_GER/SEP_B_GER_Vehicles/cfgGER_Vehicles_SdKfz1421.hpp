@@ -6,15 +6,15 @@ class SEP_B_GER_WIN_StuG_III_G_Early : SPE_StuG_III_G_Early
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "Sd.Kfz. 142/1 StuG III G (Early)";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuG_III_G_Early.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuG_III_G_Early.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	crew = "SEP_B_GER_WIN_SPG_Crew";
 	hiddenSelectionsTextures[]=
 	{
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 		"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 		"a3\data_f\clear_empty.paa"
 	};
@@ -26,9 +26,9 @@ class SEP_B_GER_WIN_StuG_III_G_Early : SPE_StuG_III_G_Early
 			author = "Hyena";
 			textures[]=
 			{
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 				"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 				"a3\data_f\clear_empty.paa"
 			};
@@ -59,15 +59,15 @@ class SEP_B_GER_WIN_StuG_III_G_Late : SPE_StuG_III_G_Late
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "Sd.Kfz. 142/1 StuG III G (Late)";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuG_III_G_Late.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuG_III_G_Late.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	crew = "SEP_B_GER_WIN_SPG_Crew";
 	hiddenSelectionsTextures[]=
 	{
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 		"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 		"a3\data_f\clear_empty.paa"
 	};
@@ -79,9 +79,9 @@ class SEP_B_GER_WIN_StuG_III_G_Late : SPE_StuG_III_G_Late
 			author = "Hyena";
 			textures[]=
 			{
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 				"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 				"a3\data_f\clear_empty.paa"
 			};
@@ -111,15 +111,15 @@ class SEP_B_GER_WIN_StuG_III_G_SKB : SPE_StuG_III_G_SKB
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "Sd.Kfz. 142/1 StuG III G (SKB)";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuG_III_G_SKB.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuG_III_G_SKB.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	crew = "SEP_B_GER_WIN_SPG_Crew";
 	hiddenSelectionsTextures[]=
 	{
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 		"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 		"a3\data_f\clear_empty.paa"
 	};
@@ -131,9 +131,9 @@ class SEP_B_GER_WIN_StuG_III_G_SKB : SPE_StuG_III_G_SKB
 			author = "Hyena";
 			textures[]=
 			{
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 				"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 				"a3\data_f\clear_empty.paa"
 			};
@@ -163,15 +163,15 @@ class SEP_B_GER_WIN_StuH_42 : SPE_StuH_42
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "Sd.Kfz. 142/2 StuH 42";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuH_42.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuH_42.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	crew = "SEP_B_GER_WIN_SPG_Crew";
 	hiddenSelectionsTextures[]=
 	{
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 		"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 		"a3\data_f\clear_empty.paa"
 	};
@@ -183,9 +183,9 @@ class SEP_B_GER_WIN_StuH_42 : SPE_StuH_42
 			author = "Hyena";
 			textures[]=
 			{
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 				"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 				"a3\data_f\clear_empty.paa"
 			};
@@ -214,15 +214,15 @@ class SEP_B_GER_Sturm_WIN_StuG_III_G_Early : SPE_StuG_III_G_Early
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "Sd.Kfz. 142/1 StuG III G (Early)";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuG_III_G_Early.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuG_III_G_Early.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Sturm_Winter_Units";
 	crew = "SEP_B_GER_Sturm_WIN_SPG_Crew";
 	hiddenSelectionsTextures[]=
 	{
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 		"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 		"a3\data_f\clear_empty.paa"
 	};
@@ -234,9 +234,9 @@ class SEP_B_GER_Sturm_WIN_StuG_III_G_Early : SPE_StuG_III_G_Early
 			author = "Hyena";
 			textures[]=
 			{
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 				"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 				"a3\data_f\clear_empty.paa"
 			};
@@ -266,15 +266,15 @@ class SEP_B_GER_Sturm_WIN_StuG_III_G_Late : SPE_StuG_III_G_Late
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "Sd.Kfz. 142/1 StuG III G (Late)";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuG_III_G_Late.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuG_III_G_Late.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Sturm_Winter_Units";
 	crew = "SEP_B_GER_Sturm_WIN_SPG_Crew";
 	hiddenSelectionsTextures[]=
 	{
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 		"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 		"a3\data_f\clear_empty.paa"
 	};
@@ -286,9 +286,9 @@ class SEP_B_GER_Sturm_WIN_StuG_III_G_Late : SPE_StuG_III_G_Late
 			author = "Hyena";
 			textures[]=
 			{
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 				"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 				"a3\data_f\clear_empty.paa"
 			};
@@ -317,15 +317,15 @@ class SEP_B_GER_Sturm_WIN_StuG_III_G_SKB : SPE_StuG_III_G_SKB
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "Sd.Kfz. 142/1 StuG III G (SKB)";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuG_III_G_SKB.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuG_III_G_SKB.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Sturm_Winter_Units";
 	crew = "SEP_B_GER_Sturm_WIN_SPG_Crew";
 	hiddenSelectionsTextures[]=
 	{
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 		"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 		"a3\data_f\clear_empty.paa"
 	};
@@ -337,9 +337,9 @@ class SEP_B_GER_Sturm_WIN_StuG_III_G_SKB : SPE_StuG_III_G_SKB
 			author = "Hyena";
 			textures[]=
 			{
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 				"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 				"a3\data_f\clear_empty.paa"
 			};
@@ -368,15 +368,15 @@ class SEP_B_GER_Sturm_WIN_StuH_42 : SPE_StuH_42
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "Sd.Kfz. 142/2 StuH 42";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuH_42.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_StuH_42.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Sturm_Winter_Units";
 	crew = "SEP_B_GER_Sturm_WIN_SPG_Crew";
 	hiddenSelectionsTextures[]=
 	{
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-		"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 		"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 		"a3\data_f\clear_empty.paa"
 	};
@@ -388,9 +388,9 @@ class SEP_B_GER_Sturm_WIN_StuH_42 : SPE_StuH_42
 			author = "Hyena";
 			textures[]=
 			{
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
-				"SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_01_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_02_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_SdKfz1421_03_camo_win_CO.paa",
 				"ww2\spe_assets_t\vehicles\tanks_t\nashorn\nashorn_tracks_co.paa",
 				"a3\data_f\clear_empty.paa"
 			};

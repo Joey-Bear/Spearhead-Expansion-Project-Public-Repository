@@ -12,7 +12,7 @@ PixelShaderID="Super";
 VertexShaderID="Super";
 class Stage1
 {
-	texture="SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_Glass_NOHQ.paa";
+	texture="SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_Glass_NOHQ.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -48,7 +48,7 @@ class Stage3
 };
 class Stage4
 {
-	texture="SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_Glass_AS.paa";
+	texture="SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_Glass_AS.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -60,7 +60,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_Glass_SMDI.paa";
+	texture="SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_Glass_SMDI.paa";
 	uvSource="tex";
 	class uvTransform
 	{

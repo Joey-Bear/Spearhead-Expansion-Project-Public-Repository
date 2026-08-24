@@ -242,7 +242,7 @@ class CfgVehicles
 	};
 	class SEP_WP_Static_RKWerfer43_base: SPE_Pak40_base
 	{
-		model="\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\SEP_WP_Static_RKWerfer43.p3d";
+		model="\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\SEP_WP_Static_RKWerfer43.p3d";
 		hiddenSelections[] = {"camo"};
 		SPE_isTowable = 1;
 		SPE_Towing_AttachDetection[] = {0,-3,-0.7};
@@ -289,7 +289,7 @@ class CfgVehicles
 				author = "Jamie";
 				textures[] =
 				{
-					"\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_pzgry_CO.paa"
+					"\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_pzgry_CO.paa"
 				};
 				factions[] = {};
 			};
@@ -299,7 +299,7 @@ class CfgVehicles
 				author = "Jamie";
 				textures[] =
 				{
-					"\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_pzgry_win_CO.paa"
+					"\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_pzgry_win_CO.paa"
 				};
 				factions[] = {};
 			};
@@ -309,7 +309,7 @@ class CfgVehicles
 				author = "Jamie";
 				textures[] =
 				{
-					"\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_dunkel_CO.paa"
+					"\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_dunkel_CO.paa"
 				};
 				factions[] = {};
 			};
@@ -319,7 +319,7 @@ class CfgVehicles
 				author = "Jamie";
 				textures[] =
 				{
-					"\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_dunkel_win_CO.paa"
+					"\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_dunkel_win_CO.paa"
 				};
 				factions[] = {};
 			};
@@ -329,7 +329,7 @@ class CfgVehicles
 				author = "Jamie";
 				textures[] =
 				{
-					"\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_01_CO.paa"
+					"\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_01_CO.paa"
 				};
 				factions[] = {};	
 			};
@@ -339,7 +339,7 @@ class CfgVehicles
 				author = "Jamie";
 				textures[] =
 				{
-					"\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_01_win_CO.paa"
+					"\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_01_win_CO.paa"
 				};
 				factions[] = {};	
 			};
@@ -349,7 +349,7 @@ class CfgVehicles
 				author = "Jamie";
 				textures[] =
 				{
-					"\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_02_CO.paa"
+					"\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_02_CO.paa"
 				};
 				factions[] = {};	
 			};
@@ -359,7 +359,7 @@ class CfgVehicles
 				author = "Jamie";
 				textures[] =
 				{
-					"\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_03_CO.paa"
+					"\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_03_CO.paa"
 				};
 				factions[] = {};	
 			};
@@ -369,7 +369,7 @@ class CfgVehicles
 				author = "Jamie";
 				textures[] =
 				{
-					"\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_04_CO.paa"
+					"\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_04_CO.paa"
 				};
 				factions[] = {};	
 			};
@@ -380,7 +380,7 @@ class CfgVehicles
 		author="OokamiJamie";
 		scope=2;
 		side=1;
-		editorPreview = "\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\editorPreviews\SEP_B_GER_RKWerfer43.jpg";
+		editorPreview = "\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\editorPreviews\SEP_B_GER_RKWerfer43.jpg";
 		faction = "SPE_WEHRMACHT";
 		crew = "SPE_GER_rifleman";
 		typicalCargo[]=
@@ -389,7 +389,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_01_CO.paa"
+			"\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_01_CO.paa"
 		};
 		displayName="8.8 cm Raketenwerfer 43";
 		class Turrets: Turrets
@@ -453,7 +453,7 @@ class CfgVehicles
 		author="OokamiJamie";
 		scope=2;
 		side=1;
-		editorPreview = "\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\editorPreviews\SEP_B_GER_WIN_RKWerfer43.jpg";
+		editorPreview = "\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\editorPreviews\SEP_B_GER_WIN_RKWerfer43.jpg";
 		faction = "SEP_B_GER_Winter_Units";
 		crew = "SEP_B_GER_WIN_Rflmn_K98";
 		typicalCargo[]=
@@ -462,7 +462,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_01_win_CO.paa"
+			"\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_camo_01_win_CO.paa"
 		};
 		displayName="8.8 cm Raketenwerfer 43";
 		class Turrets: Turrets
@@ -526,7 +526,7 @@ class CfgVehicles
 		author="OokamiJamie";
 		scope=1;
 		side=1;
-		editorPreview = "\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\editorPreviews\SEP_B_GER_DAK_RKWerfer43.jpg";
+		editorPreview = "\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\editorPreviews\SEP_B_GER_DAK_RKWerfer43.jpg";
 		faction = "SEP_B_GER_DAK_Units";
 		crew = "SEP_B_GER_DAK_Rflmn_K98";
 		typicalCargo[]=
@@ -535,7 +535,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_dunkel_CO.paa"
+			"\SEP\SEP_WP\SEP_WP_Static\SEP_WP_RKWerfer43\Data\SEP_WP_Static_RKWerfer43_01_dunkel_CO.paa"
 		};
 		displayName="8.8 cm Raketenwerfer 43";
 		class Turrets: Turrets

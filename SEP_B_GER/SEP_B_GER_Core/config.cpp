@@ -16,7 +16,7 @@ class CfgFactionClasses
 		priority = 3;
 		side = 1;
 		flag = "\WW2\SPE_Core_t\Data_t\Flags\flag_GER_co.paa";
-		icon = "\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_GER_ca.paa";
+		icon = "\SEP\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_GER_ca.paa";
 	};
     class SEP_B_GER_Winter_Units
 	{
@@ -24,7 +24,7 @@ class CfgFactionClasses
 		priority = 3;
 		side = 1;
 		flag = "\WW2\SPE_Core_t\Data_t\Flags\flag_GER_co.paa";
-		icon = "\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_AK_ca.paa";
+		icon = "\SEP\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_GER_ca.paa";
 	};
     class SEP_B_GER_Sturm_Winter_Units
 	{
@@ -32,7 +32,7 @@ class CfgFactionClasses
 		priority = 3;
 		side = 1;
 		flag = "\WW2\SPE_Core_t\Data_t\Flags\flag_GER_co.paa";
-		icon = "\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_AK_ca.paa";
+		icon = "\SEP\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_GER_ca.paa";
 	};
 	class SEP_B_GER_Volk_Units
 	{
@@ -40,7 +40,7 @@ class CfgFactionClasses
 		priority = 3;
 		side = 1;
 		flag = "\WW2\SPE_Core_t\Data_t\Flags\flag_GER_co.paa";
-		icon = "\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_AK_ca.paa";
+		icon = "\SEP\SEP_B_GER\SEP_B_GER_Core\data\cfgFactionClasses_GER_ca.paa";
 	};
 };
 

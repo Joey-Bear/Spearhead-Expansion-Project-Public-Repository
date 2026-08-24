@@ -4,7 +4,11 @@ class CfgPatches
 	{
 		units[]={};
 		weapons[]={};
-		requiredAddons[]={};
+		addonRootClass = "SEP_B_EHM";
+		requiredAddons[]=
+		{
+			"SEP_B_EHM"
+		};
 	};
 };
 

@@ -7,7 +7,7 @@ class SEP_I_US_WIN_M4A0 : SPE_M4A0_composite
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4 Sherman (Composite)";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A0.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A0.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -80,7 +80,7 @@ class SEP_I_US_WIN_M4A0_75 : SPE_M4A0_75
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4 Sherman (Late)";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A0_75.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A0_75.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -153,7 +153,7 @@ class SEP_I_US_WIN_M4A0_75_Early : SPE_M4A0_75_Early
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4A0 75 Early (Loadable)";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A0_75_Early.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A0_75_Early.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -227,7 +227,7 @@ class SEP_I_US_WIN_M4A0_105 : SPE_M4A0_105
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4(105) Sherman";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A0_105.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A0_105.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -301,7 +301,7 @@ class SEP_I_US_WIN_M4A1_75_erla : SPE_M4A1_75_erla
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4A1 Sherman";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A1_75_erla.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A1_75_erla.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -374,7 +374,7 @@ class SEP_I_US_WIN_M4A1_75 : SPE_M4A1_75
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4A1 Sherman (Late)";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A1_75.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A1_75.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -447,7 +447,7 @@ class SEP_I_US_WIN_M4A1_76 : SPE_M4A1_76
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4A1(76)W Sherman";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A1_76.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A1_76.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -520,7 +520,7 @@ class SEP_I_US_WIN_M4A1_T34_Calliope : SPE_M4A1_T34_Calliope
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4A1-T34 Calliope Sherman";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A1_T34_Calliope.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A1_T34_Calliope.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -590,7 +590,7 @@ class SEP_I_US_WIN_M4A1_T34_Calliope_Direct : SPE_M4A1_T34_Calliope_Direct
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4A1-T34 Calliope Sherman (Artillery)";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A1_T34_Calliope_Direct.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A1_T34_Calliope_Direct.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -661,7 +661,7 @@ class SEP_I_US_WIN_M4A3_105 : SPE_M4A3_105
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4A3(105) Sherman";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A3_105.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A3_105.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -734,7 +734,7 @@ class SEP_I_US_WIN_M4A3_75 : SPE_M4A3_75
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4A3(75)W Sherman";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A3_75.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A3_75.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -807,7 +807,7 @@ class SEP_I_US_WIN_M4A3_76 : SPE_M4A3_76
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4A3(76)W Sherman";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A3_76.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A3_76.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -880,7 +880,7 @@ class SEP_I_US_WIN_M4A3_T34_Calliope : SPE_M4A3_T34_Calliope
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4A3-T34 Calliope Sherman (Artillery)";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A3_T34_Calliope.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A3_T34_Calliope.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";
@@ -953,7 +953,7 @@ class SEP_I_US_WIN_M4A3_T34_Calliope_Direct : SPE_M4A3_T34_Calliope_Direct
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "M4A3-T34 Calliope Sherman";
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A3_T34_Calliope_Direct.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_M4A3_T34_Calliope_Direct.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Tank_Crew";

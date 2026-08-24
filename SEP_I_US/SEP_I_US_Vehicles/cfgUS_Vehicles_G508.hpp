@@ -8,7 +8,7 @@ class SEP_I_US_WIN_CCKW_353 : SPE_CCKW_353
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353";
 	side = 2;
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353.jpg";
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Driver";
 	hiddenSelectionsTextures[] = 
@@ -46,7 +46,7 @@ class SEP_I_US_WIN_CCKW_353_Open : SPE_CCKW_353_Open
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353 (Open)";
 	side = 2;
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353_Open.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353_Open.jpg";
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Driver";
 	hiddenSelectionsTextures[] = 
@@ -84,7 +84,7 @@ class SEP_I_US_WIN_CCKW_353_M2 : SPE_CCKW_353_M2
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353 (M2)";
 	side = 2;
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353_M2.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353_M2.jpg";
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Driver";
 	hiddenSelectionsTextures[] = 
@@ -129,7 +129,7 @@ class SEP_I_US_WIN_CCKW_353_Ambulance : SPE_CCKW_353_Ambulance
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353 (Ambulance)";
 	side = 2;
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353_Ambulance.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353_Ambulance.jpg";
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Driver";
 	hiddenSelectionsTextures[] = 
@@ -168,7 +168,7 @@ class SEP_I_US_WIN_CCKW_353_Ammo : SPE_CCKW_353_Ammo
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353 (Ammo)";
 	side = 2;
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353_Ammo.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353_Ammo.jpg";
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Driver";
 	hiddenSelectionsTextures[] = 
@@ -207,7 +207,7 @@ class SEP_I_US_WIN_CCKW_353_Fuel : SPE_CCKW_353_Fuel
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353 (Fuel)";
 	side = 2;
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353_Fuel.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353_Fuel.jpg";
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Driver";
 	hiddenSelectionsTextures[] = 
@@ -248,7 +248,7 @@ class SEP_I_US_WIN_CCKW_353_Repair : SPE_CCKW_353_Repair
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353 (Repair)";
 	side = 2;
-	editorPreview = "\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353_Repair.jpg";
+	editorPreview = "\SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_CCKW_353_Repair.jpg";
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Driver";
 	hiddenSelectionsTextures[] = 

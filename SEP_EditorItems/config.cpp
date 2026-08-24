@@ -16,10 +16,14 @@ class CfgPatches
 			"Weapon_SEP_WP_MAS38",
 			"Weapon_SEP_WP_MP18",
 			"Weapon_SEP_WP_MP28",
+			"Weapon_SEP_WP_MP38",
 			//Sniper & Marksman Rifles//
 			"Weapon_SEP_WP_Gewehr98_Sniper"
 		};
-		requiredAddons[]={};
+		requiredAddons[]=
+		{
+			"A3_Weapons_F"
+		};
 	};
 };
 class cfgVehicles
@@ -261,6 +265,34 @@ class cfgVehicles
 			class SEP_WP_MP28_Mag
 			{
 				magazine="SEP_WP_MP28_Mag";
+				count=1;
+			};
+		};
+	};
+	
+	class Weapon_SEP_WP_MP38: SPE_Weapon_Base_F
+	{
+		author="Cover Fire Studios";
+		displayName = "MP 38";
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+		editorCategory="EdCat_Weapons";
+		editorSubcategory="EdSubcat_SubMachineGuns";
+		vehicleClass="WeaponsPrimary";
+		class TransportWeapons
+		{
+			class SEP_WP_MP38
+			{
+				weapon="SEP_WP_MP38";
+				count=1;
+			};
+		};
+		class TransportMagazines
+		{
+			class SPE_32rnd_9x19
+			{
+				magazine="SPE_32rnd_9x19";
 				count=1;
 			};
 		};

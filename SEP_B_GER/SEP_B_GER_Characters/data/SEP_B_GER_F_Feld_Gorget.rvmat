@@ -12,7 +12,7 @@ PixelShaderID="Super";
 VertexShaderID="Super";
 class Stage1
 {
-	texture="SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_F_Feld_Gorget_nohq.paa";
+	texture="SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_F_Feld_Gorget_nohq.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -48,7 +48,7 @@ class Stage3
 };
 class Stage4
 {
-	texture="SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_F_Feld_Gorget_as.paa";
+	texture="SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_F_Feld_Gorget_as.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -60,7 +60,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_F_Feld_Gorget_smdi.paa";
+	texture="SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_F_Feld_Gorget_smdi.paa";
 	uvSource="tex";
 	class uvTransform
 	{

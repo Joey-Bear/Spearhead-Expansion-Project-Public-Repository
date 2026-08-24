@@ -50,11 +50,11 @@ class CfgMagazines
         displayName = "9×17mm Short 6Rnd Mag";
 		displayNameShort = "";
 		descriptionShort = "Caliber: 9x17mm Short<br />Rounds: 6<br />Type: Box Magazine<br />Used in: Astra M300 9x17mm";
-		picture = "\SEP_WP\SEP_WP_A300\data\icons\SEP_WP_A300_M_ca.paa";
+		picture = "\SEP\SEP_WP\SEP_WP_A300\data\icons\SEP_WP_A300_M_ca.paa";
         ammo = "SEP_A_9_17";
         count = 6;
         mass = 4;
-        model = "\SEP_WP\SEP_WP_A300\data\mesh\6Rnd_9_17_A300.p3d";
+        model = "\SEP\SEP_WP\SEP_WP_A300\data\mesh\6Rnd_9_17_A300.p3d";
         initspeed = 390.2;
         lastroundstracer = 0;
         scope = 2;
@@ -68,11 +68,11 @@ class CfgMagazines
         displayName = "7.65×17mmSR 7Rnd Mag";
 		displayNameShort = "";
 		descriptionShort = "Caliber: 7.65×17mmSR<br />Rounds: 7<br />Type: Box Magazine<br />Used in: Astra M300 7.65×17mm";
-		picture = "\SEP_WP\SEP_WP_A300\data\icons\SEP_WP_A300_M_ca.paa";
+		picture = "\SEP\SEP_WP\SEP_WP_A300\data\icons\SEP_WP_A300_M_ca.paa";
         ammo = "SEP_A_765_17";
         count = 7;
         mass = 4;
-        model = "\SEP_WP\SEP_WP_A300\data\mesh\6Rnd_9_17_A300.p3d";
+        model = "\SEP\SEP_WP\SEP_WP_A300\data\mesh\6Rnd_9_17_A300.p3d";
         initspeed = 390.2;
         lastroundstracer = 0;
         scope = 2;
@@ -100,14 +100,14 @@ class CfgWeapons
         dlc = "SEP_WP";
         displayName = "Astra M300 9x17mm";
         descriptionShort = "Handgun <br/>Caliber: 9×17mm Short";
-		model = "\SEP_WP\SEP_WP_A300\data\mesh\SEP_WP_A300.p3d";
-		picture = "\SEP_WP\SEP_WP_A300\data\icons\SEP_WP_A300_ca.paa";
+		model = "\SEP\SEP_WP\SEP_WP_A300\data\mesh\SEP_WP_A300.p3d";
+		picture = "\SEP\SEP_WP\SEP_WP_A300\data\icons\SEP_WP_A300_ca.paa";
         magazines[] = {"SEP_WP_M_9_17_6Rnd_A300"};
         magazineWell[] = {"SEP_WP_MW_9_17_A300"};
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_WP\SEP_WP_A300\data\tex\SEP_WP_A300_co.paa",
-			"\SEP_WP\SEP_WP_A300\data\tex\ammo\MP58_CO.paa"
+			"\SEP\SEP_WP\SEP_WP_A300\data\tex\SEP_WP_A300_co.paa",
+			"\SEP\SEP_WP\SEP_WP_A300\data\tex\ammo\MP58_CO.paa"
 		};
         //Gribblies
         aiRateOfFire = 2;
@@ -189,7 +189,7 @@ class CfgWeapons
         author = "Ture Right, frim";
         displayName = "Astra M300 7.65×17mm";
         descriptionShort = "Handgun <br/>Caliber: 7.65×17mmSR";
-		picture = "\SEP_WP\SEP_WP_A300\data\icons\SEP_WP_A300_ca.paa";
+		picture = "\SEP\SEP_WP\SEP_WP_A300\data\icons\SEP_WP_A300_ca.paa";
         magazines[] = {"SEP_WP_M_765_17_7Rnd_A300"};
         magazineWell[] = {"SEP_WP_MW_765_17_A300"};
     };

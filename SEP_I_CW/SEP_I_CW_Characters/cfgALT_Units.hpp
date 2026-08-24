@@ -12,7 +12,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Rflmn.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Rflmn.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 
@@ -52,7 +52,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Rflmn_Unr.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Rflmn_Unr.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 
@@ -92,7 +92,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Grenadier.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Grenadier.jpg";
 		icon = "iconManGrenadier";
 		role = "Grenadier";
 
@@ -132,7 +132,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Driver.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Driver.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 
@@ -172,7 +172,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_AmmoBearer.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_AmmoBearer.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 
@@ -212,7 +212,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Bren_Gunner.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Bren_Gunner.jpg";
 		icon = "iconManMG";
 		role = "MachineGunner";
 
@@ -252,7 +252,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Bren_Asst.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Bren_Asst.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -292,7 +292,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Sergeant.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Sergeant.jpg";
 		icon = "iconManOfficer";
 		role = "SquadLeader";
 
@@ -332,7 +332,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Section_Lead.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Section_Lead.jpg";
 		icon = "iconManLeader";
 		role = "SquadLeader";
 
@@ -372,7 +372,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Team_Lead.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Team_Lead.jpg";
 		icon = "iconManLeader";
 		role = "SquadLeader";
 
@@ -412,7 +412,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_PIAT_Gunner.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_PIAT_Gunner.jpg";
 		icon = "iconManAT";
 		role = "MissileSpecialist";
 
@@ -452,7 +452,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_PIAT_Asst.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_PIAT_Asst.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -492,7 +492,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Medic.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Medic.jpg";
 		icon = "iconManMedic";
 		role = "CombatLifeSaver";
 
@@ -532,7 +532,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Engineer.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Engineer.jpg";
 		icon = "iconManEngineer";
 		role = "Rifleman";
 
@@ -572,7 +572,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Cpt.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Cpt.jpg";
 		icon = "iconManCommander";
 		role = "SquadLeader";
 
@@ -611,7 +611,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_1LT.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_1LT.jpg";
 		icon = "iconManCommander";
 		role = "SquadLeader";
 
@@ -651,7 +651,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Radioman.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Radioman.jpg";
 		icon = "iconManRTO";
 		role = "RadioOperator";
 
@@ -691,7 +691,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Mortar_Gunner.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Mortar_Gunner.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -731,7 +731,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Mortar_Asst.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Mortar_Asst.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -771,7 +771,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Medic_SB.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Medic_SB.jpg";
 		icon = "iconManMedic";
 		role = "CombatLifeSaver";
 
@@ -811,7 +811,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Sniper.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Sniper.jpg";
 		icon = "iconManRecon";
 		role = "Marksman";
 
@@ -856,7 +856,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Rflmn.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Rflmn.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 
@@ -896,7 +896,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Rflmn_Unr.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Rflmn_Unr.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 
@@ -936,7 +936,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Grenadier.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Grenadier.jpg";
 		icon = "iconManGrenadier";
 		role = "Grenadier";
 
@@ -976,7 +976,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Driver.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Driver.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 
@@ -1016,7 +1016,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_AmmoBearer.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_AmmoBearer.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 
@@ -1056,7 +1056,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Bren_Gunner.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Bren_Gunner.jpg";
 		icon = "iconManMG";
 		role = "MachineGunner";
 
@@ -1096,7 +1096,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Bren_Asst.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Bren_Asst.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -1136,7 +1136,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Sergeant.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Sergeant.jpg";
 		icon = "iconManOfficer";
 		role = "SquadLeader";
 
@@ -1176,7 +1176,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Section_Lead.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Section_Lead.jpg";
 		icon = "iconManLeader";
 		role = "SquadLeader";
 
@@ -1216,7 +1216,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Team_Lead.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Team_Lead.jpg";
 		icon = "iconManLeader";
 		role = "SquadLeader";
 
@@ -1256,7 +1256,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_PIAT_Gunner.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_PIAT_Gunner.jpg";
 		icon = "iconManAT";
 		role = "MissileSpecialist";
 
@@ -1296,7 +1296,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_PIAT_Asst.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_PIAT_Asst.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -1336,7 +1336,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Medic.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Medic.jpg";
 		icon = "iconManMedic";
 		role = "CombatLifeSaver";
 
@@ -1376,7 +1376,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Engineer.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Engineer.jpg";
 		icon = "iconManEngineer";
 		role = "Rifleman";
 
@@ -1416,7 +1416,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Cpt.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Cpt.jpg";
 		icon = "iconManCommander";
 		role = "SquadLeader";
 
@@ -1455,7 +1455,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_1LT.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_1LT.jpg";
 		icon = "iconManCommander";
 		role = "SquadLeader";
 
@@ -1495,7 +1495,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Radioman.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Radioman.jpg";
 		icon = "iconManRTO";
 		role = "RadioOperator";
 
@@ -1535,7 +1535,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Mortar_Gunner.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Mortar_Gunner.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -1575,7 +1575,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Mortar_Asst.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Mortar_Asst.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -1615,7 +1615,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Medic_SB.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Medic_SB.jpg";
 		icon = "iconManMedic";
 		role = "CombatLifeSaver";
 
@@ -1655,7 +1655,7 @@
         side = 2;
         faction = "SPEX_CW_ARMY_TROP";
 		editorSubcategory = "SEP_I_CW_ALT_Units_Infantry";
-		editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Sniper.jpg";
+		editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_ALT_Trop_Sniper.jpg";
 		icon = "iconManRecon";
 		role = "Marksman";
 

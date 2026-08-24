@@ -12,7 +12,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Rflmn_M1903.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Rflmn_M1903.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 		
@@ -53,7 +53,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Rflmn_Carb.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Rflmn_Carb.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 		
@@ -94,7 +94,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Rflmn_Unr.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Rflmn_Unr.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 
@@ -135,7 +135,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_AmmoBearer.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_AmmoBearer.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 		
@@ -176,7 +176,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Gren.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Gren.jpg";
 		icon = "iconManGrenadier";
 		role = "Grenadier";
 		
@@ -217,7 +217,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_AR.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_AR.jpg";
 		icon = "iconManMG";
 		role = "MachineGunner";
 
@@ -258,7 +258,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_AAR.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_AAR.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -299,7 +299,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_SL.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_SL.jpg";
 		icon = "iconManOfficer";
 		role = "SquadLeader";
 
@@ -340,7 +340,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_ASL.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_ASL.jpg";
 		icon = "iconManLeader";
 		role = "SquadLeader";
 
@@ -382,7 +382,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Spotter.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Spotter.jpg";
 		icon = "iconManRifleman";
 
         identityTypes[] = {"LanguageGRE_F","Head_Hispanic","NoGlasses"};
@@ -414,7 +414,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Sniper.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Sniper.jpg";
 		icon = "iconManRecon";
 		role = "Marksman";
 
@@ -455,7 +455,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_AT.jpg";  
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_AT.jpg";  
 		icon = "iconManAT";
 		role = "MissileSpecialist";
 
@@ -496,7 +496,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Medic.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Medic.jpg";
 		icon = "iconManMedic";
 		role = "CombatLifeSaver";
 
@@ -537,7 +537,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Engi.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Engi.jpg";
 		icon = "iconManEngineer";
 		role = "Sapper";
 
@@ -579,7 +579,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Engi_Expl.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Engi_Expl.jpg";
 		icon = "iconManEngineer";
 		role = "Sapper";
 
@@ -612,7 +612,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Cpt.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Cpt.jpg";
 		icon = "iconManCommander";
 		role = "SquadLeader";
 
@@ -653,7 +653,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Radio.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Radio.jpg";
 		icon = "iconManRTO";
 		role = "RadioOperator";
 
@@ -694,7 +694,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Mortar_Gunner.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Mortar_Gunner.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -735,7 +735,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Mortar_AGunner.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Mortar_AGunner.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -776,7 +776,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Mortar_AmmoBearer.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Mortar_AmmoBearer.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -817,7 +817,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Flamethrower_Operator.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Flamethrower_Operator.jpg";
 		icon = "iconMan";
 		role = "Flamethrower";
 
@@ -858,7 +858,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_HMGunner.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_HMGunner.jpg";
 		icon = "iconManMG";
 		role = "MachineGunner";
 
@@ -899,7 +899,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_HMGunner_M2.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_HMGunner_M2.jpg";
 		icon = "iconManMG";
 		role = "MachineGunner";
 
@@ -940,7 +940,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_HMG_AmmoBearer.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_HMG_AmmoBearer.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -981,7 +981,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_HMG_AmmoBearer_M2.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_HMG_AmmoBearer_M2.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -1022,7 +1022,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_AHMGunner.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_AHMGunner.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -1063,7 +1063,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_AHMGunner_M2.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_AHMGunner_M2.jpg";
 		icon = "iconManRifleman";
 		role = "Assistant";
 
@@ -1104,7 +1104,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "SPE_EdSubcat_US_GunCrew";
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_GunCrew.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_GunCrew.jpg";
 		icon = "iconManTankcrew";
 		role = "Crewman";
 
@@ -1145,7 +1145,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "SPE_EdSubcat_US_GunCrew";
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_GunCrew_Srgt.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_GunCrew_Srgt.jpg";
 		icon = "iconManTankcrew";
 		role = "Crewman";
 
@@ -1186,7 +1186,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Pilot.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Pilot.jpg";
 		icon = "iconManPilot";
 		role = "Crewman";
 
@@ -1227,7 +1227,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "SPE_EdSubcat_US_TankCrew";
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Tank_Crew.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Tank_Crew.jpg";
 		icon = "iconManTankcrew";
 		role = "Crewman";
 
@@ -1266,7 +1266,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "SPE_EdSubcat_US_TankCrew";
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Tank_Sergeant.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Tank_Sergeant.jpg";
 		icon = "iconManTankcrew";
 		role = "Crewman";
 
@@ -1305,7 +1305,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "SPE_EdSubcat_US_TankCrew";
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Tank_Second_Lieutenant.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Tank_Second_Lieutenant.jpg";
 		icon = "iconManTankcrew";
 		role = "Crewman";
 
@@ -1344,7 +1344,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Driver.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Driver.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 		
@@ -1383,7 +1383,7 @@
         side = 2;
         faction = "SEP_I_FEB_Units";
 		editorSubcategory = "EdSubcat_Personnel";	
-		editorPreview="\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Driver_Lite.jpg";
+		editorPreview="\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\ui\editorPreviews\SEP_I_FEB_Driver_Lite.jpg";
 		icon = "iconManRifleman";
 		role = "Rifleman";
 		

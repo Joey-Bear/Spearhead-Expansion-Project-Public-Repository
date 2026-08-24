@@ -10,7 +10,7 @@ class SEP_I_FEB_U_FU_Khk_CFV : SPE_US_Private_1st
 	uniformClass= "SEP_I_FEB_U_FU_Khk";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_FEB\SEP_I_FEB_Characters\data\SEP_I_FEB_U_FU_Top_Khk_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\SEP_I_FEB_U_FU_Top_Khk_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Americans_t\US_Army\US_Woolie_co.paa",
 		""
 	};
@@ -37,7 +37,7 @@ class SEP_I_FEB_U_FU_Medic_Khk_CFV : SPE_US_Med
 	};
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_FEB\SEP_I_FEB_Characters\data\SEP_I_FEB_U_FU_Top_Khk_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\SEP_I_FEB_U_FU_Top_Khk_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Americans_t\US_Army\US_Woolie_co.paa",
 		"\a3\data_f\clear_empty.paa",
 		"\WW2\SPE_Assets_t\Characters\Americans_t\US_Army\Armband_Medic_co.paa",
@@ -58,7 +58,7 @@ class SEP_I_FEB_U_WU_1937_CFV : SPE_US_SC_EM
 	uniformClass= "SEP_I_FEB_U_WU_1937";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_FEB\SEP_I_FEB_Characters\data\SEP_I_FEB_U_WU_Top_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\SEP_I_FEB_U_WU_Top_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Americans_t\US_Army\US_Woolie_co.paa",
 		""
 	};
@@ -77,7 +77,7 @@ class SEP_I_FEB_U_WU_1937_Rolled_CFV : SPE_US_SC_EM_roll
 	uniformClass= "SEP_I_FEB_U_WU_1937_Rolled";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_FEB\SEP_I_FEB_Characters\data\SEP_I_FEB_U_WU_Top_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Characters\data\SEP_I_FEB_U_WU_Top_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Americans_t\US_Army\US_Woolie_co.paa",
 		""
 	};

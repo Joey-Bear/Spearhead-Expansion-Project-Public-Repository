@@ -12,7 +12,7 @@ PixelShaderID="Skin";
 VertexShaderID="Skin";
 class Stage1
 {
-	texture="SEP_Identities\data\sikh\Head_Sikh_03_NOHQ.paa";
+	texture="SEP\SEP_Identities\Data\sikh\Head_Sikh_03_NOHQ.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -36,7 +36,7 @@ class Stage2
 };
 class Stage3
 {
-	texture="SEP_Identities\data\sikh\Head_Sikh_03_CO.paa";
+	texture="SEP\SEP_Identities\Data\sikh\Head_Sikh_03_CO.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -60,7 +60,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="SEP_Identities\data\sikh\Head_Sikh_03_SMDI.paa";
+	texture="SEP\SEP_Identities\Data\sikh\Head_Sikh_03_SMDI.paa";
 	uvSource="tex";
 	class uvTransform
 	{

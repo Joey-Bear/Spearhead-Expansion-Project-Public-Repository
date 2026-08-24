@@ -12,7 +12,7 @@ class SEP_I_CW_SIKH_Rflmn : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Rflmn.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Rflmn.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -44,7 +44,7 @@ class SEP_I_CW_SIKH_Rflmn_Unr : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Rflmn_Unr.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Rflmn_Unr.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -76,7 +76,7 @@ class SEP_I_CW_SIKH_Grenadier : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Grenadier.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Grenadier.jpg";
 	icon = "iconManGrenadier";
 	role = "Grenadier";
 
@@ -108,7 +108,7 @@ class SEP_I_CW_SIKH_Driver : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Driver.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Driver.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -140,7 +140,7 @@ class SEP_I_CW_SIKH_AmmoBearer : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_AmmoBearer.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_AmmoBearer.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -172,7 +172,7 @@ class SEP_I_CW_SIKH_Bren_Gunner : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Bren_Gunner.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Bren_Gunner.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -204,7 +204,7 @@ class SEP_I_CW_SIKH_Bren_Asst : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Bren_Asst.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Bren_Asst.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -236,7 +236,7 @@ class SEP_I_CW_SIKH_Sergeant : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Sergeant.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Sergeant.jpg";
 	icon = "iconManOfficer";
 	role = "SquadLeader";
 
@@ -268,7 +268,7 @@ class SEP_I_CW_SIKH_Section_Lead : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Section_Lead.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Section_Lead.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -300,7 +300,7 @@ class SEP_I_CW_SIKH_Team_Lead : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Team_Lead.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Team_Lead.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -332,7 +332,7 @@ class SEP_I_CW_SIKH_PIAT_Gunner : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_PIAT_Gunner.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_PIAT_Gunner.jpg";
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -364,7 +364,7 @@ class SEP_I_CW_SIKH_PIAT_Asst : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_PIAT_Asst.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_PIAT_Asst.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -396,7 +396,7 @@ class SEP_I_CW_SIKH_Medic : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Medic.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Medic.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 
@@ -428,7 +428,7 @@ class SEP_I_CW_SIKH_Engineer : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Engineer.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Engineer.jpg";
 	icon = "iconManEngineer";
 	role = "Rifleman";
 
@@ -460,7 +460,7 @@ class SEP_I_CW_SIKH_Cpt : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Cpt.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Cpt.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -490,7 +490,7 @@ class SEP_I_CW_SIKH_1LT : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_1LT.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_1LT.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -522,7 +522,7 @@ class SEP_I_CW_SIKH_Radioman : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Radioman.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Radioman.jpg";
 	icon = "iconManRTO";
 	role = "RadioOperator";
 
@@ -554,7 +554,7 @@ class SEP_I_CW_SIKH_Mortar_Gunner : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Mortar_Gunner.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Mortar_Gunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -586,7 +586,7 @@ class SEP_I_CW_SIKH_Mortar_Asst : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Mortar_Asst.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Mortar_Asst.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -618,7 +618,7 @@ class SEP_I_CW_SIKH_Medic_SB : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Medic_SB.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Medic_SB.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 
@@ -650,7 +650,7 @@ class SEP_I_CW_SIKH_Sniper : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Sniper.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Sniper.jpg";
 	icon = "iconManRecon";
 	role = "Marksman";
 
@@ -687,7 +687,7 @@ class SEP_I_CW_SIKH_Trop_Rflmn : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Rflmn.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Rflmn.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -719,7 +719,7 @@ class SEP_I_CW_SIKH_Trop_Rflmn_Unr : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Rflmn_Unr.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Rflmn_Unr.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -751,7 +751,7 @@ class SEP_I_CW_SIKH_Trop_Grenadier : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Grenadier.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Grenadier.jpg";
 	icon = "iconManGrenadier";
 	role = "Grenadier";
 
@@ -783,7 +783,7 @@ class SEP_I_CW_SIKH_Trop_Driver : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Driver.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Driver.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -815,7 +815,7 @@ class SEP_I_CW_SIKH_Trop_AmmoBearer : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_AmmoBearer.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_AmmoBearer.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -847,7 +847,7 @@ class SEP_I_CW_SIKH_Trop_Bren_Gunner : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Bren_Gunner.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Bren_Gunner.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -879,7 +879,7 @@ class SEP_I_CW_SIKH_Trop_Bren_Asst : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Bren_Asst.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Bren_Asst.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -911,7 +911,7 @@ class SEP_I_CW_SIKH_Trop_Sergeant : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Sergeant.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Sergeant.jpg";
 	icon = "iconManOfficer";
 	role = "SquadLeader";
 
@@ -943,7 +943,7 @@ class SEP_I_CW_SIKH_Trop_Section_Lead : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Section_Lead.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Section_Lead.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -975,7 +975,7 @@ class SEP_I_CW_SIKH_Trop_Team_Lead : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Team_Lead.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Team_Lead.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -1007,7 +1007,7 @@ class SEP_I_CW_SIKH_Trop_PIAT_Gunner : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_PIAT_Gunner.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_PIAT_Gunner.jpg";
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -1039,7 +1039,7 @@ class SEP_I_CW_SIKH_Trop_PIAT_Asst : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_PIAT_Asst.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_PIAT_Asst.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -1071,7 +1071,7 @@ class SEP_I_CW_SIKH_Trop_Medic : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Medic.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Medic.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 
@@ -1103,7 +1103,7 @@ class SEP_I_CW_SIKH_Trop_Engineer : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Engineer.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Engineer.jpg";
 	icon = "iconManEngineer";
 	role = "Rifleman";
 
@@ -1135,7 +1135,7 @@ class SEP_I_CW_SIKH_Trop_Cpt : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Cpt.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Cpt.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -1165,7 +1165,7 @@ class SEP_I_CW_SIKH_Trop_1LT : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_1LT.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_1LT.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -1197,7 +1197,7 @@ class SEP_I_CW_SIKH_Trop_Radioman : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Radioman.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Radioman.jpg";
 	icon = "iconManRTO";
 	role = "RadioOperator";
 
@@ -1229,7 +1229,7 @@ class SEP_I_CW_SIKH_Trop_Mortar_Gunner : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Mortar_Gunner.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Mortar_Gunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -1261,7 +1261,7 @@ class SEP_I_CW_SIKH_Trop_Mortar_Asst : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Mortar_Asst.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Mortar_Asst.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -1293,7 +1293,7 @@ class SEP_I_CW_SIKH_Trop_Medic_SB : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Medic_SB.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Medic_SB.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 
@@ -1325,7 +1325,7 @@ class SEP_I_CW_SIKH_Trop_Sniper : SEP_I_CW_SIKH_Soldier_Base
 	side = 2;
 	faction = "SPEX_CW_ARMY_TROP";
 	editorSubcategory = "SEP_I_CW_SIKH_Units_Infantry";
-	editorPreview="\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Sniper.jpg";
+	editorPreview="\SEP\SEP_I_CW\SEP_I_CW_Characters\data\ui\editorPreviews\SEP_I_CW_SIKH_Trop_Sniper.jpg";
 	icon = "iconManRecon";
 	role = "Marksman";
 

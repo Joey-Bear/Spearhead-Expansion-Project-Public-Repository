@@ -15,7 +15,7 @@ class SEP_I_AK_U_Casual_1_CFV: SPE_FFI_Casual_1
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_bruin_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_a_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -37,7 +37,7 @@ class SEP_I_AK_U_Casual_Rolled_1_CFV: SPE_FFI_Casual_1_trop
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_blauw_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_a_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -59,7 +59,7 @@ class SEP_I_AK_U_Casual_2_CFV: SPE_FFI_Casual_2
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_zwart_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_e_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -81,7 +81,7 @@ class SEP_I_AK_U_Casual_Rolled_2_CFV: SPE_FFI_Casual_2_trop
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_grijs_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_e_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -103,7 +103,7 @@ class SEP_I_AK_U_Casual_3_CFV: SPE_FFI_Casual_3
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_zwart_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_b_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -125,7 +125,7 @@ class SEP_I_AK_U_Casual_Rolled_3_CFV: SPE_FFI_Casual_3_trop
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_blauw_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_b_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -147,7 +147,7 @@ class SEP_I_AK_U_Casual_4_CFV: SPE_FFI_Casual_4
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_grijs_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_c_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -169,7 +169,7 @@ class SEP_I_AK_U_Casual_Rolled_4_CFV: SPE_FFI_Casual_4_trop
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_grijs_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_c_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -191,7 +191,7 @@ class SEP_I_AK_U_Casual_5_CFV: SPE_FFI_Casual_5
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_zwart_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_d_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -213,7 +213,7 @@ class SEP_I_AK_U_Casual_Rolled_5_CFV: SPE_FFI_Casual_5_trop
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_blauw_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_d_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -235,7 +235,7 @@ class SEP_I_AK_U_Casual_6_CFV: SPE_FFI_Casual_6
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_zwart_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_f_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -257,7 +257,7 @@ class SEP_I_AK_U_Casual_Rolled_6_CFV: SPE_FFI_Casual_6_trop
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_blauw_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_f_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -279,7 +279,7 @@ class SEP_I_AK_U_Casual_7_CFV: SPE_FFI_Casual_7
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_zwart_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_c_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -301,7 +301,7 @@ class SEP_I_AK_U_Casual_Rolled_7_CFV: SPE_FFI_Casual_7_trop
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_blauw_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_c_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -322,7 +322,7 @@ class SEP_I_AK_U_Jacket_zwart_CFV: SPE_FFI_Jacket_zwart
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_pak2_zwart_c_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_grijs_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_d_co.paa",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
 	};
 	modelSides[] = {6};
 };
@@ -342,7 +342,7 @@ class SEP_I_AK_U_Jacket_zwart_alt_CFV: SPE_FFI_Jacket_zwart_alt
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_pak2_zwart_d_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_bruin_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_d_co.paa",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
 	};
 	modelSides[] = {6};
 };
@@ -362,7 +362,7 @@ class SEP_I_AK_U_Jacket_zwart_swetr_CFV: SPE_FFI_Jacket_zwart_swetr
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_pak2_zwart_a_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_zwart_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\swetr1_b_co.paa",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
 	};
 	modelSides[] = {6};
 };
@@ -382,7 +382,7 @@ class SEP_I_AK_U_Jacket_bruin_CFV: SPE_FFI_Jacket_bruin
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_pak2_bruin_b_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_grijs_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_f_co.paa",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
 	};
 	modelSides[] = {6};
 };
@@ -402,7 +402,7 @@ class SEP_I_AK_U_Jacket_bruin_swetr_CFV: SPE_FFI_Jacket_bruin_swetr
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_pak2_bruin_a_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_zwart_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\swetr1_b_co.paa",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
 	};
 	modelSides[] = {6};
 };
@@ -422,7 +422,7 @@ class SEP_I_AK_U_Jacket_grijs_CFV: SPE_FFI_Jacket_grijs
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_pak2_grijs_b_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_zwart_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_f_co.paa",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
 	};
 	modelSides[] = {6};
 };
@@ -442,7 +442,7 @@ class SEP_I_AK_U_Jacket_grijs_swetr_CFV: SPE_FFI_Jacket_grijs_swetr
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_pak2_grijs_a_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_bruin_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\swetr1_d_co.paa",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
 	};
 	modelSides[] = {6};
 };
@@ -463,7 +463,7 @@ class SEP_I_AK_U_Worker_1_CFV: SPE_FFI_Worker_1
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_grijs_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_e_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -485,7 +485,7 @@ class SEP_I_AK_U_Worker_Rolled_1_CFV: SPE_FFI_Worker_1_trop
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_grijs_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_e_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -507,7 +507,7 @@ class SEP_I_AK_U_Worker_2_CFV: SPE_FFI_Worker_2
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_blauw_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_c_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -529,7 +529,7 @@ class SEP_I_AK_U_Worker_Rolled_2_CFV: SPE_FFI_Worker_2_trop
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_blauw_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_c_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -551,7 +551,7 @@ class SEP_I_AK_U_Worker_3_CFV: SPE_FFI_Worker_3
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_blauw_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_b_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -573,7 +573,7 @@ class SEP_I_AK_U_Worker_Rolled_3_CFV: SPE_FFI_Worker_3_trop
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_blauw_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_b_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -595,7 +595,7 @@ class SEP_I_AK_U_Worker_4_CFV: SPE_FFI_Worker_4
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_blauw_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_f_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -617,7 +617,7 @@ class SEP_I_AK_U_Worker_Rolled_4_CFV: SPE_FFI_Worker_4_trop
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_hbt_blauw_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\nekutai_f_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -637,7 +637,7 @@ class SEP_I_AK_U_Worker_Coverall_1_CFV: SPE_CIV_Worker_Coverall_2
 	{
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_covral_blauw_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
 	};
 	modelSides[] = {6};
 };
@@ -656,7 +656,7 @@ class SEP_I_AK_U_Worker_Coverall_Rolled_1_CFV: SPE_CIV_Worker_Coverall_2_trop
 	{
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_covral_blauw_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
 	};
 	modelSides[] = {6};
 };
@@ -675,7 +675,7 @@ class SEP_I_AK_U_Worker_Coverall_2_CFV: SPE_CIV_Worker_Coverall_2
 	{
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_covral_grijs_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
 	};
 	modelSides[] = {6};
 };
@@ -694,7 +694,7 @@ class SEP_I_AK_U_Worker_Coverall_Rolled_2_CFV: SPE_CIV_Worker_Coverall_2_trop
 	{
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_covral_grijs_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa"
 	};
 	modelSides[] = {6};
 };
@@ -715,7 +715,7 @@ class SEP_I_AK_U_Swetr_vest_1_CFV: SPE_CIV_Swetr_1_vest
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_bruin_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\swetr1_d_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -737,7 +737,7 @@ class SEP_I_AK_U_Swetr_vest_2_CFV: SPE_CIV_Swetr_2_vest
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_zwart_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\swetr1_a_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -759,7 +759,7 @@ class SEP_I_AK_U_Swetr_vest_3_CFV: SPE_CIV_Swetr_3_vest
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_bruin_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\swetr1_e_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -781,7 +781,7 @@ class SEP_I_AK_U_Swetr_vest_4_CFV: SPE_CIV_Swetr_4_vest
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_bruin_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\swetr1_c_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -803,7 +803,7 @@ class SEP_I_AK_U_Swetr_vest_5_CFV: SPE_CIV_Swetr_5_vest
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\civ_woolie_zwart_co.paa",
 		"\WW2\SPE_Assets_t\Characters\Civilians_t\civilians\swetr1_b_co.paa",
 		"",
-		"\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\AK_Armband_co.paa",
 		""
 	};
 	modelSides[] = {6};
@@ -822,7 +822,7 @@ class SEP_I_AK_U_FieldUniform_Sumpf_CFV: SPE_GER_soldier_camo5_gaiter
 	uniformClass= "SEP_I_AK_U_FieldUniform_Sumpf";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_AK\SEP_I_AK_Characters\data\SEP_I_AK_U_FieldUniform_Sumpf_co.paa",
+		"\SEP\SEP_I_AK\SEP_I_AK_Characters\data\SEP_I_AK_U_FieldUniform_Sumpf_co.paa",
 		""
 	};
 	modelSides[] = {6};

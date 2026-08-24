@@ -7,7 +7,7 @@ class SEP_B_GER_DAK_Rflmn_K98 : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Rflmn_K98.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Rflmn_K98.jpg";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -38,7 +38,7 @@ class SEP_B_GER_DAK_Rflmn_Pith : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Rflmn_Pith.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Rflmn_Pith.jpg";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -69,7 +69,7 @@ class SEP_B_GER_DAK_Rflmn_Unr : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Rflmn_Unr.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Rflmn_Unr.jpg";
 
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -100,7 +100,7 @@ class SEP_B_GER_DAK_Driver : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Driver.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Driver.jpg";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -131,7 +131,7 @@ class SEP_B_GER_DAK_Driver_Lite : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Driver_Lite.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Driver_Lite.jpg";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -162,7 +162,7 @@ class SEP_B_GER_DAK_Gren : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Gren.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Gren.jpg";
 
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -193,7 +193,7 @@ class SEP_B_GER_DAK_MG_MG34 : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_MG_MG34.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_MG_MG34.jpg";
 
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -224,7 +224,7 @@ class SEP_B_GER_DAK_AMG : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_AMG.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_AMG.jpg";
 
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -255,7 +255,7 @@ class SEP_B_GER_DAK_MG_MG42 : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_MG_MG42.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_MG_MG42.jpg";
 
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -286,7 +286,7 @@ class SEP_B_GER_DAK_SL : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_SL.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_SL.jpg";
 
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -317,7 +317,7 @@ class SEP_B_GER_DAK_ASL : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_ASL.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_ASL.jpg";
 
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -348,7 +348,7 @@ class SEP_B_GER_DAK_Sniper : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Sniper.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Sniper.jpg";
 
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -379,7 +379,7 @@ class SEP_B_GER_DAK_Medic : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Medic.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Medic.jpg";
 
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -410,7 +410,7 @@ class SEP_B_GER_DAK_Sapper_Gefr : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Sapper_Gefr.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Sapper_Gefr.jpg";
 
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -441,7 +441,7 @@ class SEP_B_GER_DAK_Sapper : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Sapper.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Sapper.jpg";
 
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -472,7 +472,7 @@ class SEP_B_GER_DAK_Ofcr : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Ofcr.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Ofcr.jpg";
 
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -499,7 +499,7 @@ class SEP_B_GER_DAK_Radioman : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Radioman.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Radioman.jpg";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -530,7 +530,7 @@ class SEP_B_GER_DAK_Mortar_Gunner : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Mortar_Gunner.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Mortar_Gunner.jpg";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -561,7 +561,7 @@ class SEP_B_GER_DAK_Mortar_AGunner : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Mortar_AGunner.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Mortar_AGunner.jpg";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -592,7 +592,7 @@ class SEP_B_GER_DAK_Mortar_AmmoBearer : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory="EdSubcat_Personnel";		
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Mortar_AmmoBearer.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Mortar_AmmoBearer.jpg";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
     genericNames = "SPE_GermanMen";
@@ -625,7 +625,7 @@ class SEP_B_GER_DAK_GunCrew : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory = "SPE_EdSubcat_GER_GunCrew";	
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_GunCrew.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_GunCrew.jpg";
     icon = "iconManTankcrew";
 	
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
@@ -657,7 +657,7 @@ class SEP_B_GER_DAK_GunCrew_SquadLead : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory = "SPE_EdSubcat_GER_GunCrew";	
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_GunCrew_SquadLead.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_GunCrew_SquadLead.jpg";
     icon = "iconManOfficer";
 	
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
@@ -689,7 +689,7 @@ class SEP_B_GER_DAK_GunCrew_Lieutenant : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory = "SPE_EdSubcat_GER_GunCrew";	
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_GunCrew_Lieutenant.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_GunCrew_Lieutenant.jpg";
     icon = "iconManCommander";
 	
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
@@ -723,7 +723,7 @@ class SEP_B_GER_DAK_Flak_Gun_Crew : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory = "SPE_EdSubcat_GER_FlakGunCrew";	
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Flak_Gun_Crew.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Flak_Gun_Crew.jpg";
 	icon = "iconManTankcrew";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
@@ -755,7 +755,7 @@ class SEP_B_GER_DAK_Flak_Gun_SL : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory = "SPE_EdSubcat_GER_FlakGunCrew";	
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Flak_Gun_SL.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Flak_Gun_SL.jpg";
 	icon = "iconManOfficer";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
@@ -789,7 +789,7 @@ class SEP_B_GER_DAK_Tank_Crew : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory = "SPE_EdSubcat_GER_TankCrew";
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Tank_Crew.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Tank_Crew.jpg";
 	icon = "iconManTankcrew";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
@@ -820,7 +820,7 @@ class SEP_B_GER_DAK_Tank_SL : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory = "SPE_EdSubcat_GER_TankCrew";
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Tank_SL.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Tank_SL.jpg";
 	icon = "iconManTankcrew";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
@@ -851,7 +851,7 @@ class SEP_B_GER_DAK_Tank_Leut : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory = "SPE_EdSubcat_GER_TankCrew";
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Tank_Leut.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Tank_Leut.jpg";
 	icon = "iconManTankcrew";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
@@ -882,7 +882,7 @@ class SEP_B_GER_DAK_SPG_Crew : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory = "SPE_EdSubcat_GER_TankCrew";
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_SPG_Crew.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_SPG_Crew.jpg";
 	icon = "iconManTankcrew";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
@@ -913,7 +913,7 @@ class SEP_B_GER_DAK_SPG_SL : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory = "SPE_EdSubcat_GER_TankCrew";
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_SPG_SL.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_SPG_SL.jpg";
 	icon = "iconManTankcrew";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
@@ -944,7 +944,7 @@ class SEP_B_GER_DAK_SPG_Leut : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory = "SPE_EdSubcat_GER_TankCrew";
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_SPG_Leut.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_SPG_Leut.jpg";
 	icon = "iconManTankcrew";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};
@@ -977,7 +977,7 @@ class SEP_B_GER_DAK_Pilot : SEP_B_GER_Soldier_Base
     side = 1;
     faction = "SEP_B_GER_DAK_Units";
     editorSubcategory = "EdSubcat_Personnel";
-    editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Pilot.jpg";
+    editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_DAK_Pilot.jpg";
 	icon = "iconManPilot";
     
     identityTypes[] = {"SPE_LanguageGER","Head_EURO","SPE_GER_Glasses"};

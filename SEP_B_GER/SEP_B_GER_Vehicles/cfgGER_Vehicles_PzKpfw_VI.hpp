@@ -9,10 +9,10 @@ class SPE_PzKpfwVI_H1_base: SPE_Tank_base
 			author = "Jamie";
 			textures[] =
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_01_ambush_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_02_ambush_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_01_ambush_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_02_ambush_win_CO.paa",
 				"WW2\SPE_Assets_t\Vehicles\Tanks_3_t\PzKpfwVI\pz6_wheels_co.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_04_ambush_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_04_ambush_win_CO.paa",
 				"WW2\SPE_Assets_t\Vehicles\Tanks_3_t\PzKpfwVI\pz6_Tracks_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Tanks_3_t\PzKpfwVI\pz6_interiors_co.paa"
 			};
@@ -24,10 +24,10 @@ class SPE_PzKpfwVI_H1_base: SPE_Tank_base
 			author = "Jamie";
 			textures[] =
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_01_camo_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_02_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_01_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_02_camo_win_CO.paa",
 				"WW2\SPE_Assets_t\Vehicles\Tanks_3_t\PzKpfwVI\pz6_wheels_co.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_04_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_04_camo_win_CO.paa",
 				"WW2\SPE_Assets_t\Vehicles\Tanks_3_t\PzKpfwVI\pz6_Tracks_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Tanks_3_t\PzKpfwVI\pz6_interiors_co.paa"
 			};
@@ -43,7 +43,7 @@ class SEP_B_GER_DAK_PzKpfw_VI_H1 : SPE_PzKpfwVI_H1
 	scope = 1;
 	scopeCurator = 1;
 	displayName = "PzKpfw VI Ausf.H1 Tiger";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_PzKpfw_VI_H1.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_PzKpfw_VI_H1.jpg";
 	side = 1;
 	faction = "SEP_B_GER_DAK_Units";
 	crew = "SEP_B_GER_DAK_Tank_Crew";
@@ -100,16 +100,16 @@ class SEP_B_GER_WIN_PzKpfw_VI_H1 : SPE_PzKpfwVI_H1
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "PzKpfw VI Ausf.H1 Tiger";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_PzKpfw_VI_H1.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_PzKpfw_VI_H1.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	crew = "SEP_B_GER_WIN_Tank_Crew";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_01_ambush_win_CO.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_02_ambush_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_01_ambush_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_02_ambush_win_CO.paa",
 		"WW2\SPE_Assets_t\Vehicles\Tanks_3_t\PzKpfwVI\pz6_wheels_co.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_04_ambush_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_04_ambush_win_CO.paa",
 		"WW2\SPE_Assets_t\Vehicles\Tanks_3_t\PzKpfwVI\pz6_Tracks_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Tanks_3_t\PzKpfwVI\pz6_interiors_co.paa"
 	};
@@ -139,16 +139,16 @@ class SEP_B_GER_Sturm_WIN_PzKpfw_VI_H1 : SPE_PzKpfwVI_H1
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "PzKpfw VI Ausf.H1 Tiger";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_PzKpfw_VI_H1.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_PzKpfw_VI_H1.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Sturm_Winter_Units";
 	crew = "SEP_B_GER_Sturm_WIN_Tank_Crew";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_01_ambush_win_CO.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_02_ambush_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_01_ambush_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_02_ambush_win_CO.paa",
 		"WW2\SPE_Assets_t\Vehicles\Tanks_3_t\PzKpfwVI\pz6_wheels_co.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_04_ambush_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw6_04_ambush_win_CO.paa",
 		"WW2\SPE_Assets_t\Vehicles\Tanks_3_t\PzKpfwVI\pz6_Tracks_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Tanks_3_t\PzKpfwVI\pz6_interiors_co.paa"
 	};

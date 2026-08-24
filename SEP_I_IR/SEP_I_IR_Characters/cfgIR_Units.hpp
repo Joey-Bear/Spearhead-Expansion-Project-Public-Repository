@@ -12,7 +12,7 @@ class SEP_I_IR_Rflmn_K98 : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Rflmn_K98.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Rflmn_K98.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -45,7 +45,7 @@ class SEP_I_IR_Rflmn_MK3 : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Rflmn_MK3.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Rflmn_MK3.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -78,7 +78,7 @@ class SEP_I_IR_Rflmn_Sten : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Rflmn_Sten.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Rflmn_Sten.jpg";
 	icon = "iconManSMG";
 	role = "Assault";
 	
@@ -111,7 +111,7 @@ class SEP_I_IR_Rflmn_MP40 : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Rflmn_MP40.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Rflmn_MP40.jpg";
 	icon = "iconManSMG";
 	role = "Assault";
 	
@@ -144,7 +144,7 @@ class SEP_I_IR_Rflmn_Unr : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Rflmn_Unr.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Rflmn_Unr.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -177,7 +177,7 @@ class SEP_I_IR_Gren : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Gren.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Gren.jpg";
 	icon = "iconManGrenadier";
 	role = "Grenadier";
 
@@ -210,7 +210,7 @@ class SEP_I_IR_MG_MG34 : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_MG_MG34.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_MG_MG34.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -243,7 +243,7 @@ class SEP_I_IR_AMG : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_AMG.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_AMG.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -276,7 +276,7 @@ class SEP_I_IR_SL : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_SL.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_SL.jpg";
 	icon = "iconManOfficer";
 	role = "SquadLeader";
 
@@ -309,7 +309,7 @@ class SEP_I_IR_ASL: SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_ASL.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_ASL.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -342,7 +342,7 @@ class SEP_I_IR_Sniper : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Sniper.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Sniper.jpg";
 	icon = "iconManRecon";
 	role = "Marksman";
 
@@ -375,7 +375,7 @@ class SEP_I_IR_AT_PZ30 : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_AT_PZ30.jpg";   
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_AT_PZ30.jpg";   
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -408,7 +408,7 @@ class SEP_I_IR_AT_PZ60 : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_AT_PZ60.jpg";  
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_AT_PZ60.jpg";  
 	icon = "iconManAT";		
 	role = "MissileSpecialist";
 
@@ -441,7 +441,7 @@ class SEP_I_IR_Medic : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Medic.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Medic.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 
@@ -474,7 +474,7 @@ class SEP_I_IR_Sabo : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Sabo.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Sabo.jpg";
 	icon = "iconManExplosive";
 	role = "SpecialOperative";
 
@@ -507,7 +507,7 @@ class SEP_I_IR_Ofcr : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Ofcr.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Ofcr.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -537,7 +537,7 @@ class SEP_I_IR_Mortar_Gunner : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Mortar_Gunner.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Mortar_Gunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -570,7 +570,7 @@ class SEP_I_IR_Mortar_AGunner : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Mortar_AGunner.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Mortar_AGunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -603,7 +603,7 @@ class SEP_I_IR_Mortar_AmmoBearer : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Mortar_AmmoBearer.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Mortar_AmmoBearer.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -636,7 +636,7 @@ class SEP_I_IR_PIAT_Gunner : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_PIAT_Gunner.jpg";  
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_PIAT_Gunner.jpg";  
 	icon = "iconManAT";		
 	role = "MissileSpecialist";
 
@@ -669,7 +669,7 @@ class SEP_I_IR_PIAT_Asst : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_PIAT_Asst.jpg";  
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_PIAT_Asst.jpg";  
 	icon = "iconManAT";		
 	role = "MissileSpecialist";
 
@@ -702,7 +702,7 @@ class SEP_I_IR_Bren_Gunner : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Bren_Gunner.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Bren_Gunner.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -735,7 +735,7 @@ class SEP_I_IR_Bren_Asst : SEP_I_IR_Soldier_Base
 	side = 2;
 	faction = "SEP_I_IR_Units";
 	editorSubcategory = "EdSubcat_Personnel";		
-	editorPreview="\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Bren_Asst.jpg";
+	editorPreview="\SEP\SEP_I_IR\SEP_I_IR_Characters\data\ui\editorPreviews\SEP_I_IR_Bren_Asst.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 

@@ -54,7 +54,19 @@ class CfgPatches
 			"_xx_SEP_I_IHTC_B_Explosives",
 			"_xx_SEP_I_IHTC_B_Engineer"
 		};
-		requiredAddons[]={};
+		requiredAddons[]=
+		{
+			"A3_Characters_F",
+			"A3_Characters_F_Heads",
+			"A3_Characters_F_Mark",
+			"A3_Characters_F_Tacops",
+			"A3_Characters_F_Orange_Facewear",
+			"A3_Characters_F_Enoch_Facewear",
+			"A3_Characters_F_Tank_Uniforms",
+			"A3_Weapons_F",
+			"A3_Weapons_F_Items",
+			"WW2_SPE_Core_c_Core_c"
+		};
 	};
 };
 

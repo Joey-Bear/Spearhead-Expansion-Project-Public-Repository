@@ -8,14 +8,14 @@ class SEP_I_FEB_CCKW_353 : SPE_CCKW_353
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353";
 	side = 2;
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353.jpg";
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Driver";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};
 	class TextureSources
@@ -28,9 +28,9 @@ class SEP_I_FEB_CCKW_353 : SPE_CCKW_353
 			displayname="Força Expedicionária Brasileira";
 			textures[]=
 			{
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -46,14 +46,14 @@ class SEP_I_FEB_CCKW_353_Open : SPE_CCKW_353_Open
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353 (Open)";
 	side = 2;
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353_Open.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353_Open.jpg";
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Driver";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};
 	class TextureSources
@@ -66,9 +66,9 @@ class SEP_I_FEB_CCKW_353_Open : SPE_CCKW_353_Open
 			displayname="Força Expedicionária Brasileira";
 			textures[]=
 			{
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -84,14 +84,14 @@ class SEP_I_FEB_CCKW_353_M2 : SPE_CCKW_353_M2
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353 (M2)";
 	side = 2;
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353_M2.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353_M2.jpg";
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Driver";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};
 	class TextureSources
@@ -104,9 +104,9 @@ class SEP_I_FEB_CCKW_353_M2 : SPE_CCKW_353_M2
 			displayname="Força Expedicionária Brasileira";
 			textures[]=
 			{
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -129,12 +129,12 @@ class SEP_I_FEB_CCKW_353_Ambulance : SPE_CCKW_353_Ambulance
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353 (Ambulance)";
 	side = 2;
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353_Ambulance.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353_Ambulance.jpg";
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Driver";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW_Decals\CCKW_1stArmy9MedAmb_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
@@ -149,7 +149,7 @@ class SEP_I_FEB_CCKW_353_Ambulance : SPE_CCKW_353_Ambulance
 			displayname="Força Expedicionária Brasileira";
 			textures[]=
 			{
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW_Decals\CCKW_1stArmy9MedAmb_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
@@ -168,14 +168,14 @@ class SEP_I_FEB_CCKW_353_Ammo : SPE_CCKW_353_Ammo
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353 (Ammo)";
 	side = 2;
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353_Ammo.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353_Ammo.jpg";
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Driver";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};
 	class TextureSources
@@ -188,9 +188,9 @@ class SEP_I_FEB_CCKW_353_Ammo : SPE_CCKW_353_Ammo
 			displayname="Força Expedicionária Brasileira";
 			textures[]=
 			{
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -207,14 +207,14 @@ class SEP_I_FEB_CCKW_353_Fuel : SPE_CCKW_353_Fuel
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353 (Fuel)";
 	side = 2;
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353_Fuel.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353_Fuel.jpg";
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Driver";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_Fuel_co.paa",
 		"\a3\data_f\clear_empty.paa"
 	};
@@ -228,9 +228,9 @@ class SEP_I_FEB_CCKW_353_Fuel : SPE_CCKW_353_Fuel
 			displayname="Força Expedicionária Brasileira";
 			textures[]=
 			{
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_Fuel_co.paa",
 				"\a3\data_f\clear_empty.paa"
 			};
@@ -248,14 +248,14 @@ class SEP_I_FEB_CCKW_353_Repair : SPE_CCKW_353_Repair
 	scopeCurator = 2;
 	displayName = "G-508 CCKW 353 (Repair)";
 	side = 2;
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353_Repair.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_CCKW_353_Repair.jpg";
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Driver";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
 		"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_Repair_co.paa",
 		"\a3\data_f\clear_empty.paa"
 	};
@@ -269,9 +269,9 @@ class SEP_I_FEB_CCKW_353_Repair : SPE_CCKW_353_Repair
 			displayname="Força Expedicionária Brasileira";
 			textures[]=
 			{
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_ext01_co.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_2_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_CCKW_Decals_ca.paa",//Decals
 				"\WW2\SPE_Assets_t\Vehicles\Trucks_U1_t\CCKW\CCKW_Repair_co.paa",
 				"\a3\data_f\clear_empty.paa"
 			};

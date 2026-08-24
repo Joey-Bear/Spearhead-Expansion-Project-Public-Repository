@@ -12,7 +12,7 @@ class SEP_B_GER_Sturm_French_Rflmn_STG : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_STG.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_STG.jpg";
 	icon = "iconManSMG";
 	role = "Assault";
 	
@@ -45,7 +45,7 @@ class SEP_B_GER_Sturm_French_Rflmn_MP40 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_MP40.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_MP40.jpg";
 	icon = "iconManSMG";
 	role = "Rifleman";
 	
@@ -78,7 +78,7 @@ class SEP_B_GER_Sturm_French_Rflmn_G43 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_G43.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_G43.jpg";
 	icon = "iconManSemiauto";
 	role = "Rifleman";
 	
@@ -111,7 +111,7 @@ class SEP_B_GER_Sturm_French_Rflmn_K98 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_K98.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_K98.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -144,7 +144,7 @@ class SEP_B_GER_Sturm_French_Rflmn_Flame : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_Flame.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_Flame.jpg";
 	icon = "iconMan";
 	role = "Flamethrower";
 	
@@ -177,7 +177,7 @@ class SEP_B_GER_Sturm_French_Rflmn_Lite : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_Lite.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_Lite.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -210,7 +210,7 @@ class SEP_B_GER_Sturm_French_Rflmn_Unr : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_Unr.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_Unr.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -243,7 +243,7 @@ class SEP_B_GER_Sturm_French_Gren : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Gren.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Gren.jpg";
 	icon = "iconManGrenadier";
 	role = "Grenadier";
 
@@ -276,7 +276,7 @@ class SEP_B_GER_Sturm_French_MG_MG34 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_MG_MG34.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_MG_MG34.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -309,7 +309,7 @@ class SEP_B_GER_Sturm_French_AMG : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AMG.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AMG.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -342,7 +342,7 @@ class SEP_B_GER_Sturm_French_MG_MG42 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_MG_MG42.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_MG_MG42.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -375,7 +375,7 @@ class SEP_B_GER_Sturm_French_SL : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_SL.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_SL.jpg";
 	icon = "iconManOfficer";
 	role = "SquadLeader";
 
@@ -408,7 +408,7 @@ class SEP_B_GER_Sturm_French_AT_Soldier_SL : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AT_Soldier_SL.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AT_Soldier_SL.jpg";
 	icon = "iconManOfficer";
 	role = "SquadLeader";
 
@@ -441,7 +441,7 @@ class SEP_B_GER_Sturm_French_ASL : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_ASL.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_ASL.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 
@@ -474,7 +474,7 @@ class SEP_B_GER_Sturm_French_Sniper : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Sniper.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Sniper.jpg";
 	icon = "iconManRecon";
 	role = "Marksman";
 
@@ -507,7 +507,7 @@ class SEP_B_GER_Sturm_French_AT_Grenadier : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AT_Grenadier.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AT_Grenadier.jpg";
 	icon = "iconManAT";
 	role = "MissileSpecialist";	
 	
@@ -540,7 +540,7 @@ class SEP_B_GER_Sturm_French_AT_PZ30 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AT_PZ30.jpg";   
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AT_PZ30.jpg";   
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -573,7 +573,7 @@ class SEP_B_GER_Sturm_French_AT_PZ60 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AT_PZ60.jpg";   
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AT_PZ60.jpg";   
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -606,7 +606,7 @@ class SEP_B_GER_Sturm_French_LAT_Klein_Rifleman : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_LAT_Klein_Rifleman.jpg";   
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_LAT_Klein_Rifleman.jpg";   
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -639,7 +639,7 @@ class SEP_B_GER_Sturm_French_AT_Soldier : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AT_Soldier.jpg";   
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AT_Soldier.jpg";   
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 
@@ -672,7 +672,7 @@ class SEP_B_GER_Sturm_French_AT_Soldier_Assistant : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AT_Soldier_Assistant.jpg";   
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_AT_Soldier_Assistant.jpg";   
 	icon = "iconManRifleman";
 	role = "Rifleman";
 
@@ -705,7 +705,7 @@ class SEP_B_GER_Sturm_French_Medic : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Medic.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Medic.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 
@@ -738,7 +738,7 @@ class SEP_B_GER_Sturm_French_Sapper_Gefr : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Sapper_Gefr.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Sapper_Gefr.jpg";
 	icon = "iconManExplosive";
 	role = "Sapper";
 
@@ -771,7 +771,7 @@ class SEP_B_GER_Sturm_French_Sapper : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Sapper.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Sapper.jpg";
 	icon = "iconManExplosive";
 	role = "Sapper";
 
@@ -804,7 +804,7 @@ class SEP_B_GER_Sturm_French_Ofcr : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Ofcr.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Ofcr.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 
@@ -832,7 +832,7 @@ class SEP_B_GER_Sturm_French_Radioman : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_French";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Radioman.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Radioman.jpg";
 	icon = "iconManRTO";
 	role = "RadioOperator";
 	
@@ -870,7 +870,7 @@ class SEP_B_GER_Sturm_Early_Rflmn_K98 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Rflmn_K98.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Rflmn_K98.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -903,7 +903,7 @@ class SEP_B_GER_Sturm_Early_Rflmn_Lite : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Rflmn_Lite.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Rflmn_Lite.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -936,7 +936,7 @@ class SEP_B_GER_Sturm_Early_Rflmn_G98 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Rflmn_G98.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Rflmn_G98.jpg";
 	icon = "iconManSemiauto";
 	role = "Rifleman";
 	
@@ -969,7 +969,7 @@ class SEP_B_GER_Sturm_Early_Rflmn_Unr : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Rflmn_Unr.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Rflmn_Unr.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -1002,7 +1002,7 @@ class SEP_B_GER_Sturm_Early_AmmoBearer : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_AmmoBearer.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_AmmoBearer.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 	
@@ -1035,7 +1035,7 @@ class SEP_B_GER_Sturm_Early_AmmoBearer_HMG : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_AmmoBearer_HMG.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_AmmoBearer_HMG.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 	
@@ -1068,7 +1068,7 @@ class SEP_B_GER_Sturm_Early_ASL : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_ASL.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_ASL.jpg";
 	icon = "iconManLeader";
 	role = "SquadLeader";
 	
@@ -1101,7 +1101,7 @@ class SEP_B_GER_Sturm_Early_Mortar_AGunner : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Mortar_AGunner.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Mortar_AGunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 	
@@ -1134,7 +1134,7 @@ class SEP_B_GER_Sturm_Early_AHMGunner : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_AHMGunner.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_AHMGunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 	
@@ -1167,7 +1167,7 @@ class SEP_B_GER_Sturm_Early_AT_Grenadier : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_AT_Grenadier.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_AT_Grenadier.jpg";
 	icon = "iconManAT";
 	role = "MissileSpecialist";
 	
@@ -1200,7 +1200,7 @@ class SEP_B_GER_Sturm_Early_Hauptsturmfuhrer : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Hauptsturmfuhrer.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Hauptsturmfuhrer.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 	
@@ -1233,7 +1233,7 @@ class SEP_B_GER_Sturm_Early_Standartenfuhrer : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Standartenfuhrer.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Standartenfuhrer.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 	
@@ -1266,7 +1266,7 @@ class SEP_B_GER_Sturm_Early_Driver : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Driver.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Driver.jpg";
 	icon = "iconManRifleman";
 	role = "Crewman";
 	
@@ -1299,7 +1299,7 @@ class SEP_B_GER_Sturm_Early_Driver_Lite : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Driver_Lite.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Driver_Lite.jpg";
 	icon = "iconManRifleman";
 	role = "Crewman";
 	
@@ -1332,7 +1332,7 @@ class SEP_B_GER_Sturm_Early_Obersturmfuhrer : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Obersturmfuhrer.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Obersturmfuhrer.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 	
@@ -1365,7 +1365,7 @@ class SEP_B_GER_Sturm_Early_Flamethrower_Operator : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Flamethrower_Operator.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Flamethrower_Operator.jpg";
 	icon = "iconMan";
 	role = "Flamethrower";
 	
@@ -1398,7 +1398,7 @@ class SEP_B_GER_Sturm_Early_Ober_Grenadier : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Ober_Grenadier.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Ober_Grenadier.jpg";
 	icon = "iconManGrenadier";
 	role = "Grenadier";
 	
@@ -1431,7 +1431,7 @@ class SEP_B_GER_Sturm_Early_Mortar_Gunner : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Mortar_Gunner.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Mortar_Gunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 	
@@ -1464,7 +1464,7 @@ class SEP_B_GER_Sturm_Early_HMGunner : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_HMGunner.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_HMGunner.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 	
@@ -1497,7 +1497,7 @@ class SEP_B_GER_Sturm_Early_Halftrack_Driver : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Halftrack_Driver.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Halftrack_Driver.jpg";
 	icon = "iconManSMG";
 	role = "Crewman";
 	
@@ -1530,7 +1530,7 @@ class SEP_B_GER_Sturm_Early_AMGunner : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_AMGunner.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_AMGunner.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 	
@@ -1563,7 +1563,7 @@ class SEP_B_GER_Sturm_Early_MGunner : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_MGunner.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_MGunner.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 	
@@ -1596,7 +1596,7 @@ class SEP_B_GER_Sturm_Early_Medic : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Medic.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Medic.jpg";
 	icon = "iconManMedic";
 	role = "CombatLifeSaver";
 	
@@ -1629,7 +1629,7 @@ class SEP_B_GER_Sturm_Early_Radioman : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Radioman.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Radioman.jpg";
 	icon = "iconManRTO";
 	role = "RadioOperator";
 	
@@ -1662,7 +1662,7 @@ class SEP_B_GER_Sturm_Early_Sapper : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Sapper.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Sapper.jpg";
 	icon = "iconManExplosive";
 	role = "Sapper";
 	
@@ -1695,7 +1695,7 @@ class SEP_B_GER_Sturm_Early_Sapper_Gefr : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Sapper_Gefr.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Sapper_Gefr.jpg";
 	icon = "iconManExplosive";
 	role = "Sapper";
 	
@@ -1728,7 +1728,7 @@ class SEP_B_GER_Sturm_Early_Untersturmfuhrer : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Untersturmfuhrer.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Untersturmfuhrer.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 	
@@ -1761,7 +1761,7 @@ class SEP_B_GER_Sturm_Early_Sentry_K98k : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Sentry_K98k.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Sentry_K98k.jpg";
 	icon = "iconManRifleman";
 	role = "Rifleman";
 	
@@ -1794,7 +1794,7 @@ class SEP_B_GER_Sturm_Early_Sentry_MP35 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Sentry_MP35.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Sentry_MP35.jpg";
 	icon = "iconManSMG";
 	role = "Rifleman";
 	
@@ -1827,7 +1827,7 @@ class SEP_B_GER_Sturm_Early_Sentry_MP40 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Sentry_MP40.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Sentry_MP40.jpg";
 	icon = "iconManSMG";
 	role = "Rifleman";
 	
@@ -1860,7 +1860,7 @@ class SEP_B_GER_Sturm_Early_Sniper : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Sniper.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Sniper.jpg";
 	icon = "iconManRecon";
 	role = "Marksman";
 	
@@ -1893,7 +1893,7 @@ class SEP_B_GER_Sturm_Early_SL : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory = "SEP_B_GER_Units_Infantry_Sturm_Early";	
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_SL.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_SL.jpg";
 	icon = "iconManOfficer";
 	role = "SquadLeader";
 	
@@ -1927,7 +1927,7 @@ class SEP_B_GER_Sturm_Early_Rflmn_MP35 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_Early";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Rflmn_K98.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Rflmn_K98.jpg";
 	icon = "iconManSMG";
 	role = "Rifleman";
 	
@@ -1960,7 +1960,7 @@ class SEP_B_GER_Sturm_Early_Rflmn_Flame : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_Early";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Rflmn_Flame.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_STG.jpg";
 	icon = "iconMan";
 	role = "Flamethrower";
 	
@@ -1993,7 +1993,7 @@ class SEP_B_GER_Sturm_Early_Gren : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_Early";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Gren.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_STG.jpg";
 	icon = "iconManGrenadier";
 	role = "Grenadier";
 
@@ -2026,7 +2026,7 @@ class SEP_B_GER_Sturm_Early_MG_MG34 : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_Early";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_MG_MG34.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_STG.jpg";
 	icon = "iconManMG";
 	role = "MachineGunner";
 
@@ -2059,7 +2059,7 @@ class SEP_B_GER_Sturm_Early_AMG : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_Early";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_AMG.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_STG.jpg";
 	icon = "iconManRifleman";
 	role = "Assistant";
 
@@ -2092,7 +2092,7 @@ class SEP_B_GER_Sturm_Early_Ofcr : SEP_B_GER_Sturm_Soldier_Base
 	side = 1;
 	faction = "SPE_STURM";
 	editorSubcategory="SEP_B_GER_Units_Infantry_Sturm_Early";		
-	editorPreview="\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_Early_Ofcr.jpg";
+	editorPreview="SEP\SEP_B_GER\SEP_B_GER_Characters\data\editorPreviews\SEP_B_GER_Sturm_French_Rflmn_STG.jpg";
 	icon = "iconManCommander";
 	role = "SquadLeader";
 

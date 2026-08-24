@@ -7,10 +7,10 @@ class SEP_B_GER_H_Stahlhelm_DAK : H_SPE_GER_Helmet
     weaponPoolAvailable = 1;
     displayName = "GER DAK Stahlhelm 1942";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_DAK_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_DAK_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_DAK_co.paa"
     };
 };
 
@@ -21,10 +21,10 @@ class SEP_B_GER_H_Stahlhelm_M35_DAK : H_SPE_GER_Helmet_M35
     weaponPoolAvailable = 1;
     displayName = "GER DAK Stahlhelm 1935";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_DAK_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_DAK_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_DAK_co.paa"
     };
 };
 
@@ -35,10 +35,10 @@ class SEP_B_GER_H_Stahlhelm_M35_Glasses_DAK : H_SPE_GER_Helmet_M35_Glasses
     weaponPoolAvailable = 1;
     displayName = "GER DAK Stahlhelm 1935 (Goggles)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_Glasses_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_Glasses_DAK_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_DAK_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_DAK_co.paa",
         "WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\German_Pilot_co.paa"
     };
 };
@@ -50,10 +50,10 @@ class SEP_B_GER_H_Stahlhelm_M35_ns_DAK : H_SPE_GER_Helmet_M35_ns
     weaponPoolAvailable = 1;
     displayName = "GER DAK Stahlhelm 1935 (Folded)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_ns_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_ns_DAK_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_DAK_co.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_DAK_co.paa"
     };
 };
 class SEP_B_GER_H_Stahlhelm_M35_Glasses_ns_DAK : H_SPE_GER_Helmet_M35_Glasses_ns
@@ -63,10 +63,10 @@ class SEP_B_GER_H_Stahlhelm_M35_Glasses_ns_DAK : H_SPE_GER_Helmet_M35_Glasses_ns
     weaponPoolAvailable = 1;
     displayName = "GER DAK Stahlhelm 1935 (Goggles, Folded)";
     descriptionShort = "Armor Level I";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_Glasses_ns_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_Stahlhelm_M35_Glasses_ns_DAK_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_DAK_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_Stahlhelm_M35_DAK_co.paa",
         "WW2\SPE_Assets_t\Characters\Germans_t\GER_Wehrmacht\German_Pilot_co.paa"
     };
 };
@@ -75,16 +75,16 @@ class SEP_B_GER_H_PithHelmet: H_HelmetB
 {
     author = "OokamiJamie";
     displayName = "GER DAK Pith Helmet";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_PithHelmet_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_PithHelmet_ca.paa";
     scope = 2;
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_PithHelmet.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_PithHelmet.p3d";
     hiddenSelections[] = 
     {
         "camo"
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_PithHelmet_CO.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_PithHelmet_CO.paa"
     };
     class ItemInfo: ItemInfo
     {
@@ -95,9 +95,9 @@ class SEP_B_GER_H_PithHelmet: H_HelmetB
         };
         hiddenSelectionsTextures[] = 
         {
-            "\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_PithHelmet_CO.paa"
+            "SEP\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_PithHelmet_CO.paa"
         };
-        uniformModel = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_PithHelmet.p3d";
+        uniformModel = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_PithHelmet.p3d";
         class HitpointsProtectionInfo
         {
             class Head
@@ -114,11 +114,11 @@ class SEP_B_GER_H_PithHelmet_oli: SEP_B_GER_H_PithHelmet
 {
     author = "OokamiJamie";
     displayName = "GER DAK Pith Helmet (Olive)";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_PithHelmet_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_PithHelmet_ca.paa";
     scope = 2;
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_PithHelmet_oli_CO.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_PithHelmet_oli_CO.paa"
     };
 };
 
@@ -126,16 +126,16 @@ class SEP_B_GER_H_PithHelmet_ns: H_HelmetB
 {
     author = "OokamiJamie";
     displayName = "GER DAK Pith Helmet (Folded)";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_PithHelmet_ns_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_PithHelmet_ns_ca.paa";
     scope = 2;
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_PithHelmet_ns.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_PithHelmet_ns.p3d";
     hiddenSelections[] = 
     {
         "camo"
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_PithHelmet_CO.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_PithHelmet_CO.paa"
     };
     class ItemInfo: ItemInfo
     {
@@ -146,9 +146,9 @@ class SEP_B_GER_H_PithHelmet_ns: H_HelmetB
         };
         hiddenSelectionsTextures[] = 
         {
-            "\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_PithHelmet_CO.paa"
+            "SEP\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_PithHelmet_CO.paa"
         };
-        uniformModel = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_PithHelmet_ns.p3d";
+        uniformModel = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_H_PithHelmet_ns.p3d";
         class HitpointsProtectionInfo
         {
             class Head
@@ -165,11 +165,11 @@ class SEP_B_GER_H_PithHelmet_ns_oli: SEP_B_GER_H_PithHelmet_ns
 {
     author = "OokamiJamie";
     displayName = "GER DAK Pith Helmet (Folded, Olive)";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_PithHelmet_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_PithHelmet_ca.paa";
     scope = 2;
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_PithHelmet_oli_CO.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\Data\SEP_B_GER_H_PithHelmet_oli_CO.paa"
     };
 };
 
@@ -180,11 +180,11 @@ class SEP_B_GER_H_FieldCap_DAK : H_SPE_GER_Cap
     weaponPoolAvailable = 1;
     displayName = "GER DAK Field Cap 1943";
     descriptionShort = "No Armor";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FieldCap_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FieldCap_DAK_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_FieldCap_DAK_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_FieldCap_Decal_ca.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_FieldCap_DAK_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_FieldCap_Decal_ca.paa"
     };
 };
 
@@ -195,11 +195,11 @@ class SEP_B_GER_H_FieldCap_DAK_alt : H_SPE_GER_Cap
     weaponPoolAvailable = 1;
     displayName = "GER DAK Field Cap 1943, Sand";
     descriptionShort = "No Armor";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FieldCap_DAK_alt_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_FieldCap_DAK_alt_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_FieldCap_DAK_alt_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_FieldCap_Decal_ca.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_FieldCap_DAK_alt_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_FieldCap_Decal_ca.paa"
     };
 };
 
@@ -210,11 +210,11 @@ class SEP_B_GER_H_SideCap_DAK : H_SPE_GER_M38
     weaponPoolAvailable = 1;
     displayName = "GER DAK Side Cap";
     descriptionShort = "No Armor";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_SideCap_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_SideCap_DAK_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_SideCap_DAK_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SideCap_Decal_ca.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_SideCap_DAK_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SideCap_Decal_ca.paa"
     };
 };
 
@@ -225,11 +225,11 @@ class SEP_B_GER_H_SideCap_2_DAK : H_SPE_GER_M38_2
     weaponPoolAvailable = 1;
     displayName = "GER DAK Side Cap (Tilt)";
     descriptionShort = "No Armor";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_SideCap_2_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_SideCap_2_DAK_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_SideCap_DAK_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SideCap_Decal_ca.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_SideCap_DAK_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SideCap_Decal_ca.paa"
     };
 };
 
@@ -240,11 +240,11 @@ class SEP_B_GER_H_SideCap_DAK_alt : H_SPE_GER_M38
     weaponPoolAvailable = 1;
     displayName = "GER DAK Side Cap, Sand";
     descriptionShort = "No Armor";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_SideCap_DAK_alt_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_SideCap_DAK_alt_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_SideCap_DAK_alt_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SideCap_Decal_ca.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_SideCap_DAK_alt_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SideCap_Decal_ca.paa"
     };
 };
 
@@ -255,11 +255,11 @@ class SEP_B_GER_H_SideCap_2_DAK_alt : H_SPE_GER_M38_2
     weaponPoolAvailable = 1;
     displayName = "GER DAK Side Cap, Sand (Tilt)";
     descriptionShort = "No Armor";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_SideCap_2_DAK_alt_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_SideCap_2_DAK_alt_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_SideCap_DAK_alt_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SideCap_Decal_ca.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_SideCap_DAK_alt_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_SideCap_Decal_ca.paa"
     };
 };
 
@@ -270,11 +270,11 @@ class SEP_B_GER_H_TankerFieldCap_DAK : H_SPE_GER_TankPrivateCap
     weaponPoolAvailable = 1;
     displayName = "GER DAK Field Cap 1943 (Tanker, HP Down)";
     descriptionShort = "No Armor";
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_TankerFieldCap_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_H_TankerFieldCap_DAK_ca.paa";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_FieldCap_DAK_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_FieldCap_Decal_ca.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_H_FieldCap_DAK_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_DAK_FieldCap_Decal_ca.paa"
     };
 };
 
@@ -288,7 +288,7 @@ class SEP_B_GER_U_FieldUniform_DAK : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -307,7 +307,7 @@ class SEP_B_GER_U_FieldUniform_DAK_Rolled : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_Rolled_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_Rolled_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -326,7 +326,7 @@ class SEP_B_GER_U_FieldUniform_DAK_Shorts : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_Shorts_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_Shorts_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -345,7 +345,7 @@ class SEP_B_GER_U_FieldUniform_DAK_alt : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_alt_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_alt_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -364,7 +364,7 @@ class SEP_B_GER_U_FieldUniform_DAK_Rolled_alt : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_Rolled_alt_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_Rolled_alt_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -383,7 +383,7 @@ class SEP_B_GER_U_FieldUniform_DAK_Rolled_alt : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_reed_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_reed_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -402,7 +402,7 @@ class SEP_B_GER_U_FieldUniform_DAK_Rolled_reed : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_Rolled_reed_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_Rolled_reed_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -421,7 +421,7 @@ class SEP_B_GER_U_MixedUniform_DAK : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_MixedUniform_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_MixedUniform_DAK_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -440,7 +440,7 @@ class SEP_B_GER_U_MixedUniform_DAK_Shorts : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_MixedUniform_DAK_Shorts_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_MixedUniform_DAK_Shorts_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -459,7 +459,7 @@ class SEP_B_GER_U_MixedUniform_DAK_Rolled : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_MixedUniform_DAK_Rolled_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_MixedUniform_DAK_Rolled_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -478,7 +478,7 @@ class SEP_B_GER_U_MixedUniform_DAK_NCO : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_MixedUniform_DAK_NCO_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_MixedUniform_DAK_NCO_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -497,7 +497,7 @@ class SEP_B_GER_U_ShortUniform_DAK : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -516,7 +516,7 @@ class SEP_B_GER_U_ShortUniform_DAK_alt : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_alt_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_alt_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -535,7 +535,7 @@ class SEP_B_GER_U_ShortUniform_DAK_mix_01 : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_mix_01_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_mix_01_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -554,7 +554,7 @@ class SEP_B_GER_U_ShortUniform_DAK_Rolled : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_Rolled_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_Rolled_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -573,7 +573,7 @@ class SEP_B_GER_U_ShortUniform_DAK_Rolled_alt : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_Rolled_alt_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_Rolled_alt_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -592,7 +592,7 @@ class SEP_B_GER_U_ShortUniform_DAK_Rolled_NCO : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_Rolled_NCO_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_ShortUniform_DAK_Rolled_NCO_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -611,7 +611,7 @@ class SEP_B_GER_U_Officer_DAK : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Officer_DAK_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Officer_DAK_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -630,7 +630,7 @@ class SEP_B_GER_U_FieldUniform_DAK_ART : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_ART_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_ART_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -649,7 +649,7 @@ class SEP_B_GER_U_FieldUniform_DAK_ART_NCO : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_ART_NCO_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_FieldUniform_DAK_ART_NCO_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";
@@ -668,7 +668,7 @@ class SEP_B_GER_U_Officer_DAK_Art : Uniform_Base
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {"camo"};
 	hiddenSelectionsTextures[] = {"\WW2\SPE_Assets_t\Characters\Germans_t\suitpacks\suitpack_de_feldbluse_co.paa"};
-    picture = "\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Officer_DAK_Art_ca.paa";
+    picture = "\SEP\SEP_B_GER\SEP_B_GER_Characters\data\icons\SEP_B_GER_U_Officer_DAK_Art_ca.paa";
     class ItemInfo: UniformItem
     {
         uniformModel= "-";

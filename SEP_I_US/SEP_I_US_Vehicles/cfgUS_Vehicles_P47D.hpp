@@ -6,7 +6,7 @@ class SEP_I_US_WIN_P47D: SPE_P47
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "P-47D Thunderbolt";
-	editorPreview = "SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_P47D.jpg";
+	editorPreview = "SEP\SEP_I_US\SEP_I_US_Vehicles\data\editorPreviews\SEP_I_US_WIN_P47D.jpg";
 	side = 2;
 	faction = "SEP_I_US_Winter_Units";
 	crew = "SEP_I_US_WIN_Pilot";

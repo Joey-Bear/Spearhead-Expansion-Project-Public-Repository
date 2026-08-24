@@ -11,9 +11,9 @@ class SPE_PzKpfwIV_G_base: SPE_Tank_base
 			displayname="Dunkelgelb (Winter)";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_dunkel_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_dunkel_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_dunkel_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_dunkel_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_dunkel_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_dunkel_win_CO.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Tanks_t\PzKpfwIII\Pz3_Cupola_gelb_co.paa"
 			};
 		};
@@ -25,9 +25,9 @@ class SPE_PzKpfwIV_G_base: SPE_Tank_base
 			displayname="Panzer Grey (Winter)";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_pzgry_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_pzgry_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_pzgry_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_pzgry_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_pzgry_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_pzgry_win_CO.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Tanks_t\PzKpfwIII\Pz3_Cupola_gelb_co.paa"
 			};
 		};
@@ -39,9 +39,9 @@ class SPE_PzKpfwIV_G_base: SPE_Tank_base
 			displayname="Panzer Grey";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_pzgry_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_pzgry_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_pzgry_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_pzgry_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_pzgry_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_pzgry_CO.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Tanks_t\PzKpfwIII\Pz3_Cupola_gelb_co.paa"
 			};
 		};
@@ -53,9 +53,9 @@ class SPE_PzKpfwIV_G_base: SPE_Tank_base
 			displayname="Ambush Dot";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_ambush_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_ambush_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_ambush_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_ambush_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_ambush_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_ambush_CO.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Tanks_t\PzKpfwIII\Pz3_Cupola_gelb_co.paa"
 			};
 		};
@@ -67,9 +67,9 @@ class SPE_PzKpfwIV_G_base: SPE_Tank_base
 			displayname="Ambush Dot (Winter)";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_ambush_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_ambush_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_ambush_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_ambush_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_ambush_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_ambush_win_CO.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Tanks_t\PzKpfwIII\Pz3_Cupola_gelb_co.paa"
 			};
 		};
@@ -81,9 +81,9 @@ class SPE_PzKpfwIV_G_base: SPE_Tank_base
 			displayname="Dunkelgelb (Camo 01, Winter)";
 			textures[]=
 			{
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_camo_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_camo_win_CO.paa",
-				"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_camo_win_CO.paa",
+				"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_camo_win_CO.paa",
 				"\WW2\SPE_Assets_t\Vehicles\Tanks_t\PzKpfwIII\Pz3_Cupola_gelb_co.paa"
 			};
 		};
@@ -98,7 +98,7 @@ class SEP_B_GER_DAK_PzKpfw_IV_G : SPE_PzKpfwIV_G
 	scope = 1;
 	scopeCurator = 1;
 	displayName = "PzKpfw IV Ausf.G";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_PzKpfw_IV_G.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_DAK_PzKpfw_IV_G.jpg";
 	side = 1;
 	faction = "SEP_B_GER_DAK_Units";
 	crew = "SEP_B_GER_DAK_Tank_Crew";
@@ -163,15 +163,15 @@ class SEP_B_GER_WIN_PzKpfw_IV_G : SPE_PzKpfwIV_G
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "PzKpfw IV Ausf.G";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_PzKpfw_IV_G.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_PzKpfw_IV_G.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Winter_Units";
 	crew = "SEP_B_GER_WIN_Tank_Crew";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_camo_win_CO.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_camo_win_CO.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_camo_win_CO.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Tanks_t\PzKpfwIII\Pz3_Cupola_gelb_co.paa"
 	};
 	animationList[] = 
@@ -212,15 +212,15 @@ class SEP_B_GER_Sturm_WIN_PzKpfw_IV_G : SPE_PzKpfwIV_G
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "PzKpfw IV Ausf.G";
-	editorPreview = "\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_PzKpfw_IV_G.jpg";
+	editorPreview = "\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\editorPreviews\SEP_B_GER_WIN_PzKpfw_IV_G.jpg";
 	side = 1;
 	faction = "SEP_B_GER_Sturm_Winter_Units";
 	crew = "SEP_B_GER_Sturm_WIN_Tank_Crew";
 	hiddenSelectionsTextures[] = 
 	{
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_camo_win_CO.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_camo_win_CO.paa",
-		"\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_01_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_02_camo_win_CO.paa",
+		"\SEP\SEP_B_GER\SEP_B_GER_Vehicles\data\SEP_B_GER_PzKpfw4_03_camo_win_CO.paa",
 		"\WW2\SPE_Assets_t\Vehicles\Tanks_t\PzKpfwIII\Pz3_Cupola_gelb_co.paa"
 	};
 	animationList[] = 

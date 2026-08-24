@@ -8,7 +8,7 @@ class SEP_I_FEB_G503_MB : SPE_G503_MB_Unarmed_base
 	scopeCurator = 2;
 	displayName = "G-503 MB 4x4";
 	side = 2;
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_G503_MB.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_G503_MB.jpg";
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Driver";
 	hiddenSelectionsTextures[] = 
@@ -16,7 +16,7 @@ class SEP_I_FEB_G503_MB : SPE_G503_MB_Unarmed_base
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -32,7 +32,7 @@ class SEP_I_FEB_G503_MB : SPE_G503_MB_Unarmed_base
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -48,7 +48,7 @@ class SEP_I_FEB_G503_MB_M1919 : SPE_US_G503_MB_M1919_base
 	scopeCurator = 2;
 	displayName = "G-503 MB 4x4 (M1919A4)";
 	side = 2;
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_G503_MB_M1919.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_G503_MB_M1919.jpg";
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Driver";
 	hiddenSelectionsTextures[] = 
@@ -56,7 +56,7 @@ class SEP_I_FEB_G503_MB_M1919 : SPE_US_G503_MB_M1919_base
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -72,7 +72,7 @@ class SEP_I_FEB_G503_MB_M1919 : SPE_US_G503_MB_M1919_base
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -88,7 +88,7 @@ class SEP_I_FEB_G503_MB_Armoured : SPE_G503_MB_Armoured_base
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "G-503 MB 4x4 (Armored)";
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_G503_MB_Armoured.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_G503_MB_Armoured.jpg";
 	side = 2;
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Driver";
@@ -97,7 +97,7 @@ class SEP_I_FEB_G503_MB_Armoured : SPE_G503_MB_Armoured_base
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};	
 	class TextureSources
@@ -113,7 +113,7 @@ class SEP_I_FEB_G503_MB_Armoured : SPE_G503_MB_Armoured_base
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -128,7 +128,7 @@ class SEP_I_FEB_G503_MB_M1919_Armoured : SPE_US_G503_MB_M1919_Armoured_base
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "G-503 MB 4x4 (M1919A4 Armored)";
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_G503_MB_M1919_Armoured.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_G503_MB_M1919_Armoured.jpg";
 	side = 2;
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Driver";
@@ -137,7 +137,7 @@ class SEP_I_FEB_G503_MB_M1919_Armoured : SPE_US_G503_MB_M1919_Armoured_base
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};	
 	class TextureSources
@@ -153,7 +153,7 @@ class SEP_I_FEB_G503_MB_M1919_Armoured : SPE_US_G503_MB_M1919_Armoured_base
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};
@@ -168,7 +168,7 @@ class SEP_I_FEB_G503_MB_Ambulance : SPE_G503_MB_Ambulance_base
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "G-503 MB 4x4 (Medical)";
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_G503_MB_Ambulance.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_G503_MB_Ambulance.jpg";
 	side = 2;
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Driver";
@@ -208,7 +208,7 @@ class SEP_I_FEB_G503_MB_Open : SPE_G503_MB_Open_base
 	scope = 2;
 	scopeCurator = 2;
 	displayName = "G-503 MB 4x4 (Open)";
-	editorPreview = "\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_G503_MB_Open.jpg";
+	editorPreview = "\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\editorPreviews\SEP_I_FEB_G503_MB_Open.jpg";
 	side = 2;
 	faction = "SEP_I_FEB_Units";
 	crew = "SEP_I_FEB_Medic";
@@ -217,7 +217,7 @@ class SEP_I_FEB_G503_MB_Open : SPE_G503_MB_Open_base
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 		"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-		"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
+		"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
 		"\a3\data_f\clear_empty.paa"
 	};		
 	class TextureSources
@@ -233,7 +233,7 @@ class SEP_I_FEB_G503_MB_Open : SPE_G503_MB_Open_base
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_1_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_2_co.paa",
 				"WW2\SPE_Assets_t\Vehicles\Wheeled_U1_t\G503_MB\G503_3_co.paa",
-				"\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
+				"\SEP\SEP_I_FEB\SEP_I_FEB_Vehicles\data\SEP_I_FEB_G503_Decals_ca.paa",//Decals
 				"\a3\data_f\clear_empty.paa"
 			};
 		};

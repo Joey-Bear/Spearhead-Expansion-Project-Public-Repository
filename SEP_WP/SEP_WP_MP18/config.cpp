@@ -63,24 +63,24 @@ class CfgMagazines
         author = "OokamiJamie";
         count = 32;
         displayName = "9x19 32Rnd MP 18/I Mag";
-        picture = "\SEP_WP\SEP_WP_MAS38\data\icons\SEP_WP_MAS38_Mag_ca.paa";
+		model="\SEP\SEP_WP\SEP_WP_MP18\SEP_MAG_MP18_Drop.p3d";
+        picture = "\SEP\SEP_WP\SEP_WP_MP18\data\icons\SEP_WP_MP18_M_ca.paa";
 		mass = 8;
 		scope=2;
 		scopeCurator=2;
 		scopeArsenal=2;
-		magazineWell[] = {};
     };
 	class SEP_WP_MP28_Mag : SPE_32Rnd_9x19_Sten
 	{       
         author = "OokamiJamie";
         count = 32;
         displayName = "9x19 32Rnd MP 28/II Mag";
-        picture = "\SEP_WP\SEP_WP_MAS38\data\icons\SEP_WP_MAS38_Mag_ca.paa";
+		model="\SEP\SEP_WP\SEP_WP_MP18\SEP_MAG_MP28_Drop.p3d";
+        picture = "\SEP\SEP_WP\SEP_WP_MAS38\data\icons\SEP_WP_MAS38_Mag_ca.paa";
 		mass = 8;
 		scope=2;
 		scopeCurator=2;
 		scopeArsenal=2;
-		magazineWell[] = {};
     };
 };
 class CfgMagazineWells
@@ -111,19 +111,19 @@ class CfgWeapons
 		scope=2;
 		displayName="MP 18/I";
 		descriptionShort = "Submachine Gun<br />Caliber: 9x19 mm";
-		picture = "\SEP_WP\SEP_WP_MP18\data\icons\SEP_WP_MP18_ca.paa";
+		picture = "\SEP\SEP_WP\SEP_WP_MP18\data\icons\SEP_WP_MP18_ca.paa";
 		UiPicture = "\WW2\SPE_Assets_t\Weapons\UiPicture_t\Icon_Regular_ca.paa";
 		hiddenSelections[] = {"camo","camo1"};
-		model="\SEP_WP\SEP_WP_MP18\SEP_WP_MP18.p3d";
+		model="\SEP\SEP_WP\SEP_WP_MP18\SEP_WP_MP18.p3d";
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_WP\SEP_WP_MP18\Data\mp18_CO.paa",
-			"\SEP_WP\SEP_WP_MP18\Data\mp18_magazine_CO.paa"
+			"\SEP\SEP_WP\SEP_WP_MP18\Data\mp18_CO.paa",
+			"\SEP\SEP_WP\SEP_WP_MP18\Data\mp18_magazine_CO.paa"
 		};
 		handAnim[]=
 		{
 			"OFP2_ManSkeleton",
-			"\SEP_WP\SEP_WP_MP18\Data\anim\mp18.rtm"
+			"\SEP\SEP_WP\SEP_WP_MP18\Data\anim\mp18.rtm"
 		};
 		magazines[] = {"SEP_WP_MP18_Mag"};
 		magazineWell[] = {"SEP_WP_MP18_Magwell"};
@@ -281,20 +281,19 @@ class CfgWeapons
 		scope=2;
 		displayName="MP 28/II";
 		descriptionShort = "Submachine Gun<br />Caliber: 9x19 mm";
-		picture = "\SEP_WP\SEP_WP_MP18\data\icons\SEP_WP_MP28_ca.paa";
+		picture = "\SEP\SEP_WP\SEP_WP_MP18\data\icons\SEP_WP_MP28_ca.paa";
 		UiPicture = "\WW2\SPE_Assets_t\Weapons\UiPicture_t\Icon_Regular_ca.paa";
-		hiddenSelections[] = {"camo","camo1","camo2"};
-		model="\SEP_WP\SEP_WP_MP18\SEP_WP_MP28.p3d";
+		hiddenSelections[] = {"camo","camo1"};
+		model="\SEP\SEP_WP\SEP_WP_MP18\SEP_WP_MP28.p3d";
 		hiddenSelectionsTextures[] = 
 		{
-			"\SEP_WP\SEP_WP_MP18\Data\mp18_CO.paa",
-			"\SEP_WP\SEP_WP_MP18\Data\mp28_2_CO.paa",
-			"\SEP_WP\SEP_WP_MP18\Data\mp28_CO.paa"
+			"\SEP\SEP_WP\SEP_WP_MP18\Data\mp18_CO.paa",
+			"\SEP\SEP_WP\SEP_WP_MP18\Data\mp28_CO.paa"
 		};
 		handAnim[]=
 		{
 			"OFP2_ManSkeleton",
-			"\SEP_WP\SEP_WP_MP18\Data\anim\mp18.rtm"
+			"\SEP\SEP_WP\SEP_WP_MP18\Data\anim\mp18.rtm"
 		};
 		magazines[] = {"SEP_WP_MP28_Mag"};
 		magazineWell[] = {"SEP_WP_MP28_Magwell"};

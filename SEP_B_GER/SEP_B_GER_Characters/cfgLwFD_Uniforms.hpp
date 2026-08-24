@@ -9,7 +9,7 @@ class SEP_B_GER_U_LwFDSmock_CFV : B_Soldier_F
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_LwFDSmock";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -17,8 +17,8 @@ class SEP_B_GER_U_LwFDSmock_CFV : B_Soldier_F
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_split_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_split_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 
@@ -32,7 +32,7 @@ class SEP_B_GER_U_LwFDSmock_Gaiters_CFV : B_Soldier_F
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_LwFDSmock_Gaiters";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock_Gaiters.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock_Gaiters.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -41,9 +41,9 @@ class SEP_B_GER_U_LwFDSmock_Gaiters_CFV : B_Soldier_F
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_split_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_split_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 
@@ -59,8 +59,8 @@ class SEP_B_GER_U_LwFDSmock_gry_CFV : SEP_B_GER_U_LwFDSmock_CFV
     uniformClass="SEP_B_GER_U_LwFDSmock_gry";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_gry_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_gry_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 
@@ -76,9 +76,9 @@ class SEP_B_GER_U_LwFDSmock_Gaiters_gry_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
     uniformClass="SEP_B_GER_U_LwFDSmock_Gaiters_gry";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_gry_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_gry_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 
@@ -94,8 +94,8 @@ class SEP_B_GER_U_LwFDSmock_Uffz_CFV : SEP_B_GER_U_LwFDSmock_CFV
     uniformClass="SEP_B_GER_U_LwFDSmock_Uffz";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_mix_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_UNTEROFFIZER_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_mix_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_UNTEROFFIZER_CA.paa"
     };
 };
 
@@ -109,7 +109,7 @@ class SEP_B_GER_U_LwFDSmock_Medic_CFV : SEP_B_GER_U_LwFDSmock_CFV
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_LwFDSmock_Medic";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -117,8 +117,8 @@ class SEP_B_GER_U_LwFDSmock_Medic_CFV : SEP_B_GER_U_LwFDSmock_CFV
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_medic_split_grau_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_medic_split_grau_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 
@@ -133,7 +133,7 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_CFV : B_Soldier_F
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_LwFDSmock_Sumpf";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -141,8 +141,8 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_CFV : B_Soldier_F
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 
@@ -156,7 +156,7 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters_CFV : B_Soldier_F
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock_Gaiters.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock_Gaiters.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -165,9 +165,9 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters_CFV : B_Soldier_F
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 
@@ -183,8 +183,8 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_gry_CFV : SEP_B_GER_U_LwFDSmock_Sumpf_CFV
     uniformClass="SEP_B_GER_U_LwFDSmock_Sumpf_gry";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_grau_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_grau_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 
@@ -200,9 +200,9 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters_gry_CFV : SEP_B_GER_U_LwFDSmock_Sumpf_
     uniformClass="SEP_B_GER_U_LwFDSmock_Sumpf_Gaiters_gry";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_grau_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_grau_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 
@@ -218,8 +218,8 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_Uffz_CFV : SEP_B_GER_U_LwFDSmock_Sumpf_CFV
     uniformClass="SEP_B_GER_U_LwFDSmock_Sumpf_Uffz";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_grau_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_UNTEROFFIZER_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_sumpf_grau_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_UNTEROFFIZER_CA.paa"
     };
 };
 
@@ -233,7 +233,7 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_Medic_CFV : SEP_B_GER_U_LwFDSmock_Sumpf_CFV
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_LwFDSmock_Sumpf_Medic";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_LwFDSmock.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -241,8 +241,8 @@ class SEP_B_GER_U_LwFDSmock_Sumpf_Medic_CFV : SEP_B_GER_U_LwFDSmock_Sumpf_CFV
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_Sumpf_grau_medic_co.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_Sumpf_grau_medic_co.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 
@@ -259,9 +259,9 @@ class SEP_B_GER_U_LwFDSmock_ART_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
     uniformClass="SEP_B_GER_U_LwFDSmock_ART";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_split_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_ART_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_split_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_ART_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_LwFDSmock_ART_Uffz_CFV : SEP_B_GER_U_LwFDSmock_CFV
@@ -276,8 +276,8 @@ class SEP_B_GER_U_LwFDSmock_ART_Uffz_CFV : SEP_B_GER_U_LwFDSmock_CFV
     uniformClass="SEP_B_GER_U_LwFDSmock_ART_Uffz";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_split_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_ART_UNTEROFFIZER_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_split_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_ART_UNTEROFFIZER_CA.paa"
     };
 };
 
@@ -293,9 +293,9 @@ class SEP_B_GER_U_LwFDSmock_FSJ_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
     uniformClass="SEP_B_GER_U_LwFDSmock_FSJ";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_split_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_split_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_LwFDSmock_FSJ_gry_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
@@ -310,9 +310,9 @@ class SEP_B_GER_U_LwFDSmock_FSJ_gry_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
     uniformClass="SEP_B_GER_U_LwFDSmock_FSJ_gry";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_gry_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_gry_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_LwFDSmock_FSJ_Uffz_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
@@ -327,9 +327,9 @@ class SEP_B_GER_U_LwFDSmock_FSJ_Uffz_CFV : SEP_B_GER_U_LwFDSmock_Gaiters_CFV
     uniformClass="SEP_B_GER_U_LwFDSmock_FSJ_Uffz";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_gry_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_UNTEROFFIZER_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_LwFDSmock_gry_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Feldbluse_M44_Lows_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_UNTEROFFIZER_CA.paa"
     };
 };
 class SEP_B_GER_U_LwFD_FSJ_Parka_grau_CFV : B_Soldier_F
@@ -342,7 +342,7 @@ class SEP_B_GER_U_LwFD_FSJ_Parka_grau_CFV : B_Soldier_F
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_LwFD_FSJ_Parka_grau";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Parka.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Parka.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -350,8 +350,8 @@ class SEP_B_GER_U_LwFD_FSJ_Parka_grau_CFV : B_Soldier_F
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_grau_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_grau_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix_CFV : SEP_B_GER_U_LwFD_FSJ_Parka_grau_CFV
@@ -365,8 +365,8 @@ class SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix_CFV : SEP_B_GER_U_LwFD_FSJ_Parka_grau_
     uniformClass="SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_grau_mix_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_grau_mix_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_LwFD_FSJ_Parka_wht_CFV : SEP_B_GER_U_LwFD_FSJ_Parka_grau_CFV
@@ -380,8 +380,8 @@ class SEP_B_GER_U_LwFD_FSJ_Parka_wht_CFV : SEP_B_GER_U_LwFD_FSJ_Parka_grau_CFV
     uniformClass="SEP_B_GER_U_LwFD_FSJ_Parka_wht";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_wht_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_wht_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix_uffz_CFV : SEP_B_GER_U_LwFD_FSJ_Parka_grau_CFV
@@ -395,8 +395,8 @@ class SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix_uffz_CFV : SEP_B_GER_U_LwFD_FSJ_Parka_
     uniformClass="SEP_B_GER_U_LwFD_FSJ_Parka_grau_mix_uffz";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_grau_mix_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_UNTEROFFIZER_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_grau_mix_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_FSJ_UNTEROFFIZER_CA.paa"
     };
 };
 
@@ -411,8 +411,8 @@ class SEP_B_GER_U_LwFD_ART_Parka_wht_CFV : SEP_B_GER_U_LwFD_FSJ_Parka_grau_CFV
     uniformClass="SEP_B_GER_U_LwFD_ART_Parka_wht";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_wht_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_ART_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_wht_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_ART_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_LwFD_ART_Parka_wht_uffz_CFV : SEP_B_GER_U_LwFD_ART_Parka_wht_CFV
@@ -426,8 +426,8 @@ class SEP_B_GER_U_LwFD_ART_Parka_wht_uffz_CFV : SEP_B_GER_U_LwFD_ART_Parka_wht_C
     uniformClass="SEP_B_GER_U_LwFD_ART_Parka_wht_uffz";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_wht_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_ART_UNTEROFFIZER_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_wht_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_ART_UNTEROFFIZER_CA.paa"
     };
 };
 
@@ -441,7 +441,7 @@ class SEP_B_GER_U_LwFD_Parka_grau_CFV : B_Soldier_F
     side = 2;
     nakedUniform="U_BasicBody";
     uniformClass="SEP_B_GER_U_LwFD_Parka_grau";
-    model = "\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Parka.p3d";
+    model = "SEP\SEP_B_GER\SEP_B_GER_Characters\SEP_GER_U_Parka.p3d";
     hiddenSelections[] = 
     {
         "camo",
@@ -449,8 +449,8 @@ class SEP_B_GER_U_LwFD_Parka_grau_CFV : B_Soldier_F
     };
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_grau_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_grau_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_LwFD_Parka_grau_mix_CFV : SEP_B_GER_U_LwFD_Parka_grau_CFV
@@ -464,8 +464,8 @@ class SEP_B_GER_U_LwFD_Parka_grau_mix_CFV : SEP_B_GER_U_LwFD_Parka_grau_CFV
     uniformClass="SEP_B_GER_U_LwFD_Parka_grau_mix";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_grau_mix_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_grau_mix_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_LwFD_Parka_wht_CFV : SEP_B_GER_U_LwFD_Parka_grau_CFV
@@ -479,8 +479,8 @@ class SEP_B_GER_U_LwFD_Parka_wht_CFV : SEP_B_GER_U_LwFD_Parka_grau_CFV
     uniformClass="SEP_B_GER_U_LwFD_Parka_wht";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_wht_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_wht_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_SCHUTZE_CA.paa"
     };
 };
 class SEP_B_GER_U_LwFD_Parka_grau_mix_uffz_CFV : SEP_B_GER_U_LwFD_Parka_grau_CFV
@@ -494,7 +494,7 @@ class SEP_B_GER_U_LwFD_Parka_grau_mix_uffz_CFV : SEP_B_GER_U_LwFD_Parka_grau_CFV
     uniformClass="SEP_B_GER_U_LwFD_Parka_grau_mix_uffz";
     hiddenSelectionsTextures[] = 
     {
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_grau_mix_CO.paa",
-        "\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_UNTEROFFIZER_CA.paa"
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_B_GER_U_Parka_grau_mix_CO.paa",
+        "SEP\SEP_B_GER\SEP_B_GER_Characters\data\SEP_GER_LwFD_UNTEROFFIZER_CA.paa"
     };
 };
